@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="SO1E1" group-title="el mentalista",SO1E1
-https://morencius.com/stream/B3d4NWrdMH4oNAJf0wrgqw/hjkrhuihghfvu/1788534213/16918721/master.m3u8
-#EXTINF:-1 tvg-name="SO1E2" group-title="el mentalista",SO1E2
-https://morencius.com/stream/v3s_AEnYyQVjs3tvLRd5yA/hjkrhuihghfvu/1788534326/16918969/master.m3u8
-#EXTINF:-1 tvg-name="SO1E3" group-title="el mentalista",SO1E3
-https://morencius.com/stream/jS_v3-qQYKpyVlJSAlpWcw/hjkrhuihghfvu/1788534472/16918808/master.m3u8
-#EXTINF:-1 tvg-name="SO1E4" group-title="el mentalista",SO1E4
-https://morencius.com/stream/XaLMN5xgeMgyLUbP09jeqg/hjkrhuihghfvu/1788534572/16918750/master.m3u8
-#EXTINF:-1 tvg-name="SO1E5" group-title="el mentalista",SO1E5
-https://morencius.com/stream/BdsvmBBAmGVIqwJXaqBfxw/hjkrhuihghfvu/1788534637/16918928/master.m3u8
-#EXTINF:-1 tvg-name="SO1E6" group-title="el mentalista",SO1E6
-https://morencius.com/stream/B3d4NWrdMH4oNAJf0wrgqw/hjkrhuihghfvu/1788534213/16918721/master.m3u8
-#EXTINF:-1 tvg-name="SO1E7" group-title="el mentalista",SO1E7
-https://znomc6azq2dc.premilkyway.com/hls2/01/07769/okgrbqmab8eh_,l,n,.urlset/master.m3u8?t=4V1H6JX0Pp1DPa6XEtCFDVLlUkNwX6cY65tGvrWmRVM&s=1788491598&e=129600&f=38849665&srv=0gIImnp7KPuSk&i=0.4&sp=500&p1=0gIImnp7KPuSk&p2=0gIImnp7KPuSk&asn=52361
-#EXTINF:-1 tvg-name="SO1E8" group-title="el mentalista",SO1E8
-https://vdkzfuwkpzz7q.premilkyway.com/hls2/01/07769/1e4jnga5j5xm_,l,n,.urlset/master.m3u8?t=SdJBw3q-9JsEdmzmwFbRiKzISxo-cBnwL8oMTvs-I-Y&s=1788491657&e=129600&f=38849687&srv=3wegyoxZ9JubI3z&i=0.4&sp=500&p1=3wegyoxZ9JubI3z&p2=3wegyoxZ9JubI3z&asn=52361
 #EXTINF:-1 tvg-name="SO1E1" group-title="rancho dutton",SO1E1
 https://p1-s100-d1.s1q2105.com/hls/2xEcaGyZdrhqE9ZFzpwysougL0TM5Dn2/index_1920x1080.m3u8?token=952b2ac2470a505acba536b6a33c8a43-1788688924-181.209.89.53-722b02215a2ec256cb031a936deb4944e86127a5588536756b9f0dfbb6f44394
 #EXTINF:-1 tvg-name="SO1E2" group-title="rancho dutton",SO1E2
@@ -33,3 +17,51 @@ https://p1-s25-s4.s1q2105.com/hls/em0YyJVhE9JalgIgAp99YONIUi8AIYDf/index_1920x10
 https://p1-s100-d1.s1q2105.com/hls/YnAoclM3fSuDVwE1eFuHPj55CrpNwLz0/master.m3u8?token=c600fea9c748a494bb79813d79094757-1788689692-181.209.89.53-85c4c75e95f94355e19a8e432ca1f3c40c6fabdcfb17d86f84700b134065c8c4
 #EXTINF:-1 tvg-name="SO1E9" group-title="rancho dutton",SO1E9
 https://p1-s25-s1.s1q2105.com/hls/mAN98NZIFNVukAAZz8vT063hFRk0pFI3/master.m3u8?token=5e9bdec450c796a84450bd1fba8e4aa3-1788689742-181.209.89.53-56d25ba90494b9e3d1e08b522713a1f527324f6b090c52f96778fbfd2d69303f
+#EXTINF:-1 tvg-name="SO1E1" group-title="Chucky",SO1E1
+https://qcsh3mkrd1sg2.premilkyway.com/hls2/01/03819/k3w8qm2tmj2v_,n,h,x,.urlset/master.m3u8?t=WCIaW2QqJPyu1TPGP9WE_gM96UNruqLFCoynn9mbpKM&s=1788670872&e=129600&f=19095335&srv=z6YT6wwf&i=0.4&sp=500&p1=z6YT6wwf&p2=z6YT6wwf&asn=52361
+#EXTINF:-1 tvg-name="SO1E2" group-title="Chucky",SO1E2
+https://cyyroro04xrqr.premilkyway.com/hls2/01/03819/ztaxrb4p7aga_,n,h,x,.urlset/master.m3u8?t=5nFH6HqBkrHiGDnIT1jY2uwWRQHQisYZqYfwc-ayxXQ&s=1788671022&e=129600&f=19095349&srv=o0iqqhz9to4p&i=0.4&sp=500&p1=o0iqqhz9to4p&p2=o0iqqhz9to4p&asn=52361
+#EXTINF:-1 tvg-name="SO1E3" group-title="Chucky",SO1E3
+https://bxs5xkxkyi4y.premilkyway.com/hls2/01/03819/dzoaft8itwz2_,n,h,x,.urlset/master.m3u8?t=Wu1sbqvVaJE4ggGbQjBcNlXVYqtBWQh4iEsB6OvHOW0&s=1788671122&e=129600&f=19095339&srv=o0iqqhz9to4p&i=0.4&sp=500&p1=o0iqqhz9to4p&p2=o0iqqhz9to4p&asn=52361
+#EXTINF:-1 tvg-name="SO1E4" group-title="Chucky",SO1E4
+https://okqtss1gbbnca8e.premilkyway.com/hls2/01/03819/bnh87t1tr8hm_,n,h,x,.urlset/master.m3u8?t=gh3P5HRCsbgOkxvbFwijoKyzG_F5Q_gci3D-mfRAftE&s=1788671173&e=129600&f=19095364&srv=ma1vmsqmq&i=0.4&sp=500&p1=ma1vmsqmq&p2=ma1vmsqmq&asn=52361
+#EXTINF:-1 tvg-name="SO1E5" group-title="Chucky",SO1E5
+https://27u55xdzmm9q.cdn-centaurus.com/hls2/01/03819/wiqa2o7s9wxz_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=9IzJhFjHpz3hhHi3bsCEflIqnL53ysntU-rsXxDTO0A&s=1788671320&e=129600&f=19095395&srv=mvznwsitszvr&i=0.4&sp=500&p1=mvznwsitszvr&p2=mvznwsitszvr&asn=52361
+#EXTINF:-1 tvg-name="SO1E6" group-title="Chucky",SO1E6
+https://g4vsrqvtrj.cdn-centaurus.com/hls2/01/03819/rkiv5xv3a1wi_,n,h,x,.urlset/master.m3u8?t=8XcJGz8jTRdpubJFqytx-d2RSKzDuB1_B3Udq5opWDI&s=1788671723&e=129600&f=19095381&srv=mvznwsitszvr&i=0.4&sp=500&p1=mvznwsitszvr&p2=mvznwsitszvr&asn=52361
+#EXTINF:-1 tvg-name="SO1E7" group-title="Chucky",SO1E7
+https://e9ccawf5esyyffhp.premilkyway.com/hls2/01/03819/k9ps53mg5io8_,n,h,x,.urlset/master.m3u8?t=ZDu94bf7eug8YrOACC5fZOX6Cl2BUz2E4jFOMoeSwxY&s=1788671779&e=129600&f=19095412&srv=jxnu44rmvdct&i=0.4&sp=500&p1=jxnu44rmvdct&p2=jxnu44rmvdct&asn=52361
+#EXTINF:-1 tvg-name="SO1E8" group-title="Chucky",SO1E8
+https://nzbq3n4m6m3.premilkyway.com/hls2/01/03819/1pxwzw3xhf29_,n,h,x,.urlset/master.m3u8?t=BaMmec68lFjCkhpl3di2coyVEntaOHO0OtMPNnCGRzE&s=1788671830&e=129600&f=19095437&srv=haibokmmzopl&i=0.4&sp=500&p1=haibokmmzopl&p2=haibokmmzopl&asn=52361
+#EXTINF:-1 tvg-name="SO2E1" group-title="Chucky",SO2E1
+https://cuyyro04xrqrh.premilkyway.com/hls2/01/03819/wzi065mqkoii_,n,h,x,.urlset/master.m3u8?t=nSO1h3aEoq8NTBfvtU5a3ENvRdQGl9I8wJR5HkqnYCE&s=1788671891&e=129600&f=19095442&srv=ma1vmsqmq&i=0.4&sp=500&p1=ma1vmsqmq&p2=ma1vmsqmq&asn=52361
+#EXTINF:-1 tvg-name="SO2E2" group-title="Chucky",SO2E2
+https://7f12638xuzfg.premilkyway.com/hls2/01/03819/obeoa281awlp_,n,h,x,.urlset/master.m3u8?t=7XWBxXYUSFxsUqEcz1g6wLsMmBYdxclZfrtLl2OvJLY&s=1788671985&e=129600&f=19095495&srv=ma1vmsqmq&i=0.4&sp=500&p1=ma1vmsqmq&p2=ma1vmsqmq&asn=52361
+#EXTINF:-1 tvg-name="SO2E3" group-title="Chucky",SO2E3
+https://g6m5vwc8rl.premilkyway.com/hls2/01/03819/rge4kdjsnaes_,n,h,x,.urlset/master.m3u8?t=yL-jDf5eR5dBuWSDkFixoQATpNFXZWlG2XFDUA6ov60&s=1788672030&e=129600&f=19095494&srv=R7khaR4Jtgqr&i=0.4&sp=500&p1=R7khaR4Jtgqr&p2=R7khaR4Jtgqr&asn=52361
+#EXTINF:-1 tvg-name="SO2E4" group-title="Chucky",SO2E4
+https://vdkzfuwkpzz7q.premilkyway.com/hls2/01/03819/cz6q75twxpi3_,n,h,x,.urlset/master.m3u8?t=ArXcg22Tf2hBHPui1i09Eb-mUUd-l4Dx0bbXiGBz4wM&s=1788672070&e=129600&f=19095473&srv=o0iqqhz9to4p&i=0.4&sp=500&p1=o0iqqhz9to4p&p2=o0iqqhz9to4p&asn=52361
+#EXTINF:-1 tvg-name="SO2E5" group-title="Chucky",SO2E5
+https://e9ccawf5esyyffhp.premilkyway.com/hls2/01/03819/z4okiw17taw0_,n,h,x,.urlset/master.m3u8?t=Ex9aRHIV_xWbItZ1KgnkqusU12jFlmvpMHxX-G2XuNs&s=1788672114&e=129600&f=19095500&srv=o0iqqhz9to4p&i=0.4&sp=500&p1=o0iqqhz9to4p&p2=o0iqqhz9to4p&asn=52361
+#EXTINF:-1 tvg-name="SO2E6" group-title="Chucky",SO2E6
+https://vdkzfuwkpzz7q.premilkyway.com/hls2/01/03819/79en9lp39owo_,n,h,x,.urlset/master.m3u8?t=2lUA2ybYWNV1WTGTr7kJY5ri3rhrxwigWGUcPvOaCp8&s=1788672162&e=129600&f=19095515&srv=jxnu44rmvdct&i=0.4&sp=500&p1=jxnu44rmvdct&p2=jxnu44rmvdct&asn=52361
+#EXTINF:-1 tvg-name="SO2E7" group-title="Chucky",SO2E7
+https://vcvkqwy2zrck.premilkyway.com/hls2/01/03819/ebvcp0obb72c_,n,h,x,.urlset/master.m3u8?t=tcQ-nfmgvmWXSgynPAgiYOIEUSpgQvBnq-ooNX00OQo&s=1788672215&e=129600&f=19095526&srv=T4YmM2A3N95n&i=0.4&sp=500&p1=T4YmM2A3N95n&p2=T4YmM2A3N95n&asn=52361
+#EXTINF:-1 tvg-name="SO2E8" group-title="Chucky",SO2E8
+https://nZBq3n4m6m3.premilkyway.com/hls2/01/03819/vfwphoplu9d6_,n,h,x,.urlset/master.m3u8?t=UfzxJ87wC2bi1igyQxr0BU5TPIB9KOs2CyKlkfe-DBU&s=1788672291&e=129600&f=19095529&srv=mvznwsitszvr&i=0.4&sp=500&p1=mvznwsitszvr&p2=mvznwsitszvr&asn=52361
+#EXTINF:-1 tvg-name="SO3E1" group-title="Chucky",SO3E1
+https://ngr2dnwrdasv7gvg.cdn-centaurus.com/hls2/01/03809/ov1caxrfq0m9_,n,h,x,.urlset/master.m3u8?t=4IBdxhSA6qCLl2jmk8w3TznDX7XndFZS-fOGQbVE6JQ&s=1788672350&e=129600&f=19046710&srv=kxvc1nznlhcdfemm&i=0.4&sp=500&p1=kxvc1nznlhcdfemm&p2=kxvc1nznlhcdfemm&asn=52361
+#EXTINF:-1 tvg-name="SO3E2" group-title="Chucky",SO3E2
+https://sedrfmwrpjxatem5.premilkyway.com/hls2/01/03809/5vnx6b8imq9v_,n,h,x,.urlset/master.m3u8?t=7ZlmJAZ4yEPvl2ZUnHRHoyeR45SLPBMsx3MP_N5w_Qc&s=1788672413&e=129600&f=19046736&srv=o0iqqhz9to4p&i=0.4&sp=500&p1=o0iqqhz9to4p&p2=o0iqqhz9to4p&asn=52361
+#EXTINF:-1 tvg-name="SO3E3" group-title="Chucky",SO3E3
+https://vwyn3lxe5fv5.cdn-centaurus.com/hls2/01/03809/zm68m2td3gzx_,n,h,x,.urlset/master.m3u8?t=g-O2Umv3--RFnH9f6KzYFL0gRPHFZboC8p_WqgnkAgU&s=1788672471&e=129600&f=19046778&srv=mvznwsitszvr&i=0.4&sp=500&p1=mvznwsitszvr&p2=mvznwsitszvr&asn=52361
+#EXTINF:-1 tvg-name="SO3E4" group-title="Chucky",SO3E4
+https://bxs5xkxkyi4y.premilkyway.com/hls2/01/03809/gyyat3o6vlt6_,n,h,x,.urlset/master.m3u8?t=WpAfSfS8CW0DX9R6nekQZqUnxTzJLufDCv9c7Kd1Dm4&s=1788672531&e=129600&f=19046835&srv=o0iqqhz9to4p&i=0.4&sp=500&p1=o0iqqhz9to4p&p2=o0iqqhz9to4p&asn=52361
+#EXTINF:-1 tvg-name="SO3E5" group-title="Chucky",SO3E5
+https://bxs5xkxkyi4y.premilkyway.com/hls2/01/03809/9rxina5yotvf_,n,h,x,.urlset/master.m3u8?t=eLf3xT7FsdSrOLcrWDJ_1_tKeE5XvqafTNY-y6ViIwg&s=1788672590&e=129600&f=19046797&srv=R7khaR4Jtgqr&i=0.4&sp=500&p1=R7khaR4Jtgqr&p2=R7khaR4Jtgqr&asn=52361
+#EXTINF:-1 tvg-name="SO3E6" group-title="Chucky",SO3E6
+https://OkqtSs1gBbNcA8e.premilkyway.com/hls2/01/03809/d4lnnc63clk0_,n,h,x,.urlset/master.m3u8?t=mfnk8L2P5LYk50M6XceeExPMkx_P7yUHPKVVIAzD3bw&s=1788672629&e=129600&f=19046834&srv=R7khaR4Jtgqr&i=0.4&sp=500&p1=R7khaR4Jtgqr&p2=R7khaR4Jtgqr&asn=52361
+#EXTINF:-1 tvg-name="SO3E7" group-title="Chucky",SO3E7
+https://cwfuommwagyrfcg6.cdn-centaurus.com/hls2/01/03769/l0gi0q0q5eyf_,n,h,x,.urlset/master.m3u8?t=ASBgLS_rn5PYglATz0WoBwu6vQUN9-Cv6_IT88IuX7o&s=1788672768&e=129600&f=18845858&srv=tyhlyqrrroqc&i=0.4&sp=500&p1=tyhlyqrrroqc&p2=tyhlyqrrroqc&asn=52361
+#EXTINF:-1 tvg-name="SO3E8" group-title="Chucky",SO3E8
+https://vwyn3lxe5fv5.cdn-centaurus.com/hls2/01/03811/tbxe816kh43l_,n,h,x,.urlset/master.m3u8?t=llZP4SmDqR4TujQ2HnDTbnG30m_pos2fFAgUI-jOmuE&s=1788672821&e=129600&f=19058736&srv=lsgkpxzmgecn8yyd&i=0.4&sp=500&p1=lsgkpxzmgecn8yyd&p2=lsgkpxzmgecn8yyd&asn=52361
