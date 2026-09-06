@@ -1,91 +1,41 @@
 #EXTM3U
-#EXTINF:-1,Azteca uno -1 hora
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
-#EXTINF:-1,Azteca corazón
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
-#EXTINF:-1,Azteca internacional
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
-#EXTINF:-1,Azteca internacional (1080p)
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1,Clic
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
-#EXTINF:-1,Clic
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
-#EXTINF:-1,Corazón
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
-#EXTINF:-1,Dw español (1080p)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1,Hbo
-http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/105.ts
-#EXTINF:-1,Itv deportes
-https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1,Lmb: aym sports
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
-#EXTINF:-1,Las estrellas (1080p)
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1,Motorvision tv
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=535&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=603fb593a99efc002dbf90e4&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=603fb593a99efc002dbf90e4
-#EXTINF:-1,Multimedios bajío
-https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
-#EXTINF:-1,Multimedios ciudad juárez
-https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
-#EXTINF:-1,Multimedios guadalajara
-https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1,Multimedios laguna
-https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:-1,Multimedios monterrey
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1,Multimedios puebla
-https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
-#EXTINF:-1,Multimedios saltillo
-https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
-#EXTINF:-1,Mundo series
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
-#EXTINF:-1,Mytime movie network mexico
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1,Nbcu telemundo texas
-https://nbcu-telemundotexas-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1,Neword
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
-#EXTINF:-1,Nhra tv
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=732&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=60aeb5cd87f9b1002ce12323&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=60aeb5cd87f9b1002ce12323
-#EXTINF:-1,Novelisima
-https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
-#EXTINF:-1,Qello concerts by stingray
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=568&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=5fe27da28c198b002d179199&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=5fe27da28c198b002d179199
-#EXTINF:-1,Run tim acción
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
-#EXTINF:-1,Run tim cine y series
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
-#EXTINF:-1,Run tim comedia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
-#EXTINF:-1,Run tim crimen
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
-#EXTINF:-1,Run tim espanyol
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
-#EXTINF:-1,Run tim films
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1,Run tim latino
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
-#EXTINF:-1,Run time english
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2648
-#EXTINF:-1,Run time familia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
-#EXTINF:-1,Run time france
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2160
-#EXTINF:-1,Run time terror
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
-#EXTINF:-1,Stingray naturescape
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=570&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=5fc70607d783b6002d7a965e&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=5fc70607d783b6002d7a965e
-#EXTINF:-1,Swerve combat
-https://linear-253.frequency.stream/dist/xumo/253/hls/master/playlist.m3u8
-#EXTINF:-1,Telemundo accion
+#EXTINF:-1 tvg-name="TNT serie" group-title="tv pro",TNT serie
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3413
+#EXTINF:-1 tvg-name="hbo family" group-title="tv pro",hbo family
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3391
+#EXTINF:-1 tvg-name="universal premier" group-title="tv pro",universal premier
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72625
+#EXTINF:-1 tvg-name="multicinema" group-title="tv pro",multicinema
+http://173.208.244.50:25461/ATPLUSEN/ysN8PGMW9LPe/72629?token=HkdQWUBZQAsSUAsBBVNTAwEEXA8ABVsBAgFSCgAGX1FdU1oMBQVbB1FEFBEQRRZWVQhmUVISAlIFAwEBHhJMFQAXZ1FXE1gTCVcNAlITSBFADFRdFAoJUg8NBQ8FCQxXSUdIUVcTWBMCUQwLUgFTERhHXEBCVUoLVllsXFdGUAUARwJWRl0OHRIJVmwHVAlSWgEbAhQAGkkVXEBIEApXEwkJFBpRWBZDURJdEVkTVgMBVRsUFFNXEFlBQUEQChsnN0cUGlZJFlReFVFcDRNeEUAWGxQUWUs6RVBATEBVWAsAFxoCEQBAHRILWUs8UgtdWgBaTF9fVhYVDxEOAgAbSkcIV1ZaRQ1DbxZRV0ELRgACVg0LAAEaGA==
+#EXTINF:-1 tvg-name="Star channel" group-title="tv pro",Star channel
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/10010
+#EXTINF:-1 tvg-name="Telemundo acción" group-title="tv pro",Telemundo acción
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1,Telemundo pr (1080p)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1,Teleritmo
-https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1,Televisa telenovelas
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Toon goggles
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
+#EXTINF:-1 tvg-name="axn" group-title="tv pro",axn
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3377
+#EXTINF:-1 tvg-name="Sony channel" group-title="tv pro",Sony channel
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3405
+#EXTINF:-1 tvg-name="amc" group-title="tv pro",amc
+http://199.127.62.247:25461/ATPLUSEN/ysN8PGMW9LPe/72612?token=HkdQWUBZQAsSVgBQBgcFAQJXAABUBggGAQMCAAADCQIGU1kAUFVRAgVEFBEQRRZWVQhmUVISAlIFAwIKHhJMFQAXZ1FXE1gTCVcNAlITSBFADFRdFAoJUg8NBQ8KAg5QSUdIUVcTWBMEXw0KWwdGHxYAQUxTQlYEW2pXXURZWgNHX1ZNX11OE18IZ1cGXAVdUEcDGgYSFEdeRkMaCF5MCglJGlpaRRBQRAMaCUECXQUCRxUaVV9NC0NHShoIEng0R0kaXUtFB19DD1ddQQtGR0dHFRpfQ2cXUkZHSldRVAMXRwIaAhNOE10HQGwAXgpdUQZNUVleS0cNFwUIAhIVRAgKVlFHXhBuQA9cEVkTVgIDVwwLFE0=
+#EXTINF:-1 tvg-name="Cinemax" group-title="tv pro",Cinemax
+http://181.78.0.107:8006/play/a05l/index.m3u8
+#EXTINF:-1 tvg-name="cinecanal" group-title="tv pro",cinecanal
+http://181.78.0.107:8006/play/a077/index.m3u8
+#EXTINF:-1 tvg-name="fx" group-title="tv pro",fx
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3502
+#EXTINF:-1 tvg-name="space" group-title="tv pro",space
+http://205.235.6.29:8000/play/a0yu/index.m3u8
+#EXTINF:-1 tvg-name="Warner channel" group-title="tv pro",Warner channel
+http://205.235.6.29:8000/play/a0ys/index.m3u8
+#EXTINF:-1 tvg-name="multi premier" group-title="tv pro",multi premier
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3575
+#EXTINF:-1 tvg-name="TNT" group-title="tv pro",TNT
+http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/73611
+#EXTINF:-1 tvg-name="universal channel" group-title="tv pro",universal channel
+http://181.78.0.107:8006/play/a06y/index.m3u8
+#EXTINF:-1 tvg-name="dhe" group-title="tv pro",dhe
+http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3383
+#EXTINF:-1 tvg-name="las estrellas" group-title="tv pro",las estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-name="distro comedia" group-title="tv pro",distro comedia
+http://205.235.6.29:8000/play/a0z5/index.m3u8
