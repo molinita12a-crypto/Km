@@ -61,3 +61,15 @@ https://p3.vimeos.zip/hls2/02/00000/m77o89mwro71_,n,h,.urlset/master.m3u8?t=-j_D
 https://p3.vimeos.zip/hls2/02/00000/7l1ixa0eitda_,n,h,.urlset/master.m3u8?t=EifbLIW6--fh1HtuKztdItAHnh7LFJlunq1YZJD5RqA&s=1788755192&e=43200&v=350249411&srv=s8&i=0.0&sp=0&r=e
 #EXTINF:-1 tvg-name="destino final 3" group-title="pelis",destino final 3
 https://p4.vimeos.zip/hls2/03/00000/7ya3y0yg97hh_,n,h,.urlset/master.m3u8?t=bmzqRFHQj-52z_ij7Q-rqyDX6HhMX2_aUopAGqxOMG8&s=1788755315&e=43200&v=350250897&srv=s13&i=0.0&sp=0&r=e
+#EXTINF:-1 tvg-name="Diego: el último adiós" group-title="pelis",Diego: el último adiós
+https://s12.vimeos.net/hls2/03/00000/lm0wl4a1dsi4_h/master.m3u8?t=EEvTAnwFFrfsJAxHiWkEyY8Tsnz4dUzxeo-D91GQPy4&s=1788755937&e=43200&v=350259536&i=0.0&sp=0&r=e
+#EXTINF:-1 tvg-name="sé lo que hicieron el último verano pasado" group-title="pelis",sé lo que hicieron el último verano pasado
+https://p5.vimeos.zip/hls2/02/00006/sqilg5x3iojf_n/index-v1-a2.m3u8?t=WHGlbHjnA1UVr7BwkjA_C0YZxeV-feikAhyLiEpvFJA&s=1788756665&e=43200&v=350272499&srv=s14&i=0.0&sp=0&fr=sqilg5x3iojf&r=e
+#EXTINF:-1 tvg-name="50 sombras más oscura" group-title="pelis",50 sombras más oscura
+https://p3.vimeos.zip/hls2/03/00000/qirxxumj1kh1_,n,h,.urlset/master.m3u8?t=uCx7J30EcA_xMfUZ6eXb_6sF-UhQgHIUV-npPs1qyQU&s=1788756827&e=43200&v=350274834&srv=s9&i=0.0&sp=0&r=e
+#EXTINF:-1 tvg-name="mi perfecto ex" group-title="pelis",mi perfecto ex
+https://s12.vimeos.net/hls2/03/00013/gdn8306o3jh9_,n,h,.urlset/master.m3u8?t=BQQ6Xr9IsfNorYWE5MF_ZxuzO_uD_LE6qfSg5fblyg8&s=1788756909&e=43200&v=350276151&i=0.0&sp=0&r=e
+#EXTINF:-1 tvg-name="Guadalupe: madre de la humanidad" group-title="pelis",Guadalupe: madre de la humanidad
+https://p5.vimeos.zip/hls2/02/00012/nlfffbr25ezv_,n,h,.urlset/master.m3u8?t=pNftSF-ropuutHNGcqL1lZhIbfSSvr8maCWY3STCRqw&s=1788757108&e=43200&v=350279423&srv=s11&i=0.0&sp=0&fr=nlfffbr25ezv&r=e
+#EXTINF:-1 tvg-name="asesino serial" group-title="pelis",asesino serial
+https://s9.vimeos.net/hls2/03/00012/r41l86bjg7ft_h/index-v1-a1.m3u8?t=ZvTL5DM2c6sGK2e7BMyV6j86gRFrGkR8FMvzrfAgKdg&s=1788757253&e=43200&v=350281057&i=0.0&sp=0&fr=r41l86bjg7ft&r=e
