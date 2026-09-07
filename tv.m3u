@@ -1,16 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TNT serie" group-title="tv pro",TNT serie
-http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3413
-#EXTINF:-1 tvg-name="hbo family" group-title="tv pro",hbo family
-http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3391
-#EXTINF:-1 tvg-name="universal premier" group-title="tv pro",universal premier
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72625
+#EXTINF:-1 tvg-name="canal de eventos estelares" group-title="tv pro",canal de eventos estelares
+https://www.dropbox.com/scl/fi/20xmtdeuczujq53kqjtrq/TV.mp4?rlkey=196ck6912s21ya8sq6uloqv3g&st=gzykoakr&dl=1
 #EXTINF:-1 tvg-name="Telemundo acción" group-title="tv pro",Telemundo acción
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-name="amc" group-title="tv pro",amc
-http://199.127.62.247:25461/ATPLUSEN/ysN8PGMW9LPe/72612?token=HkdQWUBZQAsSVgBQBgcFAQJXAABUBggGAQMCAAADCQIGU1kAUFVRAgVEFBEQRRZWVQhmUVISAlIFAwIKHhJMFQAXZ1FXE1gTCVcNAlITSBFADFRdFAoJUg8NBQ8KAg5QSUdIUVcTWBMEXw0KWwdGHxYAQUxTQlYEW2pXXURZWgNHX1ZNX11OE18IZ1cGXAVdUEcDGgYSFEdeRkMaCF5MCglJGlpaRRBQRAMaCUECXQUCRxUaVV9NC0NHShoIEng0R0kaXUtFB19DD1ddQQtGR0dHFRpfQ2cXUkZHSldRVAMXRwIaAhNOE10HQGwAXgpdUQZNUVleS0cNFwUIAhIVRAgKVlFHXhBuQA9cEVkTVgIDVwwLFE0=
-#EXTINF:-1 tvg-name="Cinemax" group-title="tv pro",Cinemax
-http://181.78.0.107:8006/play/a05l/index.m3u8
 #EXTINF:-1 tvg-name="cinecanal" group-title="tv pro",cinecanal
 http://181.78.0.107:8006/play/a077/index.m3u8
 #EXTINF:-1 tvg-name="space" group-title="tv pro",space
