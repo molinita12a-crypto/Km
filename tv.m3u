@@ -5,37 +5,33 @@ http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3413
 http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3391
 #EXTINF:-1 tvg-name="universal premier" group-title="tv pro",universal premier
 http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/72625
-#EXTINF:-1 tvg-name="multicinema" group-title="tv pro",multicinema
-http://173.208.244.50:25461/ATPLUSEN/ysN8PGMW9LPe/72629?token=HkdQWUBZQAsSUAsBBVNTAwEEXA8ABVsBAgFSCgAGX1FdU1oMBQVbB1FEFBEQRRZWVQhmUVISAlIFAwEBHhJMFQAXZ1FXE1gTCVcNAlITSBFADFRdFAoJUg8NBQ8FCQxXSUdIUVcTWBMCUQwLUgFTERhHXEBCVUoLVllsXFdGUAUARwJWRl0OHRIJVmwHVAlSWgEbAhQAGkkVXEBIEApXEwkJFBpRWBZDURJdEVkTVgMBVRsUFFNXEFlBQUEQChsnN0cUGlZJFlReFVFcDRNeEUAWGxQUWUs6RVBATEBVWAsAFxoCEQBAHRILWUs8UgtdWgBaTF9fVhYVDxEOAgAbSkcIV1ZaRQ1DbxZRV0ELRgACVg0LAAEaGA==
-#EXTINF:-1 tvg-name="Star channel" group-title="tv pro",Star channel
-http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/10010
 #EXTINF:-1 tvg-name="Telemundo acción" group-title="tv pro",Telemundo acción
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-name="axn" group-title="tv pro",axn
-http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3377
-#EXTINF:-1 tvg-name="Sony channel" group-title="tv pro",Sony channel
-http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3405
 #EXTINF:-1 tvg-name="amc" group-title="tv pro",amc
 http://199.127.62.247:25461/ATPLUSEN/ysN8PGMW9LPe/72612?token=HkdQWUBZQAsSVgBQBgcFAQJXAABUBggGAQMCAAADCQIGU1kAUFVRAgVEFBEQRRZWVQhmUVISAlIFAwIKHhJMFQAXZ1FXE1gTCVcNAlITSBFADFRdFAoJUg8NBQ8KAg5QSUdIUVcTWBMEXw0KWwdGHxYAQUxTQlYEW2pXXURZWgNHX1ZNX11OE18IZ1cGXAVdUEcDGgYSFEdeRkMaCF5MCglJGlpaRRBQRAMaCUECXQUCRxUaVV9NC0NHShoIEng0R0kaXUtFB19DD1ddQQtGR0dHFRpfQ2cXUkZHSldRVAMXRwIaAhNOE10HQGwAXgpdUQZNUVleS0cNFwUIAhIVRAgKVlFHXhBuQA9cEVkTVgIDVwwLFE0=
 #EXTINF:-1 tvg-name="Cinemax" group-title="tv pro",Cinemax
 http://181.78.0.107:8006/play/a05l/index.m3u8
 #EXTINF:-1 tvg-name="cinecanal" group-title="tv pro",cinecanal
 http://181.78.0.107:8006/play/a077/index.m3u8
-#EXTINF:-1 tvg-name="fx" group-title="tv pro",fx
-http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3502
 #EXTINF:-1 tvg-name="space" group-title="tv pro",space
 http://205.235.6.29:8000/play/a0yu/index.m3u8
 #EXTINF:-1 tvg-name="Warner channel" group-title="tv pro",Warner channel
 http://205.235.6.29:8000/play/a0ys/index.m3u8
-#EXTINF:-1 tvg-name="multi premier" group-title="tv pro",multi premier
-http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3575
-#EXTINF:-1 tvg-name="TNT" group-title="tv pro",TNT
-http://ak-47scan.dyndns.tv:25461/ATPLUSEN/ysN8PGMW9LPe/73611
-#EXTINF:-1 tvg-name="universal channel" group-title="tv pro",universal channel
-http://181.78.0.107:8006/play/a06y/index.m3u8
-#EXTINF:-1 tvg-name="dhe" group-title="tv pro",dhe
-http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/3383
 #EXTINF:-1 tvg-name="las estrellas" group-title="tv pro",las estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-name="distro comedia" group-title="tv pro",distro comedia
 http://205.235.6.29:8000/play/a0z5/index.m3u8
+#EXTINF:-1 tvg-name="sin tetas no hay paraíso" group-title="tv pro",sin tetas no hay paraíso
+https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
+#EXTINF:-1 tvg-name="iCarly" group-title="tv pro",iCarly
+https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
+#EXTINF:-1 tvg-name="acción" group-title="tv pro",acción
+https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjUwMzI0NzI3LTI1ZGYtNDg3ZC1hNDEzLWVmOGU4MDY5MDc4MSIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg4ODAyMDQ4LCJpYXQiOjE3ODg3MTU2NDgsImp0aSI6IjE5NGFmMTU1LWE3ZjUtNDQ4MC1hYjQwLWE1ZGUxZTgzMjljZCJ9.svIzBUeSh1N1-GWuAnC7zWR379j-cCXK3DXHlQg90kU
+#EXTINF:-1 tvg-name="cine acción 2" group-title="tv pro",cine acción 2
+https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
+#EXTINF:-1 tvg-name="romance" group-title="tv pro",romance
+https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjUwMzI0NzI3LTI1ZGYtNDg3ZC1hNDEzLWVmOGU4MDY5MDc4MSIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg4ODAyMDQ4LCJpYXQiOjE3ODg3MTU2NDgsImp0aSI6IjE5NGFmMTU1LWE3ZjUtNDQ4MC1hYjQwLWE1ZGUxZTgzMjljZCJ9.svIzBUeSh1N1-GWuAnC7zWR379j-cCXK3DXHlQg90kU
+#EXTINF:-1 tvg-name="comedia romántica" group-title="tv pro",comedia romántica
+https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/655b5d865812e80008843bd1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjUwMzI0NzI3LTI1ZGYtNDg3ZC1hNDEzLWVmOGU4MDY5MDc4MSIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg4ODAyMDQ4LCJpYXQiOjE3ODg3MTU2NDgsImp0aSI6IjE5NGFmMTU1LWE3ZjUtNDQ4MC1hYjQwLWE1ZGUxZTgzMjljZCJ9.svIzBUeSh1N1-GWuAnC7zWR379j-cCXK3DXHlQg90kU
+#EXTINF:-1 tvg-name="terror" group-title="tv pro",terror
+https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
