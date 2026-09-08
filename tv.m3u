@@ -8,7 +8,7 @@ http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTINF:-1 tvg-name="KM+NOVELAS" group-title="tv pro",KM+NOVELAS
 https://dtsszjrztq9ti.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ab9a7192-fcf6-4c73-b8f0-b89457738e8c/3.m3u8
 #EXTINF:-1 tvg-name="AXN" group-title="tv pro",AXN
-http://iptvpremium.ink:55577/userx4628ww/cuentauserx4628fd/167067
+http://tecnotv.club/9sr5/phpcode/ssiptv.php?c=a01g&token=tecnotokenplustv230516F&f=.m3u8
 #EXTINF:-1 tvg-name="ESPN" group-title="tv pro",ESPN
 http://200.35.176.154:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-name="TNT series" group-title="tv pro",TNT series
@@ -35,3 +35,7 @@ http://tecnotv.club/9sr5/phpcode/ssiptv.php?c=a043&token=tecnotokenplustv230516F
 http://iptvpremium.ink:55577/userx4628ww/cuentauserx4628fd/179542
 #EXTINF:-1 tvg-name="FX" group-title="tv pro",FX
 http://iptvpremium.ink:55577/userx4628ww/cuentauserx4628fd/167070
+#EXTINF:-1 tvg-name="A24" group-title="tv pro",A24
+http://iptvpremium.ink:55577/userx4628ww/cuentauserx4628fd/167909
+#EXTINF:-1 tvg-name="pasiones" group-title="tv pro",pasiones
+http://iptvpremium.ink:55577/userx4628ww/cuentauserx4628fd/179814
