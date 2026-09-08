@@ -1,55 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="canal de eventos estelares" group-title="tv pro",canal de eventos estelares
 https://www.dropbox.com/scl/fi/20xmtdeuczujq53kqjtrq/TV.mp4?rlkey=196ck6912s21ya8sq6uloqv3g&st=gzykoakr&dl=1
-#EXTINF:-1 tvg-name="ESPN 1" group-title="tv pro",ESPN 1
-http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-name="telefe" group-title="tv pro",telefe
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
-#EXTINF:-1 tvg-name="todo noticia" group-title="tv pro",todo noticia
-https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
-#EXTINF:-1 tvg-name="Telemundo acción" group-title="tv pro",Telemundo acción
-https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-name="cinecanal" group-title="tv pro",cinecanal
-http://181.78.0.107:8006/play/a077/index.m3u8
-#EXTINF:-1 tvg-name="space" group-title="tv pro",space
-http://205.235.6.29:8000/play/a0yu/index.m3u8
-#EXTINF:-1 tvg-name="Warner channel" group-title="tv pro",Warner channel
-http://205.235.6.29:8000/play/a0ys/index.m3u8
-#EXTINF:-1 tvg-name="las estrellas" group-title="tv pro",las estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-name="distro comedia" group-title="tv pro",distro comedia
-http://205.235.6.29:8000/play/a0z5/index.m3u8
-#EXTINF:-1 tvg-name="sin tetas no hay paraíso" group-title="tv pro",sin tetas no hay paraíso
-https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
-#EXTINF:-1 tvg-name="iCarly" group-title="tv pro",iCarly
-https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
-#EXTINF:-1 tvg-name="acción" group-title="tv pro",acción
-https://ipv4.pluto.tv/api/tn/video/playout/v2/stitch/hls/channel/5dcde437229eff00091b6c30/3321280/playlist.m3u8?sid=0fa1cd7f-5bcf-4f12-807e-66f576b1f831&deviceId=03121532-066a-4d52-92c0-c328fde0ab1b&jwt=eyJraWQiOiIxOTI4YWMwNi0zODhiLTQxNTAtYjMzZi1jZGQ2NWJjZjU0OTAiLCJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjb3VudHJ5IjoiQVIiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpVUzo3ZGZhNmZhZS1lODZmLTQyYWQtYTUyNy1jNDdhZWY1YWFkZmYiLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiYXBwVmVyc2lvbiI6IjEwLjguMiIsImNsaWVudElEIjoiMDMxMjE1MzItMDY2YS00ZDUyLTkyYzAtYzMyOGZkZTBhYjFiIiwiY2l0eSI6IlBlcmdhbWlubyIsInBvc3RhbENvZGUiOiIyNzAwIiwiaXNzIjoiYm9vdC5wbHV0by50diIsInNlc3Npb25JRCI6IjBmYTFjZDdmLTViY2YtNGYxMi04MDdlLTY2ZjU3NmIxZjgzMSIsImNtQXVkaWVuY2VJRCI6IiIsImZlYXR1cmVzIjp7InZvZFByZXJvbGxBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sImFkSW1wcmVzc2lvblByb3h5Ijp0cnVlfSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiIwMzEyMTUzMi0wNjZhLTRkNTItOTJjMC1jMzI4ZmRlMGFiMWIiLCJmd1ZjSUQyQ29wcGEiOiIwMzEyMTUzMi0wNjZhLTRkNTItOTJjMC1jMzI4ZmRlMGFiMWIiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjAzMTIxNTMyLTA2NmEtNGQ1Mi05MmMwLWMzMjhmZGUwYWIxYiIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMTQsMTAwMTYsMTAwMTUsMTAwMjAsMTAwMjEsMTAwMDAsMTAwMDksMTAwMTMifX0sImFkUG9kUGFyYW1zIjp7InVzUHJpdmFjeSI6IjEtLS0ifSwiZGV2aWNlTG9uIjotNjAuNTc0NywiY2xpZW50SVAiOiIxODEuMjA5Ljg5LjUzIiwiZXhwIjoxNzg4ODg0NjQ5LCJpYXQiOjE3ODg3OTgyNDksImRybSI6eyJsZXZlbCI6IkwzIiwibmFtZSI6IndpZGV2aW5lIn0sImp0aSI6IjMzNDc4N2M0LWFiOTUtNGE2Mi05Y2E5LTQ4ZjEyMGY0YWZmNiIsImUyZUJlYWNvbnMiOmZhbHNlLCJkZXZpY2VUeXBlIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsInNlc3Npb25TdGFydFRpbWUiOjE3ODg3OTgyMzAzNzIsImRldmljZU1ha2UiOiJDaHJvbWUiLCJkZXZpY2VMYXQiOi0zMy44OTEzLCJ0aW1lWm9uZSI6IkFtZXJpY2EvQXJnZW50aW5hL0J1ZW5vc19BaXJlcyIsImRldmljZVZlcnNpb24iOiIxMC44LjIiLCJpc0NsaWVudEROVCI6ZmFsc2UsImF1ZCI6IioucGx1dG8udHYiLCJpc09mZmljZUlQIjpmYWxzZSwiZG1hIjowLCJkZXZpY2VNb2RlbCI6IndlYiIsImFjdGl2ZVJlZ2lvbiI6IkxBVEFNIiwic2VydmVyU2lkZUFkcyI6ZmFsc2V9.qVCsBBLsfWpnGm2AY_iPOTopKUBSlAFctQ0WbILLyVI
-#EXTINF:-1 tvg-name="cine familiar" group-title="tv pro",cine familiar
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/chunks.m3u8?nimblesessionid=664253589
-#EXTINF:-1 tvg-name="argentinísima satelital" group-title="tv pro",argentinísima satelital
-https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:-1 tvg-name="canal 26" group-title="tv pro",canal 26
-https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1 tvg-name="Rcn novelas" group-title="tv pro",Rcn novelas
-https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
-#EXTINF:-1 tvg-name="cine acción 2" group-title="tv pro",cine acción 2
-https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
-#EXTINF:-1 tvg-name="romance" group-title="tv pro",romance
-https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjUwMzI0NzI3LTI1ZGYtNDg3ZC1hNDEzLWVmOGU4MDY5MDc4MSIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg4ODAyMDQ4LCJpYXQiOjE3ODg3MTU2NDgsImp0aSI6IjE5NGFmMTU1LWE3ZjUtNDQ4MC1hYjQwLWE1ZGUxZTgzMjljZCJ9.svIzBUeSh1N1-GWuAnC7zWR379j-cCXK3DXHlQg90kU
-#EXTINF:-1 tvg-name="comedia romántica" group-title="tv pro",comedia romántica
-https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/655b5d865812e80008843bd1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjUwMzI0NzI3LTI1ZGYtNDg3ZC1hNDEzLWVmOGU4MDY5MDc4MSIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg4ODAyMDQ4LCJpYXQiOjE3ODg3MTU2NDgsImp0aSI6IjE5NGFmMTU1LWE3ZjUtNDQ4MC1hYjQwLWE1ZGUxZTgzMjljZCJ9.svIzBUeSh1N1-GWuAnC7zWR379j-cCXK3DXHlQg90kU
-#EXTINF:-1 tvg-name="AMC" group-title="tv pro",AMC
-http://15.204.246.24:8080/AMCHD/index.m3u8
-#EXTINF:-1 tvg-name="AXN" group-title="tv pro",AXN
-http://45.228.235.116:8000/play/a0iy/index.m3u8
-#EXTINF:-1 tvg-name="terror" group-title="tv pro",terror
-https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
-#EXTINF:-1 tvg-name="quiero" group-title="tv pro",quiero
-http://177.234.249.178:8888/MTV/index.m3u8
-#EXTINF:-1 tvg-name="Disney channel" group-title="tv pro",Disney channel
-http://181.78.8.199:8000/play/a0dn/index.m3u8
-#EXTINF:-1 tvg-name="América TV" group-title="tv pro",América TV
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-name="KM+NOVELAS" group-title="tv pro",KM+NOVELAS
 https://dtsszjrztq9ti.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ab9a7192-fcf6-4c73-b8f0-b89457738e8c/3.m3u8
+#EXTINF:-1 tvg-name="AXN" group-title="tv pro",AXN
+http://190.60.37.154:45000/play/a04n/index.m3u8
+#EXTINF:-1 tvg-name="ESPN" group-title="tv pro",ESPN
+http://200.35.176.154:8000/play/a03a/index.m3u8
+#EXTINF:-1 tvg-name="TNT series" group-title="tv pro",TNT series
+http://200.35.176.154:8000/play/a0rs/index.m3u8
+#EXTINF:-1 tvg-name="cartoon network" group-title="tv pro",cartoon network
+http://200.35.176.154:8000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-name="cinecanal" group-title="tv pro",cinecanal
+http://200.35.176.154:8000/play/a046/index.m3u8
+#EXTINF:-1 tvg-name="space" group-title="tv pro",space
+http://200.35.176.154:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-name="AYE" group-title="tv pro",AYE
+http://200.35.176.154:8000/play/a034/index.m3u8
+#EXTINF:-1 tvg-name="cartunito" group-title="tv pro",cartunito
+http://200.35.176.154:8000/play/a011/index.m3u8
+#EXTINF:-1 tvg-name="AMC" group-title="tv pro",AMC
+http://200.35.176.154:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-name="TNT" group-title="tv pro",TNT
+http://200.35.176.154:8000/play/a0r9/index.m3u8
+#EXTINF:-1 tvg-name="cine latino" group-title="tv pro",cine latino
+http://200.35.176.154:8000/play/a043/index.m3u8
