@@ -8,17 +8,19 @@ http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTINF:-1 tvg-name="KM+NOVELAS" group-title="tv pro",KM+NOVELAS
 https://dtsszjrztq9ti.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ab9a7192-fcf6-4c73-b8f0-b89457738e8c/3.m3u8
 #EXTINF:-1 tvg-name="AXN" group-title="tv pro",AXN
-http://190.60.37.154:45000/play/a04n/index.m3u8
+http://iptvpremium.ink:55577/userx4628ww/cuentauserx4628fd/167067
 #EXTINF:-1 tvg-name="ESPN" group-title="tv pro",ESPN
 http://200.35.176.154:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-name="TNT series" group-title="tv pro",TNT series
-http://200.35.176.154:8000/play/a0rs/index.m3u8
+http://iptvpremium.ink:55577/userx4628ww/cuentauserx4628fd/1909
 #EXTINF:-1 tvg-name="cartoon network" group-title="tv pro",cartoon network
 http://200.35.176.154:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-name="cinecanal" group-title="tv pro",cinecanal
 http://200.35.176.154:8000/play/a046/index.m3u8
+#EXTINF:-1 tvg-name="CINE AR" group-title="tv pro",CINE AR
+http://iptvpremium.ink:55577/userx4628ww/cuentauserx4628fd/167928
 #EXTINF:-1 tvg-name="space" group-title="tv pro",space
-http://200.35.176.154:8000/play/a04h/index.m3u8
+http://iptvpremium.ink:55577/userx4628ww/cuentauserx4628fd/167534
 #EXTINF:-1 tvg-name="AYE" group-title="tv pro",AYE
 http://200.35.176.154:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-name="cartunito" group-title="tv pro",cartunito
@@ -29,3 +31,7 @@ http://200.35.176.154:8000/play/a01i/index.m3u8
 http://200.35.176.154:8000/play/a0r9/index.m3u8
 #EXTINF:-1 tvg-name="cine latino" group-title="tv pro",cine latino
 http://tecnotv.club/9sr5/phpcode/ssiptv.php?c=a043&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-name="wwe" group-title="tv pro",wwe
+http://iptvpremium.ink:55577/userx4628ww/cuentauserx4628fd/179542
+#EXTINF:-1 tvg-name="FX" group-title="tv pro",FX
+http://iptvpremium.ink:55577/userx4628ww/cuentauserx4628fd/167070
