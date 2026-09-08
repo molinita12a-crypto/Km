@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="canal de eventos estelares" group-title="tv pro",canal de eventos estelares
 https://www.dropbox.com/scl/fi/20xmtdeuczujq53kqjtrq/TV.mp4?rlkey=196ck6912s21ya8sq6uloqv3g&st=gzykoakr&dl=1
+#EXTINF:-1 tvg-name="TN. TODO NOTICIA" group-title="tv pro",TN. TODO NOTICIA
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 tvg-name="telefe" group-title="tv pro",telefe
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTINF:-1 tvg-name="KM+NOVELAS" group-title="tv pro",KM+NOVELAS
