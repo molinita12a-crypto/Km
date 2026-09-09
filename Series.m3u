@@ -1,19 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="SO1E1" group-title="rancho dutton",SO1E1
-https://s10.vimeos.net/hls2/02/00010/pstf5x5d15w9_h/index-v1-a1.m3u8?t=ju0n3niDT0VVLMutAQr0nz_G-5LkaBb7Lu8ig_S69vI&s=1788750741&e=43200&v=350157803&i=0.0&sp=0&fr=pstf5x5d15w9&r=e
-#EXTINF:-1 tvg-name="SO1E2" group-title="rancho dutton",SO1E2
-https://p4.vimeos.zip/hls2/03/00010/vea33q9kb7ge_h/index-v1-a1.m3u8?t=YnIxzbnSazEpinhjVJY6_xJKUY4OZF-RZwfT9UzUi3s&s=1788750817&e=43200&v=350160845&srv=s11&i=0.0&sp=0&fr=vea33q9kb7ge&r=e
-#EXTINF:-1 tvg-name="SO1E3" group-title="rancho dutton",SO1E3
-https://p4.vimeos.zip/hls2/03/00010/xofi59x0tw4s_n/index-v1-a1.m3u8?t=GZFRHvbedJ0EPwFYn23qgz2c0_6irva-xo6jQPYJnz8&s=1788750919&e=43200&v=350163139&srv=s10&i=0.0&sp=0&fr=xofi59x0tw4s&r=e
-#EXTINF:-1 tvg-name="SO1E4" group-title="rancho dutton",SO1E4
-https://p6.vimeos.zip/hls2/02/00010/o45k9532k6xi_h/index-v1-a1.m3u8?t=fVTIxsC3TaFD_V_L6yrYJ4pMMuOnJ1XlHdIXYtbBxBE&s=1788751052&e=43200&v=350166142&srv=s10&i=0.0&sp=0&fr=o45k9532k6xi&r=e
-#EXTINF:-1 tvg-name="SO1E5" group-title="rancho dutton",SO1E5
-https://s9.vimeos.net/hls2/02/00010/g4hiu032lxgn_h/index-v1-a1.m3u8?t=2PpcbmZ2l2vWefpydH53PDiyFDKy4VomJjyYQzndSbQ&s=1788751159&e=43200&v=350168438&i=0.0&sp=0&fr=g4hiu032lxgn&r=e
-#EXTINF:-1 tvg-name="SO1E6" group-title="rancho dutton",SO1E6
-https://p4.vimeos.zip/hls2/02/00010/6orcemhjsgeo_n/index-v1-a1.m3u8?t=NTTI9WdF13HhcP9xay3O_g-P0df7tBjBpI81p4ndVYg&s=1788751239&e=43200&v=350169560&srv=s14&i=0.0&sp=0&fr=6orcemhjsgeo&r=e
-#EXTINF:-1 tvg-name="SO1E7" group-title="rancho dutton",SO1E7
-https://s9.vimeos.net/hls2/02/00010/j9geuya2p1bf_h/index-v1-a1.m3u8?t=bJy4chd7Z1eKlcOwlGLTuD4ziwZINjepMMaLCG71EUc&s=1788751315&e=43200&v=350171907&i=0.0&sp=0&fr=j9geuya2p1bf&r=e
-#EXTINF:-1 tvg-name="SO1E8" group-title="rancho dutton",SO1E8
-https://p4.vimeos.zip/hls2/02/00011/vxcvs0mi85vq_h/index-v1-a1.m3u8?t=ZnOpR-toI5YYSUfKsFeZHKSJvG7e42Rf2q8eLvsx5Tk&s=1788751374&e=43200&v=350173095&srv=s13&i=0.0&sp=0&fr=vxcvs0mi85vq&r=e
-#EXTINF:-1 tvg-name="SO1E9" group-title="rancho dutton",SO1E9
-https://s9.vimeos.net/hls2/02/00011/ssgbelrnqq6e_h/index-v1-a1.m3u8?t=Os-qsunyo3pX-pqEyzt3hUyjktgSoC2NJ7D31pTkf90&s=1788751472&e=43200&v=350175083&i=0.0&sp=0&fr=ssgbelrnqq6e&r=e
+#EXTINF:-1 tvg-name="SO1E1" group-title="el mentalista",SO1E1
+http://iptvpremium.ink:55577/series/userx4628ww/cuentauserx4628fd/295812.mp4
+#EXTINF:-1 tvg-name="SO1E2" group-title="el mentalista",SO1E2
+http://iptvpremium.ink:55577/series/userx4628ww/cuentauserx4628fd/295813.mp4
