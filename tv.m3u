@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TNT series" group-title="tv",TNT series
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/1909
-#EXTINF:-1 tvg-name="cinecanal" group-title="tv",cinecanal
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/168155
-#EXTINF:-1 tvg-name="Disney channel" group-title="tv",Disney channel
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167672
+#EXTINF:-1 tvg-name="todo noticia" group-title="tv",todo noticia
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/546264
+#EXTINF:-1 tvg-name="canal 26" group-title="tv",canal 26
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/546282
+#EXTINF:-1 tvg-name="telefe" group-title="tv",telefe
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167954
+#EXTINF:-1 tvg-name="el nueve" group-title="tv",el nueve
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/546252
