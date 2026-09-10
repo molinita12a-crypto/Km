@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="todo noticia" group-title="tv",todo noticia
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/546264
-#EXTINF:-1 tvg-name="canal 26" group-title="tv",canal 26
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/546282
-#EXTINF:-1 tvg-name="telefe" group-title="tv",telefe
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167954
-#EXTINF:-1 tvg-name="el nueve" group-title="tv",el nueve
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/546252
+#EXTINF:-1 tvg-name="eventos especiales" group-title="tv",eventos especiales
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/498018
+#EXTINF:-1 tvg-name="km canal 1" group-title="tv",km canal 1
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/252221
+#EXTINF:-1 tvg-name="km Canal 2" group-title="tv",km Canal 2
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/252229
+#EXTINF:-1 tvg-name="km Canal 3" group-title="tv",km Canal 3
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/252222
