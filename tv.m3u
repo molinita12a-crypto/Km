@@ -1,13 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="eventos especiales" group-title="tv",eventos especiales
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/498018
-#EXTINF:-1 tvg-name="km canal 1" group-title="tv",km canal 1
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/252221
-#EXTINF:-1 tvg-name="km Canal 2" group-title="tv",km Canal 2
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/252229
-#EXTINF:-1 tvg-name="km Canal 3" group-title="tv",km Canal 3
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/252222
-#EXTINF:-1 tvg-name="km Canal 4" group-title="tv",km Canal 4
-http://170.39.119.153:8080/UawWx5uEW3Gk/2ZPfNxmFAJKM/252208?token=QkdbAhEMFVgSVARWA1ECUwAAXFNRCQlRU1ZSDlcKAQUMAAFTV1IOUgQTThcSEkVVAA5mCFMbClZXUVcGXBUTEUoAQTwLABVYEgNWBllXBxJNQU0IWlwSXlNUXQ9UDwZVAVcfQRINU0AKXxdZDUoVVRkXXBNZWFw7BgYTXwdcE15XEF8PTkZYDG9VB1gACFMSW0EIQxsbWRcSQV9YEVVdSBsHWhcQBUMHEgsMQA0KGxICDEwPQ0tJRlgNEFoIFRMBQRFWDRENWAwSC0BBEkQbEggQZhNSSkQWBwIIUxYbC0YJRx9BDwVPPVNeDFsEBUNZDg1KQw0bA0ZOQQhZClBFC0s6QwoGRg0MRV0OSA==
-#EXTINF:-1 tvg-name="Discovery" group-title="tv",Discovery
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167562
+#EXTINF:-1 tvg-name="C5N" group-title="tv",C5N
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/546261
+#EXTINF:-1 tvg-name="A24" group-title="tv",A24
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167909
+#EXTINF:-1 tvg-name="LAS ESTRELLAS" group-title="tv",LAS ESTRELLAS
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/283043
+#EXTINF:-1 tvg-name="EL NUEVE" group-title="tv",EL NUEVE
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/546252
+#EXTINF:-1 tvg-name="TELEFE" group-title="tv",TELEFE
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167954
+#EXTINF:-1 tvg-name="EL TRECE" group-title="tv",EL TRECE
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167934
+#EXTINF:-1 tvg-name="TNT SPORT" group-title="tv",TNT SPORT
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167965
