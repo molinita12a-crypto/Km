@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="C5N" group-title="tv",C5N
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/546261
+#EXTINF:-1 tvg-name="TN NOTICIAS" group-title="tv",TN NOTICIAS
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167961
 #EXTINF:-1 tvg-name="A24" group-title="tv",A24
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167909
 #EXTINF:-1 tvg-name="LAS ESTRELLAS" group-title="tv",LAS ESTRELLAS
@@ -13,3 +15,57 @@ http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167954
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167934
 #EXTINF:-1 tvg-name="TNT SPORT" group-title="tv",TNT SPORT
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167965
+#EXTINF:-1 tvg-name="ESPN 2" group-title="tv",ESPN 2
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/546348
+#EXTINF:-1 tvg-name="ESPN 3" group-title="tv",ESPN 3
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167220
+#EXTINF:-1 tvg-name="ESPN 4" group-title="tv",ESPN 4
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/546329
+#EXTINF:-1 tvg-name="TYC SPORT" group-title="tv",TYC SPORT
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167966
+#EXTINF:-1 tvg-name="TYC SPORT INTERNACIONAL" group-title="tv",TYC SPORT INTERNACIONAL
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167261
+#EXTINF:-1 tvg-name="FOX SPORT PREMIUM" group-title="tv",FOX SPORT PREMIUM
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/546340
+#EXTINF:-1 tvg-name="FOX SPORT 2" group-title="tv",FOX SPORT 2
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/546345
+#EXTINF:-1 tvg-name="FOX SPORT 3" group-title="tv",FOX SPORT 3
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/546361
+#EXTINF:-1 tvg-name="CARTOONITO" group-title="tv",CARTOONITO
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167677
+#EXTINF:-1 tvg-name="NICKELODEON" group-title="tv",NICKELODEON
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167684
+#EXTINF:-1 tvg-name="Disney channel" group-title="tv",Disney channel
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167672
+#EXTINF:-1 tvg-name="NICK JR" group-title="tv",NICK JR
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167685
+#EXTINF:-1 tvg-name="TNT" group-title="tv",TNT
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167079
+#EXTINF:-1 tvg-name="CINECANAL" group-title="tv",CINECANAL
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/168155
+#EXTINF:-1 tvg-name="TCM" group-title="tv",TCM
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167538
+#EXTINF:-1 tvg-name="SPACE" group-title="tv",SPACE
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167532
+#EXTINF:-1 tvg-name="FX" group-title="tv",FX
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167070
+#EXTINF:-1 tvg-name="STAR CHANNEL" group-title="tv",STAR CHANNEL
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167073
+#EXTINF:-1 tvg-name="TNT SERIES" group-title="tv",TNT SERIES
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167539
+#EXTINF:-1 tvg-name="TNT NOVELAS" group-title="tv",TNT NOVELAS
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/214394
+#EXTINF:-1 tvg-name="PASIONES" group-title="tv",PASIONES
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/179814
+#EXTINF:-1 tvg-name="UNIVERSAL CINEMA" group-title="tv",UNIVERSAL CINEMA
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/1926
+#EXTINF:-1 tvg-name="AMC" group-title="tv",AMC
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167500
+#EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="tv",ANIMAL PLANET
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167559
+#EXTINF:-1 tvg-name="history channel" group-title="tv",history channel
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167590
+#EXTINF:-1 tvg-name="NAT GEO" group-title="tv",NAT GEO
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167585
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" group-title="tv",DISCOVERY CHANNEL
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167562
