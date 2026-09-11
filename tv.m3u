@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="EVENTOS" group-title="tv",EVENTOS
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/498019
 #EXTINF:-1 tvg-name="C5N" group-title="tv",C5N
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/546261
 #EXTINF:-1 tvg-name="TN NOTICIAS" group-title="tv",TN NOTICIAS
@@ -37,6 +39,8 @@ http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167677
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167684
 #EXTINF:-1 tvg-name="Disney channel" group-title="tv",Disney channel
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167672
+#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="tv",CARTOON NETWORK
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167678
 #EXTINF:-1 tvg-name="NICK JR" group-title="tv",NICK JR
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167685
 #EXTINF:-1 tvg-name="TNT" group-title="tv",TNT
