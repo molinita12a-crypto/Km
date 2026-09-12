@@ -48,7 +48,7 @@ http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167678
 #EXTINF:-1 tvg-name="NICK JR" group-title="tv",NICK JR
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167685
 #EXTINF:-1 tvg-name="TNT" group-title="tv",TNT
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167079
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167540
 #EXTINF:-1 tvg-name="CINECANAL" group-title="tv",CINECANAL
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/168155
 #EXTINF:-1 tvg-name="TCM" group-title="tv",TCM
@@ -57,10 +57,16 @@ http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167538
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167532
 #EXTINF:-1 tvg-name="FX" group-title="tv",FX
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167070
-#EXTINF:-1 tvg-name="STAR CHANNEL" group-title="tv",STAR CHANNEL
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167073
+#EXTINF:-1 tvg-name="HBO" group-title="tv",HBO
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/252276
+#EXTINF:-1 tvg-name="HBO FAMILY" group-title="tv",HBO FAMILY
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167523
 #EXTINF:-1 tvg-name="TNT SERIES" group-title="tv",TNT SERIES
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167539
+#EXTINF:-1 tvg-name="AXN" group-title="tv",AXN
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167067
+#EXTINF:-1 tvg-name="AYE" group-title="tv",AYE
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167063
 #EXTINF:-1 tvg-name="TNT NOVELAS" group-title="tv",TNT NOVELAS
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/214394
 #EXTINF:-1 tvg-name="PASIONES" group-title="tv",PASIONES
@@ -77,3 +83,5 @@ http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167590
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167585
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL" group-title="tv",DISCOVERY CHANNEL
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167562
+#EXTINF:-1 tvg-name="dragon ball z 24/7" group-title="tv",dragon ball z 24/7
+http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/252194
