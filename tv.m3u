@@ -1,30 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="GUÍA" group-title="tv",GUÍA
 https://www.dropbox.com/scl/fi/4ja7ets71d1f7jorpxj3d/gu-a-de-programaci-n.m3u.mp4?rlkey=94xam72wwwkmape98a9iyj0zw&st=5nmvl96r&dl=1
-#EXTINF:-1 tvg-name="EVENTOS" group-title="tv",EVENTOS
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/498019
-#EXTINF:-1 tvg-name="C5N" group-title="tv",C5N
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/546261
-#EXTINF:-1 tvg-name="TN NOTICIAS" group-title="tv",TN NOTICIAS
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167961
+#EXTINF:-1 tvg-name="wwe" group-title="tv",wwe
+http://iptvpremium.ink:55577/josuelite1701/lite202607/179542
+#EXTINF:-1 tvg-name="TN TODO NOTICIA" group-title="tv",TN TODO NOTICIA
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 tvg-name="A24" group-title="tv",A24
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167909
+http://iptvpremium.ink:55577/josuelite1701/lite202607/167909
 #EXTINF:-1 tvg-name="LAS ESTRELLAS" group-title="tv",LAS ESTRELLAS
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/283043
+http://iptvpremium.ink:55577/josuelite1701/lite202607/222319
 #EXTINF:-1 tvg-name="EL NUEVE" group-title="tv",EL NUEVE
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/546252
+http://iptvpremium.ink:55577/josuelite1701/lite202607/546253
 #EXTINF:-1 tvg-name="TELEFE" group-title="tv",TELEFE
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167954
+http://iptvpremium.ink:55577/josuelite1701/lite202607/167955
 #EXTINF:-1 tvg-name="EL TRECE" group-title="tv",EL TRECE
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167934
+http://iptvpremium.ink:55577/josuelite1701/lite202607/167936
 #EXTINF:-1 tvg-name="TNT SPORT" group-title="tv",TNT SPORT
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167965
-#EXTINF:-1 tvg-name="ESPN 2" group-title="tv",ESPN 2
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/546348
+http://iptvpremium.ink:55577/josuelite1701/lite202607/167962
+#EXTINF:-1 tvg-name="ESPN 3" group-title="tv",ESPN 3
+http://iptvpremium.ink:55577/josuelite1701/lite202607/167220
 #EXTINF:-1 tvg-name="ESPN 3" group-title="tv",ESPN 3
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167220
-#EXTINF:-1 tvg-name="ESPN 4" group-title="tv",ESPN 4
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/546329
 #EXTINF:-1 tvg-name="TYC SPORT" group-title="tv",TYC SPORT
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167269
 #EXTINF:-1 tvg-name="TYC SPORT INTERNACIONAL" group-title="tv",TYC SPORT INTERNACIONAL
@@ -37,36 +33,36 @@ http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/546345
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/546361
 #EXTINF:-1 tvg-name="DirecTV sport" group-title="tv",DirecTV sport
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167208
-#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="tv",CARTOON NETWORK
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167678
-#EXTINF:-1 tvg-name="DRAKE Y JOSH 24/7" group-title="tv",DRAKE Y JOSH 24/7
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167684
+#EXTINF:-1 tvg-name="CARTONITO" group-title="tv",CARTONITO
+http://iptvpremium.ink:55577/josuelite1701/lite202607/167677
+#EXTINF:-1 tvg-name="NICK JR" group-title="tv",NICK JR
+http://iptvpremium.ink:55577/josuelite1701/lite202607/258237
 #EXTINF:-1 tvg-name="Disney channel" group-title="tv",Disney channel
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167672
+http://iptvpremium.ink:55577/josuelite1701/lite202607/167672
 #EXTINF:-1 tvg-name="NICK" group-title="tv",NICK
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167685
-#EXTINF:-1 tvg-name="TNT" group-title="tv",TNT
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167540
+#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="tv",CARTOON NETWORK
+http://iptvpremium.ink:55577/josuelite1701/lite202607/167678
 #EXTINF:-1 tvg-name="CINECANAL" group-title="tv",CINECANAL
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/168155
+http://iptvpremium.ink:55577/josuelite1701/lite202607/167504
 #EXTINF:-1 tvg-name="TCM" group-title="tv",TCM
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167538
+http://iptvpremium.ink:55577/josuelite1701/lite202607/167538
 #EXTINF:-1 tvg-name="SPACE" group-title="tv",SPACE
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167532
-#EXTINF:-1 tvg-name="FX" group-title="tv",FX
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167070
+http://iptvpremium.ink:55577/josuelite1701/lite202607/167532
 #EXTINF:-1 tvg-name="HBO" group-title="tv",HBO
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/252276
+http://iptvpremium.ink:55577/josuelite1701/lite202607/252274
+#EXTINF:-1 tvg-name="STAR CHANNEL" group-title="tv",STAR CHANNEL
+http://iptvpremium.ink:55577/josuelite1701/lite202607/167089
 #EXTINF:-1 tvg-name="HBO FAMILY" group-title="tv",HBO FAMILY
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167523
+http://iptvpremium.ink:55577/josuelite1701/lite202607/167523
 #EXTINF:-1 tvg-name="TNT SERIES" group-title="tv",TNT SERIES
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167539
 #EXTINF:-1 tvg-name="AXN" group-title="tv",AXN
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167067
 #EXTINF:-1 tvg-name="AYE" group-title="tv",AYE
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167063
+http://149.51.227.140:8080/josuelite1701/lite202607/167062?token=QkdbAhEMFVgSBAYBVFJRVgdUXQQCWFICUQYGDlYLUFdcVwIGBlUAV1ITThcSEkVVAA5mCFMbClVUVFUAVhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WDAFWDVQfQRINU0AKE1YGU18FBkNPGwRPTVUWDAIJaQBcRw1aABFZDBFbDhwTDVs+AlJdAA1dQw0bAUZOQQxFFBsLCkwJX09ABl4WQlAWUENcFQFSWw1DGxtTCxcNEUQdGwsKTAlfT0ABTxZVXxFcDggVCkMXSkMbG1kXPREARRBLVAVUAEFBWEYHQBwTD1QZOVRfDw1cAkNQXwoRQV8UVxsdRlQKXQoWC0U9QFgGF1tEBQNXWwpVDxtN
 #EXTINF:-1 tvg-name="TNT NOVELAS" group-title="tv",TNT NOVELAS
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/214394
+http://149.51.227.140:8080/josuelite1701/lite202607/214394?token=QkdbAhEMFVgSBwQEWVBUAVYGCFMBAAYCBAADVAcOBQZbAFAFWl0DVlETThcSEkVVAA5mCFMbClZTV1YPUBUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WDAFXC10fQRINU0AKE1MAWF4FAldBFUNSQUQBEA0EWjtdVBJQBlZBWApCDlwdQFoPOVNVDAJXBRUDElVAT0dfF0kTXlcQXw9ORlULREMDQQREDRJQVwpVFRUSBw0WC0IWQBNeVxBfD05GUhpEVAxGCAlZEltBTRIVFRINETwXUxdNQwFYCFYRQF4VUhIdQFgAHmhTDg1XBFRNWQsMEEcMRgoTSBsIXA0LEFgQb0ELUUNcFQFUWgFVBgkSGQ==
 #EXTINF:-1 tvg-name="PASIONES" group-title="tv",PASIONES
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/179814
 #EXTINF:-1 tvg-name="UNIVERSAL CINEMA" group-title="tv",UNIVERSAL CINEMA
