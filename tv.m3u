@@ -36,7 +36,7 @@ http://iptvpremium.ink:55577/josuelite1701/lite202607/546331
 #EXTINF:-1 tvg-name="TNT SPORT 2" group-title="tv",TNT SPORT 2
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167962
 #EXTINF:-1 tvg-name="TNT SPORT PREMIUM" group-title="tv",TNT SPORT PREMIUM
-http://iptvpremium.ink:55577/josuelite1701/lite202607/469744
+https://s2.envivoslatam99.sbs/disney10/tracks-v1a1/mono.m3u8?ip=181.209.89.53&token=74bb3b090274410ee8a9fa3edf8515c2af64a16f-42-1789904898-1789850898
 #EXTINF:-1 tvg-name="DRAGON BALL GT 24/7" group-title="tv",DRAGON BALL GT 24/7
 http://iptvpremium.ink:55577/josuelite1701/lite202607/252195
 #EXTINF:-1 tvg-name="NICKELODEON" group-title="tv",NICKELODEON
@@ -52,7 +52,7 @@ http://149.51.227.140:8080/josuelite1701/lite202607/168155?token=QkdbAhEMFVgSBVI
 #EXTINF:-1 tvg-name="TCM" group-title="tv",TCM
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167538
 #EXTINF:-1 tvg-name="SPACE" group-title="tv",SPACE
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167532
+http://iptvpremium.ink:55577/josuelite1701/lite202607/167534
 #EXTINF:-1 tvg-name="HBO" group-title="tv",HBO
 http://iptvpremium.ink:55577/josuelite1701/lite202607/252274
 #EXTINF:-1 tvg-name="STAR CHANNEL" group-title="tv",STAR CHANNEL
@@ -101,3 +101,5 @@ http://iptvpremium.ink:55577/josuelite1701/lite202607/193119
 http://170.39.119.153:8080/josuelite1701/lite202607/252246?token=QkdbAhEMFVgSUFpUVwMOBlZWDQNRWwYHUAEABwJaBVRYUlBQAFcHUQMTThcSEkVVAA5mCFMbClZXUVcCUhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9SAAdQDlQfQRINU0AKE1MEWV4PEk1BXBlDXEIKAw86UgFPWAdcRwkNFwhbThJeDGoFA1pRDwcbWxUIEkhAChZGRgNfEVUJH0EADUMQUUUHF1tEBgNZUhtNFVpfEQwXF09GA18RVQkfQQccQwdeQgtaD0QNEhUQG00VUEM7EAYWQhZcUAlcFxFZQFQVThJcA00+BVheDwZaFV5WXhdAWUcFRhUTCVYLWhcNFmgSWVVAD0NXBgRQUxsc
 #EXTINF:-1 tvg-name="Netflix 1 película" group-title="tv",Netflix 1 película
 http://iptvpremium.ink:55577/josuelite1701/lite202607/252234
+#EXTINF:-1 tvg-name="APPLE TV 24/ 7" group-title="tv",APPLE TV 24/ 7
+http://iptvpremium.ink:55577/josuelite1701/lite202607/252385
