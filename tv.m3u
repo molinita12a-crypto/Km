@@ -1,10 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="guía de canales" group-title="tv",guía de canales
 https://www.dropbox.com/scl/fi/r5kp6e8qd0y8qjy4r09m5/gemini_generated_video_ce829742.mp4?rlkey=biieein0d4c45w6v35q76lvy8&st=sqvzdyg0&dl=1
+#EXTINF:-1 tvg-name="Netflix eventos" group-title="tv",Netflix eventos
+http://iptvpremium.ink:55577/32223489944/31134889944/498017
 #EXTINF:-1 tvg-name="CANAL 26" group-title="tv",CANAL 26
 http://iptvpremium.ink:55577/josuelite1701/lite202607/546282
 #EXTINF:-1 tvg-name="TN TODO NOTICIA" group-title="tv",TN TODO NOTICIA
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+#EXTINF:-1 tvg-name="noticias" group-title="tv",noticias
+http://iptvpremium.ink:55577/32223489944/31134889944/244293
 #EXTINF:-1 tvg-name="A24" group-title="tv",A24
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167909
 #EXTINF:-1 tvg-name="C5N" group-title="tv",C5N
@@ -13,6 +17,8 @@ http://iptvpremium.ink:55577/josuelite1701/lite202607/546279
 http://iptvpremium.ink:55577/josuelite1701/lite202607/222319
 #EXTINF:-1 tvg-name="EL NUEVE" group-title="tv",EL NUEVE
 http://iptvpremium.ink:55577/josuelite1701/lite202607/546253
+#EXTINF:-1 tvg-name="KM+" group-title="tv",KM+
+http://iptvpremium.ink:55577/32223489944/31134889944/451617
 #EXTINF:-1 tvg-name="TELEFE" group-title="tv",TELEFE
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167955
 #EXTINF:-1 tvg-name="EL TRECE" group-title="tv",EL TRECE
@@ -99,9 +105,5 @@ http://iptvpremium.ink:55577/josuelite1701/lite202607/167560
 http://iptvpremium.ink:55577/josuelite1701/lite202607/193119
 #EXTINF:-1 tvg-name="La hija del mariachi  24/7" group-title="tv",La hija del mariachi  24/7
 http://170.39.119.153:8080/josuelite1701/lite202607/252246?token=QkdbAhEMFVgSUFpUVwMOBlZWDQNRWwYHUAEABwJaBVRYUlBQAFcHUQMTThcSEkVVAA5mCFMbClZXUVcCUhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9SAAdQDlQfQRINU0AKE1MEWV4PEk1BXBlDXEIKAw86UgFPWAdcRwkNFwhbThJeDGoFA1pRDwcbWxUIEkhAChZGRgNfEVUJH0EADUMQUUUHF1tEBgNZUhtNFVpfEQwXF09GA18RVQkfQQccQwdeQgtaD0QNEhUQG00VUEM7EAYWQhZcUAlcFxFZQFQVThJcA00+BVheDwZaFV5WXhdAWUcFRhUTCVYLWhcNFmgSWVVAD0NXBgRQUxsc
-#EXTINF:-1 tvg-name="Netflix 1 película" group-title="tv",Netflix 1 película
-http://iptvpremium.ink:55577/josuelite1701/lite202607/252234
-#EXTINF:-1 tvg-name="APPLE TV 24/ 7" group-title="tv",APPLE TV 24/ 7
-http://iptvpremium.ink:55577/josuelite1701/lite202607/252385
 #EXTINF:-1 tvg-name="KM+ CINE COMEDIA" group-title="tv",KM+ CINE COMEDIA
 http://iptvpremium.ink:55577/josuelite1701/lite202607/445470
