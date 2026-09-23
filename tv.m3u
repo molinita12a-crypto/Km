@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="guía de canales" group-title="tv",guía de canales
-http://iptvpremium.ink:55577/josuelite1701/lite202607/498017
 #EXTINF:-1 tvg-name="Netflix eventos" group-title="tv",Netflix eventos
 http://170.39.119.153:8080/josuelite1701/lite202607/498017?token=QkdbAhEMFVgSAVABV1ICBlBVDlUDDVVXAVQDUAIBAVQIUlVaUgJVVwETThcSEkVVAA5mCFMbClBbW1UHUxUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXAZVCgNSD1YfQRINU0AKE1QCUV8VHEMGQRVSS14FDjwBUxJQUgEbX10WDggbQF9fPVEEC1ZeBUEDQwYbHEYLEBUUXldECFVJEQELEEUDRFRAD0NXBgZUQRVDVFZFChYRHBReV0QIVUkRBhoQUgxDWA1bQ1wVRBJBFUNeSm8WBxARRAFYXAFLRwlBUkYbQF1QGmoCCVleBABNCFhXQ0ZYQVYUSBtcC1cMRwwQO0cLVBNYF1dQAAdDHg==
 #EXTINF:-1 tvg-name="CANAL 26" group-title="tv",CANAL 26
@@ -8,7 +6,7 @@ http://iptvpremium.ink:55577/josuelite1701/lite202607/546282
 #EXTINF:-1 tvg-name="TN TODO NOTICIA" group-title="tv",TN TODO NOTICIA
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 tvg-name="noticias" group-title="tv",noticias
-http://iptvpremium.ink:55577/32223489944/31134889944/244293
+http://iptvpremium.ink:55577/josuelite1701/lite202607/195561
 #EXTINF:-1 tvg-name="A24" group-title="tv",A24
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167909
 #EXTINF:-1 tvg-name="C5N" group-title="tv",C5N
@@ -107,5 +105,5 @@ http://iptvpremium.ink:55577/josuelite1701/lite202607/193119
 http://170.39.119.153:8080/josuelite1701/lite202607/252246?token=QkdbAhEMFVgSUFpUVwMOBlZWDQNRWwYHUAEABwJaBVRYUlBQAFcHUQMTThcSEkVVAA5mCFMbClZXUVcCUhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9SAAdQDlQfQRINU0AKE1MEWV4PEk1BXBlDXEIKAw86UgFPWAdcRwkNFwhbThJeDGoFA1pRDwcbWxUIEkhAChZGRgNfEVUJH0EADUMQUUUHF1tEBgNZUhtNFVpfEQwXF09GA18RVQkfQQccQwdeQgtaD0QNEhUQG00VUEM7EAYWQhZcUAlcFxFZQFQVThJcA00+BVheDwZaFV5WXhdAWUcFRhUTCVYLWhcNFmgSWVVAD0NXBgRQUxsc
 #EXTINF:-1 tvg-name="KM+ CINE COMEDIA" group-title="tv",KM+ CINE COMEDIA
 http://iptvpremium.ink:55577/josuelite1701/lite202607/445470
-#EXTINF:-1 tvg-name="KM+ CORAJE" group-title="tv",KM+ CORAJE
-http://iptvpremium.ink:55577/32223489944/31134889944/193190
+#EXTINF:-1 tvg-name="KM+ series" group-title="tv",KM+ series
+http://iptvpremium.ink:55577/josuelite1701/lite202607/167064
