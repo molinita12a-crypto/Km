@@ -105,3 +105,9 @@ http://170.39.119.153:8080/josuelite1701/lite202607/252246?token=QkdbAhEMFVgSUFp
 http://iptvpremium.ink:55577/josuelite1701/lite202607/445470
 #EXTINF:-1 tvg-name="KM+ series" group-title="tv",KM+ series
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167064
+#EXTINF:-1 tvg-name="KM +CINE 1" group-title="tv",KM +CINE 1
+http://iptvpremium.ink:55577/josuelite1701/lite202607/469970
+#EXTINF:-1 tvg-name="KM + CINE 2" group-title="tv",KM + CINE 2
+http://iptvpremium.ink:55577/josuelite1701/lite202607/469971
+#EXTINF:-1 tvg-name="KM + CINE 3" group-title="tv",KM + CINE 3
+http://iptvpremium.ink:55577/josuelite1701/lite202607/469974
