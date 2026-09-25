@@ -1,117 +1,127 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Netflix eventos" group-title="tv",Netflix eventos
-http://170.39.119.153:8080/josuelite1701/lite202607/498017?token=QkdbAhEMFVgSAVABV1ICBlBVDlUDDVVXAVQDUAIBAVQIUlVaUgJVVwETThcSEkVVAA5mCFMbClBbW1UHUxUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXAZVCgNSD1YfQRINU0AKE1QCUV8VHEMGQRVSS14FDjwBUxJQUgEbX10WDggbQF9fPVEEC1ZeBUEDQwYbHEYLEBUUXldECFVJEQELEEUDRFRAD0NXBgZUQRVDVFZFChYRHBReV0QIVUkRBhoQUgxDWA1bQ1wVRBJBFUNeSm8WBxARRAFYXAFLRwlBUkYbQF1QGmoCCVleBABNCFhXQ0ZYQVYUSBtcC1cMRwwQO0cLVBNYF1dQAAdDHg==
-#EXTINF:-1 tvg-name="CANAL 26" group-title="tv",CANAL 26
-http://iptvpremium.ink:55577/josuelite1701/lite202607/546282
-#EXTINF:-1 tvg-name="TN TODO NOTICIA" group-title="tv",TN TODO NOTICIA
-https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
-#EXTINF:-1 tvg-name="noticias" group-title="tv",noticias
-http://iptvpremium.ink:55577/josuelite1701/lite202607/195561
-#EXTINF:-1 tvg-name="A24" group-title="tv",A24
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167909
-#EXTINF:-1 tvg-name="C5N" group-title="tv",C5N
-http://iptvpremium.ink:55577/josuelite1701/lite202607/546279
-#EXTINF:-1 tvg-name="LAS ESTRELLAS" group-title="tv",LAS ESTRELLAS
-http://iptvpremium.ink:55577/josuelite1701/lite202607/222319
-#EXTINF:-1 tvg-name="EL NUEVE" group-title="tv",EL NUEVE
-http://iptvpremium.ink:55577/josuelite1701/lite202607/546253
-#EXTINF:-1 tvg-name="TV PÚBLICA" group-title="tv",TV PÚBLICA
-http://iptvpremium.ink:55577/josuelite1701/lite202607/546268
-#EXTINF:-1 tvg-name="TELEFE" group-title="tv",TELEFE
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167955
-#EXTINF:-1 tvg-name="EL TRECE" group-title="tv",EL TRECE
-http://170.39.119.153:8080/josuelite1701/lite202607/167936?token=QkdbAhEMFVgSV1dXVFAOUVdbX1EHWAldVQYDAFBaA1IOAVYFAFEFVgITThcSEkVVAA5mCFMbClVUVFwFUhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WAAdXDF0fQRINU0AKXxdZDUoVVRkXXBNZWFw7BgYTXwdcE15XEF8PTkZYDG9VB1gACFMSW0EIQxsbWRcSQV9YEVVdSBsHWhcQBUMHEgsMQA0KGxICDEwPQ0tJRlgNEFoIFRMBQRFWDRENWAwSC0BBEkQbEggQZhNSSkQWBwIIUxYbC0YJRx9BDwVPPVNeDFsEBUNZDg1KQw0bA0ZOQQhZClBFC0s6QwoGRg0MRV0OSA==
-#EXTINF:-1 tvg-name="ESPN 3" group-title="tv",ESPN 3
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167220
-#EXTINF:-1 tvg-name="DIRECTV SPORT" group-title="tv",DIRECTV SPORT
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167208
-#EXTINF:-1 tvg-name="STAR +" group-title="tv",STAR +
-http://iptvpremium.ink:55577/josuelite1701/lite202607/170979
-#EXTINF:-1 tvg-name="ESPN 3" group-title="tv",ESPN 3
-http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167220
-#EXTINF:-1 tvg-name="ESPN premium" group-title="tv",ESPN premium
-http://iptvpremium.ink:55577/josuelite1701/lite202607/179199
-#EXTINF:-1 tvg-name="TYC SPORT" group-title="tv",TYC SPORT
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167269
-#EXTINF:-1 tvg-name="TNT SPORT" group-title="tv",TNT SPORT
-http://iptvpremium.ink:55577/josuelite1701/lite202607/546331
-#EXTINF:-1 tvg-name="TNT SPORT 2" group-title="tv",TNT SPORT 2
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167962
-#EXTINF:-1 tvg-name="TNT SPORT PREMIUM" group-title="tv",TNT SPORT PREMIUM
-https://s2.envivoslatam99.sbs/disney10/tracks-v1a1/mono.m3u8?ip=181.209.89.53&token=74bb3b090274410ee8a9fa3edf8515c2af64a16f-42-1789904898-1789850898
-#EXTINF:-1 tvg-name="DRAGON BALL GT 24/7" group-title="tv",DRAGON BALL GT 24/7
-http://iptvpremium.ink:55577/josuelite1701/lite202607/252195
-#EXTINF:-1 tvg-name="NICKELODEON" group-title="tv",NICKELODEON
-http://iptvpremium.ink:55577/josuelite1701/lite202607/258237
-#EXTINF:-1 tvg-name="DISNEY JR" group-title="tv",DISNEY JR
-http://149.51.227.140:8080/josuelite1701/lite202607/167682?token=QkdbAhEMFVgSUlsGVVVWBlIBDQADAAEHV1QGB1cNVQYMBgYBBlNTAwITThcSEkVVAA5mCFMbClVUVFMOVhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WAARRDFEfQRINU0AKE1MAUF4AA1VBFUNSQUQBEA0EWjtdVBJQBlZBWApCDlwdQFoPOVNVDAJXBRUDElVAT0dfF0kTXlcQXw9ORlULREMDQQREDRJYWwBDGxtTCxcNEUQdGwsKTAlfT0ABTxZVXxFcDggVCkMXSkMbG1kXPREARRBLVAVUAEFBWEYHQBwTD1QZOVRfDw1cAkNQXwoRQV8UVxsdRlQKXQoWC0U9QFgGF1tEBgVUUg5YBxtN
-#EXTINF:-1 tvg-name="Disney channel" group-title="tv",Disney channel
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167672
-#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="tv",CARTOON NETWORK
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167678
-#EXTINF:-1 tvg-name="CINECANAL" group-title="tv",CINECANAL
-http://149.51.227.140:8080/josuelite1701/lite202607/168155?token=QkdbAhEMFVgSBVIAU1NSCVFUWANWDwVdVAVXUAYJCAEJBlYBV11SUQMTThcSEkVVAA5mCFMbClVUW1QDURUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WAAZUAFwfQRINU0AKXxdZDUoVVRkXXBNZWFw7BgYTXwdcE15XEF8PTkZYDG9VB1gACFMSW0EIQxsbWRcSQV9YEVVdSBsHWhcQBUMHEgsMQA0KGxICDEwPQ0tJRlgNEFoIFRMBQRFWDRENWAwSC0BBEkQbEggQZhNSSkQWBwIIUxYbC0YJRx9BDwVPPVNeDFsEBUNZDg1KQw0bA0ZOQQhZClBFC0s6QwoGRg0MRV0OSA==
-#EXTINF:-1 tvg-name="TCM" group-title="tv",TCM
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167538
-#EXTINF:-1 tvg-name="SPACE" group-title="tv",SPACE
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167534
-#EXTINF:-1 tvg-name="HBO" group-title="tv",HBO
-http://iptvpremium.ink:55577/josuelite1701/lite202607/252274
-#EXTINF:-1 tvg-name="STAR CHANNEL" group-title="tv",STAR CHANNEL
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167089
-#EXTINF:-1 tvg-name="HBO FAMILY" group-title="tv",HBO FAMILY
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167523
-#EXTINF:-1 tvg-name="AXN" group-title="tv",AXN
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167065
-#EXTINF:-1 tvg-name="AYE" group-title="tv",AYE
-http://149.51.227.140:8080/josuelite1701/lite202607/167062?token=QkdbAhEMFVgSBAYBVFJRVgdUXQQCWFICUQYGDlYLUFdcVwIGBlUAV1ITThcSEkVVAA5mCFMbClVUVFUAVhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WDAFWDVQfQRINU0AKE1YGU18FBkNPGwRPTVUWDAIJaQBcRw1aABFZDBFbDhwTDVs+AlJdAA1dQw0bAUZOQQxFFBsLCkwJX09ABl4WQlAWUENcFQFSWw1DGxtTCxcNEUQdGwsKTAlfT0ABTxZVXxFcDggVCkMXSkMbG1kXPREARRBLVAVUAEFBWEYHQBwTD1QZOVRfDw1cAkNQXwoRQV8UVxsdRlQKXQoWC0U9QFgGF1tEBQNXWwpVDxtN
-#EXTINF:-1 tvg-name="TNT SERIES" group-title="tv",TNT SERIES
-http://170.39.119.153:8080/32223489944/31134889944/1909?token=QkdbAhEMFVgSUwFTVwQEUwAHDwNUWFZUBAZTDgANUwEMBwNSAwFTBgETThcSEkVVAA5mCFMbClVbU1waRkxCAUs6WgdAXhVQBwBUAlREGxIVClQEFQMBU1paXQFcCAZRFUdDCgZGDUACCVAEU0QbEgQbTQRFV1EIPQcAQA1aVEYDC0YPDkgVDV5uBlAMB1lUQ1kbUBUVEg0RE0cMCkxdCBVHUQoWFlYWVRNYF1BTBARDTxsCWExeEBAaRwwKTF0IFUdWGxYBWRFZXgwXW0RDQ0NPGwhEZkIBERcXUwVUVBYbXxFTQEgVD1FJPVYOCFlVAhdQDllKEl5AUEcaRlReClARXBE9FF4GEgtABlJUBAhDHg==
-#EXTINF:-1 tvg-name="TNT NOVELAS" group-title="tv",TNT NOVELAS
-http://149.51.227.140:8080/josuelite1701/lite202607/214394?token=QkdbAhEMFVgSBwQEWVBUAVYGCFMBAAYCBAADVAcOBQZbAFAFWl0DVlETThcSEkVVAA5mCFMbClZTV1YPUBUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WDAFXC10fQRINU0AKE1MAWF4FAldBFUNSQUQBEA0EWjtdVBJQBlZBWApCDlwdQFoPOVNVDAJXBRUDElVAT0dfF0kTXlcQXw9ORlULREMDQQREDRJQVwpVFRUSBw0WC0IWQBNeVxBfD05GUhpEVAxGCAlZEltBTRIVFRINETwXUxdNQwFYCFYRQF4VUhIdQFgAHmhTDg1XBFRNWQsMEEcMRgoTSBsIXA0LEFgQb0ELUUNcFQFUWgFVBgkSGQ==
-#EXTINF:-1 tvg-name="NOVELAS MEXICANA" group-title="tv",NOVELAS MEXICANA
-http://170.39.119.153:8080/josuelite1701/lite202607/252185?token=QkdbAhEMFVgSB1EHU1cDUVVVAAMHDAZUAFQADlQIBVZaV1AHV10HAAYTThcSEkVVAA5mCFMbClZXUVQOURUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WAARdC1EfQRINU0AKE1EAVVYDEk1BXBlDXEIKAw86UgFPWAdcRwkNFwhbThJeDGoFA1pRDwcbWxUIEkhAChZGRgNfEVUJH0EADUMQUUUHF1tEBQdUUhtNFVpfEQwXF09GA18RVQkfQQccQwdeQgtaD0QNEhUQG00VUEM7EAYWQhZcUAlcFxFZQFQVThJcA00+BVheDwZaFV5WXhdAWUcFRhUTCVYLWhcNFmgSWVVAD0NVAgNYVhsc
-#EXTINF:-1 tvg-name="PASIONES" group-title="tv",PASIONES
-http://iptvpremium.ink:55577/josuelite1701/lite202607/179814
-#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL" group-title="tv",UNIVERSAL CHANNEL
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167081
-#EXTINF:-1 tvg-name="STAR CHANNEL" group-title="tv",STAR CHANNEL
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167073
-#EXTINF:-1 tvg-name="FX" group-title="tv",FX
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167070
-#EXTINF:-1 tvg-name="PARAMOUNT PLUS" group-title="tv",PARAMOUNT PLUS
-http://149.51.227.140:8080/josuelite1701/lite202607/462206?token=QkdbAhEMFVgSUFYHBVYCBlUAWFUGCAJcBFBTB1ABV1IMUABSAQEEW1QTThcSEkVVAA5mCFMbClBUUVcGUhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WDAJWClMfQRINU0AKE1sMUlMEA0NPGwRPTVUWDAIJaQBcRw1aABFZDBFbDhwTDVs+AlJdAA1dQw0bAUZOQQxFFBsLCkwJX09ABl4WQlAWUENcFQJQUAlDGxtTCxcNEUQdGwsKTAlfT0ABTxZVXxFcDggVCkMXSkMbG1kXPREARRBLVAVUAEFBWEYHQBwTD1QZOVRfDw1cAkNQXwoRQV8UVxsdRlQKXQoWC0U9QFgGF1tEDglSVwFXFUQ=
-#EXTINF:-1 tvg-name="SONY MOVIE" group-title="tv",SONY MOVIE
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167549
-#EXTINF:-1 tvg-name="SONY CHANNEL" group-title="tv",SONY CHANNEL
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167087
-#EXTINF:-1 tvg-name="WARNER" group-title="tv",WARNER
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167083
-#EXTINF:-1 tvg-name="AMC" group-title="tv",AMC
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167502
-#EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="tv",ANIMAL PLANET
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167559
-#EXTINF:-1 tvg-name="CINE AR" group-title="tv",CINE AR
-http://iptvpremium.ink:55577/wd3hua2NDkQ4/vbZddunnpCY3/167928
-#EXTINF:-1 tvg-name="history channel" group-title="tv",history channel
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167590
-#EXTINF:-1 tvg-name="NAT GEO" group-title="tv",NAT GEO
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167585
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" group-title="tv",DISCOVERY CHANNEL
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167560
-#EXTINF:-1 tvg-name="LOS SIMPSON 24/7" group-title="tv",LOS SIMPSON 24/7
-http://iptvpremium.ink:55577/josuelite1701/lite202607/193119
-#EXTINF:-1 tvg-name="La hija del mariachi  24/7" group-title="tv",La hija del mariachi  24/7
-http://170.39.119.153:8080/josuelite1701/lite202607/252246?token=QkdbAhEMFVgSUFpUVwMOBlZWDQNRWwYHUAEABwJaBVRYUlBQAFcHUQMTThcSEkVVAA5mCFMbClZXUVcCUhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9SAAdQDlQfQRINU0AKE1MEWV4PEk1BXBlDXEIKAw86UgFPWAdcRwkNFwhbThJeDGoFA1pRDwcbWxUIEkhAChZGRgNfEVUJH0EADUMQUUUHF1tEBgNZUhtNFVpfEQwXF09GA18RVQkfQQccQwdeQgtaD0QNEhUQG00VUEM7EAYWQhZcUAlcFxFZQFQVThJcA00+BVheDwZaFV5WXhdAWUcFRhUTCVYLWhcNFmgSWVVAD0NXBgRQUxsc
-#EXTINF:-1 tvg-name="KM+ CINE COMEDIA" group-title="tv",KM+ CINE COMEDIA
-http://iptvpremium.ink:55577/josuelite1701/lite202607/445470
-#EXTINF:-1 tvg-name="KM+ series" group-title="tv",KM+ series
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167064
-#EXTINF:-1 tvg-name="KM +CINE 1" group-title="tv",KM +CINE 1
-http://iptvpremium.ink:55577/josuelite1701/lite202607/469970
-#EXTINF:-1 tvg-name="KM + CINE 2" group-title="tv",KM + CINE 2
-http://iptvpremium.ink:55577/josuelite1701/lite202607/469971
-#EXTINF:-1 tvg-name="KM + CINE 3" group-title="tv",KM + CINE 3
-http://iptvpremium.ink:55577/josuelite1701/lite202607/469974
-#EXTINF:-1 tvg-name="KM+ ROMANCE" group-title="tv",KM+ ROMANCE
-http://iptvpremium.ink:55577/josuelite1701/lite202607/265545
+#EXTINF:-1 tvg-name="un verano inolvidable" group-title="películas todos los géneros",un verano inolvidable
+http://iptvpremium.ink:55577/movie/userx4628ww/cuentauserx4628fd/38239.mkv
+#EXTINF:-1 tvg-name="yo antes de ti" group-title="películas todos los géneros",yo antes de ti
+http://iptvpremium.ink:55577/movie/userx4628ww/cuentauserx4628fd/28348.mkv
+#EXTINF:-1 tvg-name="v de venganza" group-title="películas todos los géneros",v de venganza
+http://iptvpremium.ink:55577/movie/userx4628ww/cuentauserx4628fd/65152.mp4
+#EXTINF:-1 tvg-name="el tren de las 3:10" group-title="películas todos los géneros",el tren de las 3:10
+http://iptvpremium.ink:55577/movie/userx4628ww/cuentauserx4628fd/169714.mkv
+#EXTINF:-1 tvg-name="letras explícitas" group-title="películas todos los géneros",letras explícitas
+http://iptvpremium.ink:55577/movie/userx4628ww/cuentauserx4628fd/175950.mp4
+#EXTINF:-1 tvg-name="Y dónde está el fantasma" group-title="películas todos los géneros",Y dónde está el fantasma
+http://iptvpremium.ink:55577/movie/userx4628ww/cuentauserx4628fd/174999.mkv
+#EXTINF:-1 tvg-name="Transformers (2007)" group-title="películas todos los géneros",Transformers (2007)
+http://iptvpremium.ink:55577/movie/userx4628ww/cuentauserx4628fd/38734.mp4
+#EXTINF:-1 tvg-name="la vecina de al lado" group-title="películas todos los géneros",la vecina de al lado
+http://iptvpremium.ink:55577/movie/userx4628ww/cuentauserx4628fd/26747.mkv
+#EXTINF:-1 tvg-name="american pie" group-title="películas todos los géneros",american pie
+http://iptvpremium.ink:55577/movie/userx4628ww/cuentauserx4628fd/26551.mkv
+#EXTINF:-1 tvg-name="american pie 2" group-title="películas todos los géneros",american pie 2
+http://iptvpremium.ink:55577/movie/userx4628ww/cuentauserx4628fd/26552.mkv
+#EXTINF:-1 tvg-name="american pie la milla" group-title="películas todos los géneros",american pie la milla
+http://iptvpremium.ink:55577/movie/32223489944/31134889944/548158.mkv
+#EXTINF:-1 tvg-name="coyote vs. acme" group-title="películas todos los géneros",coyote vs. acme
+https://www.dropbox.com/scl/fi/mc7ya0skh441sp941udi1/1280x720-Coyote-vs.Acme.mp4?rlkey=utviscn7bdb1ywd9j364ctgvz&st=7thmzup1&dl=1
+#EXTINF:-1 tvg-name="8 mile" group-title="películas todos los géneros",8 mile
+http://iptvpremium.ink:55577/movie/userx4628ww/cuentauserx4628fd/32460.mp4
+#EXTINF:-1 tvg-name="la leyenda del jinete sin cabeza" group-title="películas todos los géneros",la leyenda del jinete sin cabeza
+http://iptvpremium.ink:55577/movie/userx4628ww/cuentauserx4628fd/25309.mkv
+#EXTINF:-1 tvg-name="12 horas para sobrevivir" group-title="películas todos los géneros",12 horas para sobrevivir
+http://iptvpremium.ink:55577/movie/userx4628ww/cuentauserx4628fd/32469.mp4
+#EXTINF:-1 tvg-name="El bueno El feo y El malo" group-title="películas todos los géneros",El bueno El feo y El malo
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/172274.mkv
+#EXTINF:-1 tvg-name="estafadoras de wall street" group-title="películas todos los géneros",estafadoras de wall street
+http://192.200.99.122:8080/movie/josuelite1701/lite202607/26698.mp4?token=QkdbAhEMFVgSBQAAWQMBCFMFCFQDCgdcUgJdU1YJU1YBVgpSUl0HAAYTThcSEkVVAA5mCFMbClZUVVwOSBtEF1wXbAoGRg1AAgNRB1hQFRxDF1AMUhsKVVVbXAJRDQlQDUkREwsAFVgSAFUGVFIGEk1BXBlDXEIKAw86UgFPWAdcRwlBQEgVDV5uBlAMB1lUQ1kbURUVEg0RE0cMCkxdCBVHUQoWFlYWVRNYF1NUDgRDTxsCWExeEBAaRwwKTF0IFUdWGxYBWRFZXgwXW0RaQFVBFUNeSm8WBxARRAFYXAFLRwlBUkYbQF1QGmoCCVleBABNCFhXQ0ZYQVYUSBtcC1cMRwwQO0cLVBNYWxQKW00=
+#EXTINF:-1 tvg-name="la monja" group-title="películas todos los géneros",la monja
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/509358.mkv
+#EXTINF:-1 tvg-name="la monja 2" group-title="películas todos los géneros",la monja 2
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/259859.mkv
+#EXTINF:-1 tvg-name="el lobo de wall street" group-title="películas todos los géneros",el lobo de wall street
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/175449.mp4
+#EXTINF:-1 tvg-name="american pie el reencuentro" group-title="películas todos los géneros",american pie el reencuentro
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/26553.mkv
+#EXTINF:-1 tvg-name="american pie las chicas mandan" group-title="películas todos los géneros",american pie las chicas mandan
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/196098.mkv
+#EXTINF:-1 tvg-name="susurran tu nombre" group-title="películas todos los géneros",susurran tu nombre
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/547664.mkv
+#EXTINF:-1 tvg-name="aves de presa" group-title="películas todos los géneros",aves de presa
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/185127.mkv
+#EXTINF:-1 tvg-name="annie" group-title="películas todos los géneros",annie
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/27014.mp4
+#EXTINF:-1 tvg-name="el maestro del dinero" group-title="películas todos los géneros",el maestro del dinero
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/175453.mp4
+#EXTINF:-1 tvg-name="El justiciero" group-title="películas todos los géneros",El justiciero
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/195109.mp4
+#EXTINF:-1 tvg-name="El justiciero 2" group-title="películas todos los géneros",El justiciero 2
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/64877.mp4
+#EXTINF:-1 tvg-name="El justiciero 3" group-title="películas todos los géneros",El justiciero 3
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/259686.mkv
+#EXTINF:-1 tvg-name="alerta máxima" group-title="películas todos los géneros",alerta máxima
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/194893.mkv
+#EXTINF:-1 tvg-name="alerta máxima 2" group-title="películas todos los géneros",alerta máxima 2
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/194894.mkv
+#EXTINF:-1 tvg-name="Y dónde están las rubias" group-title="películas todos los géneros",Y dónde están las rubias
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/177263.mp4
+#EXTINF:-1 tvg-name="masacre de Texas" group-title="películas todos los géneros",masacre de Texas
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/30131.mkv
+#EXTINF:-1 tvg-name="la huérfana" group-title="películas todos los géneros",la huérfana
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/173104.mkv
+#EXTINF:-1 tvg-name="la huérfana: el origen" group-title="películas todos los géneros",la huérfana: el origen
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/23466.mp4
+#EXTINF:-1 tvg-name="El ladrón de joyas" group-title="películas todos los géneros",El ladrón de joyas
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/502461.mkv
+#EXTINF:-1 tvg-name="dos hermanos" group-title="películas todos los géneros",dos hermanos
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/156941.mkv
+#EXTINF:-1 tvg-name="amor de madre" group-title="películas todos los géneros",amor de madre
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/65210.mp4
+#EXTINF:-1 tvg-name="mentes criminales" group-title="películas todos los géneros",mentes criminales
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/28048.mkv
+#EXTINF:-1 tvg-name="qué pasó ayer" group-title="películas todos los géneros",qué pasó ayer
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/65166.mp4
+#EXTINF:-1 tvg-name="El avispón verde" group-title="películas todos los géneros",El avispón verde
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/124663.avi
+#EXTINF:-1 tvg-name="una mujer sin pasado" group-title="películas todos los géneros",una mujer sin pasado
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/548086.mkv
+#EXTINF:-1 tvg-name="la odisea" group-title="películas todos los géneros",la odisea
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/542525.mkv
+#EXTINF:-1 tvg-name="papá genial" group-title="películas todos los géneros",papá genial
+http://iptvpremium.ink:55577/movie/josuelite1701/lite202607/197773.mkv
+#EXTINF:-1 tvg-name="la furia de los thunderman" group-title="películas todos los géneros",la furia de los thunderman
+http://iptvpremium.ink:55577/movie/josuelite1701/lite202607/548313.mkv
+#EXTINF:-1 tvg-name="Fifty Shades of Black)." group-title="películas todos los géneros",Fifty Shades of Black).
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/123815.mp4
+#EXTINF:-1 tvg-name="somos los Miller" group-title="películas todos los géneros",somos los Miller
+http://iptvpremium.ink:55577/movie/josuelite1701/lite202607/197415.mp4
+#EXTINF:-1 tvg-name="scary movie 5" group-title="películas todos los géneros",scary movie 5
+http://iptvpremium.ink:55577/movie/josuelite1701/lite202607/26815.mp4
+#EXTINF:-1 tvg-name="no me olvides" group-title="películas todos los géneros",no me olvides
+http://iptvpremium.ink:55577/movie/UawWx5uEW3Gk/2ZPfNxmFAJKM/64299.mp4
+#EXTINF:-1 tvg-name="El diario de Noa" group-title="películas todos los géneros",El diario de Noa
+http://iptvpremium.ink:55577/movie/josuelite1701/lite202607/38129.mkv
+#EXTINF:-1 tvg-name="Titanic" group-title="películas todos los géneros",Titanic
+http://iptvpremium.ink:55577/movie/josuelite1701/lite202607/185201.mkv
+#EXTINF:-1 tvg-name="la culpa no es mía" group-title="películas todos los géneros",la culpa no es mía
+http://iptvpremium.ink:55577/movie/hubse248/croxmos232/494730.mkv
+#EXTINF:-1 tvg-name="venus" group-title="películas todos los géneros",venus
+http://iptvpremium.ink:55577/movie/josuelite1701/lite202607/22760.mp4
+#EXTINF:-1 tvg-name="Lamborghini: el hombre detrás de la leyenda" group-title="películas todos los géneros",Lamborghini: el hombre detrás de la leyenda
+http://iptvpremium.ink:55577/movie/josuelite1701/lite202607/444227.mkv
+#EXTINF:-1 tvg-name="una muerte silenciosa" group-title="películas todos los géneros",una muerte silenciosa
+http://iptvpremium.ink:55577/movie/josuelite1701/lite202607/498692.mkv
+#EXTINF:-1 tvg-name="mujer bonita" group-title="películas todos los géneros",mujer bonita
+http://iptvpremium.ink:55577/movie/josuelite1701/lite202607/126515.mp4
+#EXTINF:-1 tvg-name="toy story 5" group-title="películas todos los géneros",toy story 5
+http://iptvpremium.ink:55577/movie/wd3hua2NDkQ4/vbZddunnpCY3/539151.mkv
+#EXTINF:-1 tvg-name="Erin Brockovich" group-title="películas todos los géneros",Erin Brockovich
+http://192.200.99.122:8080/movie/josuelite1701/lite202607/31620.mkv?token=QkdbAhEMFVgSA1ABWVUHVlJWAQcCClMAAwIAAQdcCAEBAwQHWlEFVlUTThcSEkVVAA5mCFMbCldTVVcGSBtEF1wXbAoGRg1AAgNRB1hQFRxDF1AMUhsKVVVaVQdQDARRC0kREwsAFVgSA1EEWV8CCUNPGwRPTVUWDAIJaQBcRw1aABFZQEYbQF9fPVEEC1ZeBUEDQwcbHEYLEBUUXldECFVJEQELEEUDRFRAD0NVBAhVQRVDVFZFChYRHBReV0QIVUkRBhoQUgxDWA1bQ1wVXQoVG00VUEM7EAYWQhZcUAlcFxFZQFQVThJcA00+BVheDwZaFV5WXhdAWUcFRhUTCVYLWhcNFmgSWVVADw8TW1wc
+#EXTINF:-1 tvg-name="rico o muerto" group-title="películas todos los géneros",rico o muerto
+http://iptvpremium.ink:55577/movie/wd3hua2NDkQ4/vbZddunnpCY3/27843.mkv
+#EXTINF:-1 tvg-name="Bumblebee" group-title="películas todos los géneros",Bumblebee
+http://iptvpremium.ink:55577/movie/wd3hua2NDkQ4/vbZddunnpCY3/32289.mkv
+#EXTINF:-1 tvg-name="un ladrón romántico" group-title="películas todos los géneros",un ladrón romántico
+http://iptvpremium.ink:55577/movie/wd3hua2NDkQ4/vbZddunnpCY3/446303.mkv
+#EXTINF:-1 tvg-name="El jinete del amanecer" group-title="películas todos los géneros",El jinete del amanecer
+http://iptvpremium.ink:55577/movie/wd3hua2NDkQ4/vbZddunnpCY3/262316.mkv
+#EXTINF:-1 tvg-name="El hombre de la casa" group-title="películas todos los géneros",El hombre de la casa
+http://iptvpremium.ink:55577/movie/wd3hua2NDkQ4/vbZddunnpCY3/196491.mkv
