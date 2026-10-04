@@ -8,17 +8,36 @@ https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 tvg-name="noticias" group-title="tv",noticias
 http://iptvpremium.ink:55577/josuelite1701/lite202607/195561
 #EXTINF:-1 tvg-name="A24" group-title="tv",A24
+http://iptvpremium.ink:55577/josuelite1701/lite202607/167909#EXTM3U
+#EXTINF:-1 tvg-name="Netflix eventos" group-title="tv",Netflix eventos
+http://170.39.119.153:8080/josuelite1701/lite202607/498017?token=QkdbAhEMFVgSAVABV1ICBlBVDlUDDVVXAVQDUAIBAVQIUlVaUgJVVwETThcSEkVVAA5mCFMbClBbW1UHUxUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXAZVCgNSD1YfQRINU0AKE1QCUV8VHEMGQRVSS14FDjwBUxJQUgEbX10WDggbQF9fPVEEC1ZeBUEDQwYbHEYLEBUUXldECFVJEQELEEUDRFRAD0NXBgZUQRVDVFZFChYRHBReV0QIVUkRBhoQUgxDWA1bQ1wVRBJBFUNeSm8WBxARRAFYXAFLRwlBUkYbQF1QGmoCCVleBABNCFhXQ0ZYQVYUSBtcC1cMRwwQO0cLVBNYF1dQAAdDHg==
+#EXTINF:-1 tvg-name="CANAL 26" group-title="tv",CANAL 26
+http://iptvpremium.ink:55577/josuelite1701/lite202607/546282
+#EXTM3U
+#EXTINF:-1 tvg-name="Netflix eventos" group-title="tv",Netflix eventos
+http://170.39.119.153:8080/josuelite1701/lite202607/498017?token=QkdbAhEMFVgSAVABV1ICBlBVDlUDDVVXAVQDUAIBAVQIUlVaUgJVVwETThcSEkVVAA5mCFMbClBbW1UHUxUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXAZVCgNSD1YfQRINU0AKE1QCUV8VHEMGQRVSS14FDjwBUxJQUgEbX10WDggbQF9fPVEEC1ZeBUEDQwYbHEYLEBUUXldECFVJEQELEEUDRFRAD0NXBgZUQRVDVFZFChYRHBReV0QIVUkRBhoQUgxDWA1bQ1wVRBJBFUNeSm8WBxARRAFYXAFLRwlBUkYbQF1QGmoCCVleBABNCFhXQ0ZYQVYUSBtcC1cMRwwQO0cLVBNYF1dQAAdDHg==
+#EXTINF:-1 tvg-name="CANAL 26" group-title="tv",CANAL 26
+http://iptvpremium.ink:55577/josuelite1701/lite202607/546282
+#EXTINF:-1 tvg-name="TN TODO NOTICIA" group-title="tv",TN TODO NOTICIA
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+#EXTINF:-1 tvg-name="noticias" group-title="tv",noticias
+http://iptvpremium.ink:55577/josuelite1701/lite202607/195561
+#EXTINF:-1 tvg-name="A24" group-title="tv",A24
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167909
 #EXTINF:-1 tvg-name="C5N" group-title="tv",C5N
 http://iptvpremium.ink:55577/josuelite1701/lite202607/546279
+#EXTINF:-1 tvg-name="rtv viva España" group-title="tv",rtv viva España
+http://iptvpremium.ink:55577/Jerson1010/Hola2323/244293
 #EXTINF:-1 tvg-name="LAS ESTRELLAS" group-title="tv",LAS ESTRELLAS
 http://iptvpremium.ink:55577/josuelite1701/lite202607/222319
 #EXTINF:-1 tvg-name="EL NUEVE" group-title="tv",EL NUEVE
 http://iptvpremium.ink:55577/josuelite1701/lite202607/546253
-#EXTINF:-1 tvg-name="TV PÚBLICA" group-title="tv",TV PÚBLICA
-http://iptvpremium.ink:55577/josuelite1701/lite202607/546268
+#EXTINF:-1 tvg-name="el garaje TV" group-title="tv",el garaje TV
+http://iptvpremium.ink:55577/Jerson1010/Hola2323/546263
 #EXTINF:-1 tvg-name="TELEFE" group-title="tv",TELEFE
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167955
+#EXTINF:-1 tvg-name="ciudad magazine" group-title="tv",ciudad magazine
+http://iptvpremium.ink:55577/Jerson1010/Hola2323/546284
 #EXTINF:-1 tvg-name="EL TRECE" group-title="tv",EL TRECE
 http://170.39.119.153:8080/josuelite1701/lite202607/167936?token=QkdbAhEMFVgSV1dXVFAOUVdbX1EHWAldVQYDAFBaA1IOAVYFAFEFVgITThcSEkVVAA5mCFMbClVUVFwFUhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WAAdXDF0fQRINU0AKXxdZDUoVVRkXXBNZWFw7BgYTXwdcE15XEF8PTkZYDG9VB1gACFMSW0EIQxsbWRcSQV9YEVVdSBsHWhcQBUMHEgsMQA0KGxICDEwPQ0tJRlgNEFoIFRMBQRFWDRENWAwSC0BBEkQbEggQZhNSSkQWBwIIUxYbC0YJRx9BDwVPPVNeDFsEBUNZDg1KQw0bA0ZOQQhZClBFC0s6QwoGRg0MRV0OSA==
 #EXTINF:-1 tvg-name="ESPN 3" group-title="tv",ESPN 3
@@ -91,8 +110,6 @@ http://iptvpremium.ink:55577/josuelite1701/lite202607/167083
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167502
 #EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="tv",ANIMAL PLANET
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167559
-#EXTINF:-1 tvg-name="CINE AR" group-title="tv",CINE AR
-http://iptvpremium.ink:55577/wd3hua2NDkQ4/vbZddunnpCY3/167928
 #EXTINF:-1 tvg-name="history channel" group-title="tv",history channel
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167590
 #EXTINF:-1 tvg-name="NAT GEO" group-title="tv",NAT GEO
@@ -105,13 +122,3 @@ http://iptvpremium.ink:55577/josuelite1701/lite202607/193119
 http://170.39.119.153:8080/josuelite1701/lite202607/252246?token=QkdbAhEMFVgSUFpUVwMOBlZWDQNRWwYHUAEABwJaBVRYUlBQAFcHUQMTThcSEkVVAA5mCFMbClZXUVcCUhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9SAAdQDlQfQRINU0AKE1MEWV4PEk1BXBlDXEIKAw86UgFPWAdcRwkNFwhbThJeDGoFA1pRDwcbWxUIEkhAChZGRgNfEVUJH0EADUMQUUUHF1tEBgNZUhtNFVpfEQwXF09GA18RVQkfQQccQwdeQgtaD0QNEhUQG00VUEM7EAYWQhZcUAlcFxFZQFQVThJcA00+BVheDwZaFV5WXhdAWUcFRhUTCVYLWhcNFmgSWVVAD0NXBgRQUxsc
 #EXTINF:-1 tvg-name="KM+ CINE COMEDIA" group-title="tv",KM+ CINE COMEDIA
 http://iptvpremium.ink:55577/josuelite1701/lite202607/445470
-#EXTINF:-1 tvg-name="KM+ series" group-title="tv",KM+ series
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167064
-#EXTINF:-1 tvg-name="KM +CINE 1" group-title="tv",KM +CINE 1
-http://iptvpremium.ink:55577/josuelite1701/lite202607/469970
-#EXTINF:-1 tvg-name="KM + CINE 2" group-title="tv",KM + CINE 2
-http://iptvpremium.ink:55577/josuelite1701/lite202607/469971
-#EXTINF:-1 tvg-name="KM + CINE 3" group-title="tv",KM + CINE 3
-http://iptvpremium.ink:55577/josuelite1701/lite202607/469974
-#EXTINF:-1 tvg-name="KM+ ROMANCE" group-title="tv",KM+ ROMANCE
-http://iptvpremium.ink:55577/josuelite1701/lite202607/265545
