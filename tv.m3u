@@ -48,7 +48,7 @@ https://s2.envivoslatam99.sbs/disney10/tracks-v1a1/mono.m3u8?ip=181.209.89.53&to
 #EXTINF:-1 tvg-name="DRAGON BALL GT 24/7" group-title="tv",DRAGON BALL GT 24/7
 http://iptvpremium.ink:55577/josuelite1701/lite202607/252195
 #EXTINF:-1 tvg-name="NICKELODEON" group-title="tv",NICKELODEON
-http://iptvpremium.ink:55577/josuelite1701/lite202607/258237
+http://iptvpremium.ink:55577/Jerson1010/Hola2323/258237
 #EXTINF:-1 tvg-name="DISNEY JR" group-title="tv",DISNEY JR
 http://149.51.227.140:8080/josuelite1701/lite202607/167682?token=QkdbAhEMFVgSUlsGVVVWBlIBDQADAAEHV1QGB1cNVQYMBgYBBlNTAwITThcSEkVVAA5mCFMbClVUVFMOVhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WAARRDFEfQRINU0AKE1MAUF4AA1VBFUNSQUQBEA0EWjtdVBJQBlZBWApCDlwdQFoPOVNVDAJXBRUDElVAT0dfF0kTXlcQXw9ORlULREMDQQREDRJYWwBDGxtTCxcNEUQdGwsKTAlfT0ABTxZVXxFcDggVCkMXSkMbG1kXPREARRBLVAVUAEFBWEYHQBwTD1QZOVRfDw1cAkNQXwoRQV8UVxsdRlQKXQoWC0U9QFgGF1tEBgVUUg5YBxtN
 #EXTINF:-1 tvg-name="Disney channel" group-title="tv",Disney channel
@@ -63,14 +63,16 @@ http://iptvpremium.ink:55577/josuelite1701/lite202607/167538
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167534
 #EXTINF:-1 tvg-name="HBO" group-title="tv",HBO
 http://iptvpremium.ink:55577/josuelite1701/lite202607/252274
+#EXTINF:-1 tvg-name="HBO 2" group-title="tv",HBO 2
+http://iptvpremium.ink:55577/Jerson1010/Hola2323/167518
 #EXTINF:-1 tvg-name="STAR CHANNEL" group-title="tv",STAR CHANNEL
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167089
-#EXTINF:-1 tvg-name="HBO FAMILY" group-title="tv",HBO FAMILY
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167523
 #EXTINF:-1 tvg-name="AXN" group-title="tv",AXN
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167065
 #EXTINF:-1 tvg-name="AYE" group-title="tv",AYE
 http://149.51.227.140:8080/josuelite1701/lite202607/167062?token=QkdbAhEMFVgSBAYBVFJRVgdUXQQCWFICUQYGDlYLUFdcVwIGBlUAV1ITThcSEkVVAA5mCFMbClVUVFUAVhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WDAFWDVQfQRINU0AKE1YGU18FBkNPGwRPTVUWDAIJaQBcRw1aABFZDBFbDhwTDVs+AlJdAA1dQw0bAUZOQQxFFBsLCkwJX09ABl4WQlAWUENcFQFSWw1DGxtTCxcNEUQdGwsKTAlfT0ABTxZVXxFcDggVCkMXSkMbG1kXPREARRBLVAVUAEFBWEYHQBwTD1QZOVRfDw1cAkNQXwoRQV8UVxsdRlQKXQoWC0U9QFgGF1tEBQNXWwpVDxtN
+#EXTINF:-1 tvg-name="TNT" group-title="tv",TNT
+http://iptvpremium.ink:55577/Jerson1010/Hola2323/167540
 #EXTINF:-1 tvg-name="TNT SERIES" group-title="tv",TNT SERIES
 http://170.39.119.153:8080/Jerson1010/Hola2323/1909?token=QkdbAhEMFVgSB1sCVFMHAVIBX1hVCgdQUABXAVMIBVdfXQIFUlJWWwUTThcSEkVVAA5mCFMbClVbU1waRkxCAUs6WgdAXhVQBwBQBlREGxIVClQEFQMBU1tSUARUCgZSFUdDCgZGDUABA1EHU0QbEgQbTQRFV1EIPQcAQA1aVEYDC0YPDkgVDV5uBlAMB1lUQ1kbUBUVEg0RE0cMCkxdCBVHUQoWFlYWVRNYF1BRDwFDTxsCWExeEBAaRwwKTF0IFUdWGxYBWRFZXgwXW0RDQ0NPGwhEZkIBERcXUwVUVBYbXxFTQEgVD1FJPVYOCFlVAhdQDllKEl5AUEcaRlReClARXBE9FF4GEgtAAVhVBgVDHg==
 #EXTINF:-1 tvg-name="TNT NOVELAS" group-title="tv",TNT NOVELAS
@@ -109,5 +111,5 @@ http://iptvpremium.ink:55577/josuelite1701/lite202607/167585
 http://iptvpremium.ink:55577/Jerson1010/Hola2323/167535
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL" group-title="tv",DISCOVERY CHANNEL
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167560
-#EXTINF:-1 tvg-name="LOS SIMPSON 24/7" group-title="tv",LOS SIMPSON 24/7
-http://iptvpremium.ink:55577/josuelite1701/lite202607/193119
+#EXTINF:-1 tvg-name="los Simpson 24/7" group-title="tv",los Simpson 24/7
+http://iptvpremium.ink:55577/Jerson1010/Hola2323/193119
