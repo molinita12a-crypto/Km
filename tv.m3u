@@ -10,6 +10,35 @@ http://iptvpremium.ink:55577/josuelite1701/lite202607/195561
 #EXTINF:-1 tvg-name="A24" group-title="tv",A24
 http://iptvpremium.ink:55577/Jerson1010/Hola2323/546277
 #EXTINF:-1 tvg-name="C5N" group-title="tv",C5N
+http://iptvpremium.ink:55577/josuelite1701/lite202607/546279#EXTM3U
+#EXTINF:-1 tvg-name="Netflix eventos" group-title="tv",Netflix eventos
+http://170.39.119.153:8080/josuelite1701/lite202607/498017?token=QkdbAhEMFVgSAVABV1ICBlBVDlUDDVVXAVQDUAIBAVQIUlVaUgJVVwETThcSEkVVAA5mCFMbClBbW1UHUxUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXAZVCgNSD1YfQRINU0AKE1QCUV8VHEMGQRVSS14FDjwBUxJQUgEbX10WDggbQF9fPVEEC1ZeBUEDQwYbHEYLEBUUXldECFVJEQELEEUDRFRAD0NXBgZUQRVDVFZFChYRHBReV0QIVUkRBhoQUgxDWA1bQ1wVRBJBFUNeSm8WBxARRAFYXAFLRwlBUkYbQF1QGmoCCVleBABNCFhXQ0ZYQVYUSBtcC1cMRwwQO0cLVBNYF1dQAAdDHg==
+#EXTINF:-1 tvg-name="CANAL 26" group-title="tv",CANAL 26
+http://iptvpremium.ink:55577/josuelite1701/lite202607/546282
+#EXTINF:-1 tvg-name="TN TODO NOTICIA" group-title="tv",TN TODO NOTICIA
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+#EXTINF:-1 tvg-name="noticias" group-title="tv",noticias
+http://iptvpremium.ink:55577/josuelite1701/lite202607/195561
+#EXTINF:-1 tvg-name="A24" group-title="tv",A24
+http://iptvpremium.ink:55577/Jerson1010/Hola2323/546277
+#EXTINF:-1 tvg-name="C5N" group-title="tv",C5N
+http://iptvpremium.ink:55577/josuelite1701/lite202607/546279
+#EXTINF:-1 tvg-name="rtv viva España" group-title="tv",rtv viva España
+http://iptvpremium.ink:55577/Jerson1010/Hola2323/244293
+#EXTINF:-1 tvg-name="LAS ESTRELLAS" group-title="tv",LAS ESTRELLAS
+http://iptvpremium.ink:55577/josuelite1701/lite202607/222319
+#EXTM3U
+#EXTINF:-1 tvg-name="Netflix eventos" group-title="tv",Netflix eventos
+http://170.39.119.153:8080/josuelite1701/lite202607/498017?token=QkdbAhEMFVgSAVABV1ICBlBVDlUDDVVXAVQDUAIBAVQIUlVaUgJVVwETThcSEkVVAA5mCFMbClBbW1UHUxUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXAZVCgNSD1YfQRINU0AKE1QCUV8VHEMGQRVSS14FDjwBUxJQUgEbX10WDggbQF9fPVEEC1ZeBUEDQwYbHEYLEBUUXldECFVJEQELEEUDRFRAD0NXBgZUQRVDVFZFChYRHBReV0QIVUkRBhoQUgxDWA1bQ1wVRBJBFUNeSm8WBxARRAFYXAFLRwlBUkYbQF1QGmoCCVleBABNCFhXQ0ZYQVYUSBtcC1cMRwwQO0cLVBNYF1dQAAdDHg==
+#EXTINF:-1 tvg-name="CANAL 26" group-title="tv",CANAL 26
+http://iptvpremium.ink:55577/josuelite1701/lite202607/546282
+#EXTINF:-1 tvg-name="TN TODO NOTICIA" group-title="tv",TN TODO NOTICIA
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+#EXTINF:-1 tvg-name="noticias" group-title="tv",noticias
+http://iptvpremium.ink:55577/josuelite1701/lite202607/195561
+#EXTINF:-1 tvg-name="A24" group-title="tv",A24
+http://iptvpremium.ink:55577/Jerson1010/Hola2323/546277
+#EXTINF:-1 tvg-name="C5N" group-title="tv",C5N
 http://iptvpremium.ink:55577/josuelite1701/lite202607/546279
 #EXTINF:-1 tvg-name="rtv viva España" group-title="tv",rtv viva España
 http://iptvpremium.ink:55577/Jerson1010/Hola2323/244293
@@ -35,16 +64,18 @@ http://iptvpremium.ink:55577/josuelite1701/lite202607/170979
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167220
 #EXTINF:-1 tvg-name="ESPN premium" group-title="tv",ESPN premium
 http://iptvpremium.ink:55577/josuelite1701/lite202607/179199
+#EXTINF:-1 tvg-name="danz f1" group-title="tv",danz f1
+http://iptvpremium.ink:55577/Jerson1010/Hola2323/179552
 #EXTINF:-1 tvg-name="TYC SPORT" group-title="tv",TYC SPORT
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167269
-#EXTINF:-1 tvg-name="TNT SPORT" group-title="tv",TNT SPORT
-http://iptvpremium.ink:55577/josuelite1701/lite202607/546331
+#EXTINF:-1 tvg-name="Fox sport premium" group-title="tv",Fox sport premium
+http://iptvpremium.ink:55577/Jerson1010/Hola2323/167287
 #EXTINF:-1 tvg-name="danz Movistar" group-title="tv",danz Movistar
 http://iptvpremium.ink:55577/Jerson1010/Hola2323/179548
-#EXTINF:-1 tvg-name="TNT SPORT 2" group-title="tv",TNT SPORT 2
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167962
-#EXTINF:-1 tvg-name="TNT SPORT PREMIUM" group-title="tv",TNT SPORT PREMIUM
-https://s2.envivoslatam99.sbs/disney10/tracks-v1a1/mono.m3u8?ip=181.209.89.53&token=74bb3b090274410ee8a9fa3edf8515c2af64a16f-42-1789904898-1789850898
+#EXTINF:-1 tvg-name="Fox sport 1" group-title="tv",Fox sport 1
+http://iptvpremium.ink:55577/Jerson1010/Hola2323/178972
+#EXTINF:-1 tvg-name="Fox sport 3" group-title="tv",Fox sport 3
+http://iptvpremium.ink:55577/Jerson1010/Hola2323/167275
 #EXTINF:-1 tvg-name="DRAGON BALL GT 24/7" group-title="tv",DRAGON BALL GT 24/7
 http://iptvpremium.ink:55577/josuelite1701/lite202607/252195
 #EXTINF:-1 tvg-name="NICKELODEON" group-title="tv",NICKELODEON
