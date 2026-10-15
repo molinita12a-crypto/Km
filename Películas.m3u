@@ -373,10 +373,6 @@ http://iptvpremium.ink:55577/movie/Jerson1010/Hola2323/196769.mkv
 http://192.200.99.122:8080/movie/Jerson1010/Hola2323/260109.mp4?token=QkdbAhEMFVgSUAYBAFBSB1BTClAFAANTBwAGU1ABUwIOAAMCUAYHUlUTThcSEkVVAA5mCFMbClZUU1QGXRUTEUoAQTwLABVYEgNVBFNVAhJNQU0IWlwSXlNUXARUDQZcDF0fQRINU0AKE1ADUVMFBVBBFUNSQUQBEA0EWjtdVBJQBlZBWEYVThJeDGoFA1pRDwcbWxUJEkhAChZGRgNfEVUJH0EADUMQUUUHF1tEBglUUxtNFVpfEQwXF09GA18RVQkfQQccQwdeQgtaD0QNEgwTDUMbG1kXPREARRBLVAVUAEFBWEYHQBwTD1QZOVRfDw1cAkNQXwoRQV8UVxsdRlQKXQoWC0U9QFgGF1sIQlwNHg==
 #EXTINF:-1 tvg-name="los Ángeles de charlie" group-title="películas todos los géneros",los Ángeles de charlie
 http://iptvpremium.ink:55577/movie/Jerson1010/Hola2323/25373.mkv
-#EXTINF:-1 tvg-name="Ángeles de Charlie (2019)" group-title="películas todos los géneros",Ángeles de Charlie (2019)
-http://iptvpremium.ink:55577/movie/Jerson1010/Hola2323/126198.avi
-#EXTINF:-1 tvg-name="busca implacable 2" group-title="películas todos los géneros",busca implacable 2
-http://iptvpremium.ink:55577/movie/Jerson1010/Hola2323/32929.mp4
 #EXTINF:-1 tvg-name="la carrera de la muerte" group-title="películas todos los géneros",la carrera de la muerte
 http://iptvpremium.ink:55577/movie/Jerson1010/Hola2323/125623.avi
 #EXTINF:-1 tvg-name="la carrera de la muerte 2" group-title="películas todos los géneros",la carrera de la muerte 2
@@ -387,6 +383,8 @@ http://iptvpremium.ink:55577/movie/Jerson1010/Hola2323/126318.avi
 http://iptvpremium.ink:55577/movie/Jerson1010/Hola2323/64200.mp4
 #EXTINF:-1 tvg-name="el paquete" group-title="películas todos los géneros",el paquete
 http://iptvpremium.ink:55577/movie/Jerson1010/Hola2323/26690.mp4
+#EXTINF:-1 tvg-name="busca implacable 2" group-title="películas todos los géneros",busca implacable 2
+http://iptvpremium.ink:55577/movie/Jerson1010/Hola2323/32929.mp4
 #EXTINF:-1 tvg-name="hazme el favor" group-title="películas todos los géneros",hazme el favor
 http://iptvpremium.ink:55577/movie/Jerson1010/Hola2323/198560.mp4
 #EXTINF:-1 tvg-name="The Fast and the Furious" group-title="películas todos los géneros",The Fast and the Furious
@@ -401,3 +399,5 @@ http://iptvpremium.ink:55577/movie/Jerson1010/Hola2323/65090.mp4
 http://iptvpremium.ink:55577/movie/Jerson1010/Hola2323/444536.mp4
 #EXTINF:-1 tvg-name="metegol" group-title="películas todos los géneros",metegol
 http://iptvpremium.ink:55577/movie/Jerson1010/Hola2323/126410.mp4
+#EXTINF:-1 tvg-name="Charlie's Angels" group-title="películas todos los géneros",Charlie's Angels
+http://iptvpremium.ink:55577/movie/Jerson1010/Hola2323/126198.avi
