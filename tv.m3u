@@ -29,8 +29,6 @@ http://170.39.119.153:8080/josuelite1701/lite202607/167936?token=QkdbAhEMFVgSV1d
 http://iptvpremium.ink:55577/Jerson1010/Hola2323/179201
 #EXTINF:-1 tvg-name="DIRECTV SPORT" group-title="tv",DIRECTV SPORT
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167208
-#EXTINF:-1 tvg-name="STAR +" group-title="tv",STAR +
-http://iptvpremium.ink:55577/josuelite1701/lite202607/170979
 #EXTINF:-1 tvg-name="ESPN 3" group-title="tv",ESPN 3
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167220
 #EXTINF:-1 tvg-name="ESPN premium" group-title="tv",ESPN premium
@@ -123,3 +121,13 @@ http://iptvpremium.ink:55577/Jerson1010/Hola2323/462078
 http://iptvpremium.ink:55577/Jerson1010/Hola2323/193190
 #EXTINF:-1 tvg-name="El Chapulín colorado 24/7" group-title="tv",El Chapulín colorado 24/7
 http://iptvpremium.ink:55577/Jerson1010/Hola2323/143412
+#EXTINF:-1 tvg-name="STAR + 1" group-title="tv",STAR + 1
+http://iptvpremium.ink:55577/josuelite1701/lite202607/170979
+#EXTINF:-1 tvg-name="STAR + 2" group-title="tv",STAR + 2
+http://iptvpremium.ink:55577/Jerson1010/Hola2323/259223
+#EXTINF:-1 tvg-name="STAR + 3" group-title="tv",STAR + 3
+http://iptvpremium.ink:55577/Jerson1010/Hola2323/259224
+#EXTINF:-1 tvg-name="STAR + 4" group-title="tv",STAR + 4
+http://iptvpremium.ink:55577/Jerson1010/Hola2323/259225
+#EXTINF:-1 tvg-name="STAR + 5" group-title="tv",STAR + 5
+http://iptvpremium.ink:55577/Jerson1010/Hola2323/259226
