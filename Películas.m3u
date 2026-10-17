@@ -97,8 +97,6 @@ http://iptvpremium.ink:55577/movie/josuelite1701/lite202607/498692.mkv
 http://iptvpremium.ink:55577/movie/josuelite1701/lite202607/126515.mp4
 #EXTINF:-1 tvg-name="toy story 5" group-title="películas todos los géneros",toy story 5
 http://iptvpremium.ink:55577/movie/wd3hua2NDkQ4/vbZddunnpCY3/539151.mkv
-#EXTINF:-1 tvg-name="Erin Brockovich" group-title="películas todos los géneros",Erin Brockovich
-http://192.200.99.122:8080/movie/josuelite1701/lite202607/31620.mkv?token=QkdbAhEMFVgSA1ABWVUHVlJWAQcCClMAAwIAAQdcCAEBAwQHWlEFVlUTThcSEkVVAA5mCFMbCldTVVcGSBtEF1wXbAoGRg1AAgNRB1hQFRxDF1AMUhsKVVVaVQdQDARRC0kREwsAFVgSA1EEWV8CCUNPGwRPTVUWDAIJaQBcRw1aABFZQEYbQF9fPVEEC1ZeBUEDQwcbHEYLEBUUXldECFVJEQELEEUDRFRAD0NVBAhVQRVDVFZFChYRHBReV0QIVUkRBhoQUgxDWA1bQ1wVXQoVG00VUEM7EAYWQhZcUAlcFxFZQFQVThJcA00+BVheDwZaFV5WXhdAWUcFRhUTCVYLWhcNFmgSWVVADw8TW1wc
 #EXTINF:-1 tvg-name="los milagros del cielo" group-title="películas todos los géneros",los milagros del cielo
 http://iptvpremium.ink:55577/movie/Jerson1010/Hola2323/26935.mp4
 #EXTINF:-1 tvg-name="Bumblebee" group-title="películas todos los géneros",Bumblebee
@@ -515,3 +513,9 @@ http://xdplus.site:8880/movie/famador/TUWSK/227327.mkv
 http://iptvpremium.ink:55577/movie/Jerson1010/Hola2323/64887.mp4
 #EXTINF:-1 tvg-name="el despertar de la bestia" group-title="películas todos los géneros",el despertar de la bestia
 http://iptvpremium.ink:55577/movie/Jerson1010/Hola2323/494141.mkv
+#EXTINF:-1 tvg-name="Erick brockovich" group-title="películas todos los géneros",Erick brockovich
+http://xdplus.site:8880/movie/famador/TUWSK/13983.mkv
+#EXTINF:-1 tvg-name="el silencio de lo inocentes" group-title="películas todos los géneros",el silencio de lo inocentes
+http://xdplus.site:8880/movie/famador/TUWSK/13968.mp4
+#EXTINF:-1 tvg-name="La bella y la bestia" group-title="películas todos los géneros",La bella y la bestia
+http://xdplus.site:8880/movie/famador/TUWSK/88484.avi
