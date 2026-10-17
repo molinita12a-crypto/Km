@@ -1,8 +1,8 @@
-#EXTM3U8
-#EXTINF:-1 tvg-name="CANAL 26" group-title="tv",CANAL 26
-http://iptvpremium.ink:55577/josuelite1701/lite202607/546282
+#EXTM3U
 #EXTINF:-1 tvg-name="TN TODO NOTICIA" group-title="tv",TN TODO NOTICIA
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+#EXTINF:-1 tvg-name="CANAL 26" group-title="tv",CANAL 26
+http://iptvpremium.ink:55577/josuelite1701/lite202607/546282
 #EXTINF:-1 tvg-name="noticias" group-title="tv",noticias
 http://iptvpremium.ink:55577/josuelite1701/lite202607/195561
 #EXTINF:-1 tvg-name="A24" group-title="tv",A24
