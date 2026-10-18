@@ -58,9 +58,9 @@ http://iptvpremium.ink:55577/josuelite1701/lite202607/167538
 #EXTINF:-1 tvg-name="SPACE" group-title="tv",SPACE
 http://xdplus.site:8880/live/famador/TUWSK/159153.ts
 #EXTINF:-1 tvg-name="HBO" group-title="tv",HBO
-http://iptvpremium.ink:55577/josuelite1701/lite202607/252274
+http://xdplus.site:8880/live/famador/TUWSK/439749.ts
 #EXTINF:-1 tvg-name="hbo Xtreme" group-title="tv",hbo Xtreme
-http://iptvpremium.ink:55577/Jerson1010/Hola2323/167552
+http://xdplus.site:8880/live/famador/TUWSK/73200.ts
 #EXTINF:-1 tvg-name="HBO 2" group-title="tv",HBO 2
 http://iptvpremium.ink:55577/Jerson1010/Hola2323/167518
 #EXTINF:-1 tvg-name="STAR CHANNEL" group-title="tv",STAR CHANNEL
@@ -73,8 +73,6 @@ http://149.51.227.140:8080/josuelite1701/lite202607/167062?token=QkdbAhEMFVgSBAY
 http://xdplus.site:8880/live/famador/TUWSK/158465.ts
 #EXTINF:-1 tvg-name="TNT SERIES" group-title="tv",TNT SERIES
 http://xdplus.site:8880/live/famador/TUWSK/439780.ts
-#EXTINF:-1 tvg-name="TNT NOVELAS" group-title="tv",TNT NOVELAS
-http://xdplus.site:8880/live/famador/TUWSK/542720.ts
 #EXTINF:-1 tvg-name="STAR CHANNEL" group-title="tv",STAR CHANNEL
 http://xdplus.site:8880/live/Monica0405/DRRCQ/439744.ts
 #EXTINF:-1 tvg-name="vix Novelas" group-title="tv",vix Novelas
@@ -84,11 +82,13 @@ http://xdplus.site:8880/live/famador/TUWSK/439781.ts
 #EXTINF:-1 tvg-name="UNIVERSAL CHANNEL" group-title="tv",UNIVERSAL CHANNEL
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167081
 #EXTINF:-1 tvg-name="FX" group-title="tv",FX
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167070
+http://xdplus.site:8880/live/famador/TUWSK/9546.ts
 #EXTINF:-1 tvg-name="PARAMOUNT PLUS" group-title="tv",PARAMOUNT PLUS
 http://149.51.227.140:8080/josuelite1701/lite202607/462206?token=QkdbAhEMFVgSUFYHBVYCBlUAWFUGCAJcBFBTB1ABV1IMUABSAQEEW1QTThcSEkVVAA5mCFMbClBUUVcGUhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WDAJWClMfQRINU0AKE1sMUlMEA0NPGwRPTVUWDAIJaQBcRw1aABFZDBFbDhwTDVs+AlJdAA1dQw0bAUZOQQxFFBsLCkwJX09ABl4WQlAWUENcFQJQUAlDGxtTCxcNEUQdGwsKTAlfT0ABTxZVXxFcDggVCkMXSkMbG1kXPREARRBLVAVUAEFBWEYHQBwTD1QZOVRfDw1cAkNQXwoRQV8UVxsdRlQKXQoWC0U9QFgGF1tEDglSVwFXFUQ=
 #EXTINF:-1 tvg-name="SONY MOVIE" group-title="tv",SONY MOVIE
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167549
+#EXTINF:-1 tvg-name="SONY NOVELAS" group-title="tv",SONY NOVELAS
+http://xdplus.site:8880/live/Monica0405/DRRCQ/276161.ts
 #EXTINF:-1 tvg-name="SONY CHANNEL" group-title="tv",SONY CHANNEL
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167087
 #EXTINF:-1 tvg-name="de películas plus" group-title="tv",de películas plus
@@ -113,3 +113,7 @@ http://xdplus.site:8880/live/Monica0405/DRRCQ/217023.ts
 http://63.143.63.53:80/WFJobG5hOCtUSHh5VVpDQWJmL2tsemtuQ0VtMEFLbjh1aUZXUzNaUWRsT2NwVnpGcGgvcXJPemMyME00UXpsanYrc1lDeitoU2pCV0Q0RVBWTmpTU3FCSVdLaXNmNmR1ZEdGWWZIdTNUNmNsMDQ1MkV4SVFSVEVCcnY2MUFlSW9mT1ptaG9iaHM4bFVVVDMyVjVsanZ5ZjhDUDE0UHlIeit0SUJJdkZ2bDJhNXM4MWE3Y0xITWZPRVVGbEpwUVlQRTZXbVpNS1AwVXNFcWR5TlJsN3hWSFV1cUhlZ2t5MXBXWDVsYzZ1b3RHUGRTWlJ3eDYrNmxLMW5nN2ZpTDltSTE4cVZXSm5TeDR5RWphdlJEV2FaT3dQVE1ZMGZoN3lYY1JqK0prZ3pGN3VvRXdSb2JtWDJ6aW81SFQyUGVjQmhaOUMzWkRkRUNEdkFUSU9aV1MyOHZnPT0
 #EXTINF:-1 tvg-name="cine ar" group-title="tv",cine ar
 http://xdplus.site:8880/live/famador/TUWSK/54215.ts
+#EXTINF:-1 tvg-name="Tom y Jerry" group-title="tv",Tom y Jerry
+http://xdplus.site:8880/live/famador/TUWSK/108027.ts
+#EXTINF:-1 tvg-name="el auto fantástico" group-title="tv",el auto fantástico
+http://xdplus.site:8880/live/Monica0405/DRRCQ/107873.ts
