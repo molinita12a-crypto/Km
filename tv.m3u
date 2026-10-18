@@ -1,4 +1,4 @@
-#EXTM3U8
+#EXTM3U
 #EXTINF:-1 tvg-name="TN TODO NOTICIA" group-title="tv",TN TODO NOTICIA
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 tvg-name="CANAL 26" group-title="tv",CANAL 26
@@ -20,7 +20,7 @@ http://iptvpremium.ink:55577/Jerson1010/Hola2323/546252
 #EXTINF:-1 tvg-name="el garaje TV" group-title="tv",el garaje TV
 http://iptvpremium.ink:55577/Jerson1010/Hola2323/546263
 #EXTINF:-1 tvg-name="TELEFE" group-title="tv",TELEFE
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167955
+http://xdplus.site:8880/live/famador/TUWSK/12933.ts
 #EXTINF:-1 tvg-name="ciudad magazine" group-title="tv",ciudad magazine
 http://iptvpremium.ink:55577/Jerson1010/Hola2323/546284
 #EXTINF:-1 tvg-name="EL TRECE" group-title="tv",EL TRECE
@@ -76,19 +76,17 @@ http://iptvpremium.ink:55577/josuelite1701/lite202607/167065
 #EXTINF:-1 tvg-name="AYE" group-title="tv",AYE
 http://149.51.227.140:8080/josuelite1701/lite202607/167062?token=QkdbAhEMFVgSBAYBVFJRVgdUXQQCWFICUQYGDlYLUFdcVwIGBlUAV1ITThcSEkVVAA5mCFMbClVUVFUAVhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WDAFWDVQfQRINU0AKE1YGU18FBkNPGwRPTVUWDAIJaQBcRw1aABFZDBFbDhwTDVs+AlJdAA1dQw0bAUZOQQxFFBsLCkwJX09ABl4WQlAWUENcFQFSWw1DGxtTCxcNEUQdGwsKTAlfT0ABTxZVXxFcDggVCkMXSkMbG1kXPREARRBLVAVUAEFBWEYHQBwTD1QZOVRfDw1cAkNQXwoRQV8UVxsdRlQKXQoWC0U9QFgGF1tEBQNXWwpVDxtN
 #EXTINF:-1 tvg-name="TNT" group-title="tv",TNT
-http://iptvpremium.ink:55577/Jerson1010/Hola2323/167540
+http://xdplus.site:8880/live/famador/TUWSK/9495.ts
 #EXTINF:-1 tvg-name="TNT SERIES" group-title="tv",TNT SERIES
-http://170.39.119.153:8080/Jerson1010/Hola2323/1909?token=QkdbAhEMFVgSB1sCVFMHAVIBX1hVCgdQUABXAVMIBVdfXQIFUlJWWwUTThcSEkVVAA5mCFMbClVbU1waRkxCAUs6WgdAXhVQBwBQBlREGxIVClQEFQMBU1tSUARUCgZSFUdDCgZGDUABA1EHU0QbEgQbTQRFV1EIPQcAQA1aVEYDC0YPDkgVDV5uBlAMB1lUQ1kbUBUVEg0RE0cMCkxdCBVHUQoWFlYWVRNYF1BRDwFDTxsCWExeEBAaRwwKTF0IFUdWGxYBWRFZXgwXW0RDQ0NPGwhEZkIBERcXUwVUVBYbXxFTQEgVD1FJPVYOCFlVAhdQDllKEl5AUEcaRlReClARXBE9FF4GEgtAAVhVBgVDHg==
+http://xdplus.site:8880/live/famador/TUWSK/439780.ts
 #EXTINF:-1 tvg-name="TNT NOVELAS" group-title="tv",TNT NOVELAS
-http://149.51.227.140:8080/josuelite1701/lite202607/214394?token=QkdbAhEMFVgSBwQEWVBUAVYGCFMBAAYCBAADVAcOBQZbAFAFWl0DVlETThcSEkVVAA5mCFMbClZTV1YPUBUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WDAFXC10fQRINU0AKE1MAWF4FAldBFUNSQUQBEA0EWjtdVBJQBlZBWApCDlwdQFoPOVNVDAJXBRUDElVAT0dfF0kTXlcQXw9ORlULREMDQQREDRJQVwpVFRUSBw0WC0IWQBNeVxBfD05GUhpEVAxGCAlZEltBTRIVFRINETwXUxdNQwFYCFYRQF4VUhIdQFgAHmhTDg1XBFRNWQsMEEcMRgoTSBsIXA0LEFgQb0ELUUNcFQFUWgFVBgkSGQ==
+http://xdplus.site:8880/live/famador/TUWSK/542720.ts
 #EXTINF:-1 tvg-name="STAR CHANNEL" group-title="tv",STAR CHANNEL
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167073
 #EXTINF:-1 tvg-name="NOVELAS MEXICANA" group-title="tv",NOVELAS MEXICANA
 http://170.39.119.153:8080/josuelite1701/lite202607/252185?token=QkdbAhEMFVgSB1EHU1cDUVVVAAMHDAZUAFQADlQIBVZaV1AHV10HAAYTThcSEkVVAA5mCFMbClZXUVQOURUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WAARdC1EfQRINU0AKE1EAVVYDEk1BXBlDXEIKAw86UgFPWAdcRwkNFwhbThJeDGoFA1pRDwcbWxUIEkhAChZGRgNfEVUJH0EADUMQUUUHF1tEBQdUUhtNFVpfEQwXF09GA18RVQkfQQccQwdeQgtaD0QNEhUQG00VUEM7EAYWQhZcUAlcFxFZQFQVThJcA00+BVheDwZaFV5WXhdAWUcFRhUTCVYLWhcNFmgSWVVAD0NVAgNYVhsc
 #EXTINF:-1 tvg-name="PASIONES" group-title="tv",PASIONES
-http://iptvpremium.ink:55577/josuelite1701/lite202607/179814
-#EXTINF:-1 tvg-name="claro Cinema" group-title="tv",claro Cinema
-http://iptvpremium.ink:55577/Jerson1010/Hola2323/167553
+http://xdplus.site:8880/live/famador/TUWSK/439781.ts
 #EXTINF:-1 tvg-name="UNIVERSAL CHANNEL" group-title="tv",UNIVERSAL CHANNEL
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167081
 #EXTINF:-1 tvg-name="FX" group-title="tv",FX
@@ -110,11 +108,11 @@ http://iptvpremium.ink:55577/josuelite1701/lite202607/167559
 #EXTINF:-1 tvg-name="history channel" group-title="tv",history channel
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167590
 #EXTINF:-1 tvg-name="NAT GEO" group-title="tv",NAT GEO
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167585
+http://xdplus.site:8880/live/famador/TUWSK/242015.ts
 #EXTINF:-1 tvg-name="estudio universal" group-title="tv",estudio universal
 http://iptvpremium.ink:55577/Jerson1010/Hola2323/167535
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL" group-title="tv",DISCOVERY CHANNEL
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167560
+http://xdplus.site:8880/live/famador/TUWSK/186572.ts
 #EXTINF:-1 tvg-name="los Simpson 24/7" group-title="tv",los Simpson 24/7
 http://iptvpremium.ink:55577/Jerson1010/Hola2323/193119
 #EXTINF:-1 tvg-name="vix tv" group-title="tv",vix tv
