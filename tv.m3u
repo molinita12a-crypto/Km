@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="TN TODO NOTICIA" group-title="tv",TN TODO NOTICIA
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
-#EXTINF:-1 tvg-name="CANAL 26" group-title="tv",CANAL 26
-http://xdplus.site:8880/live/famador/TUWSK/54199.ts
-#EXTINF:-1 tvg-name="noticias" group-title="tv",noticias
-http://iptvpremium.ink:55577/josuelite1701/lite202607/195561
-#EXTINF:-1 tvg-name="A24" group-title="tv",A24
-http://xdplus.site:8880/movie/famador/TUWSK/527514.mp4
 #EXTINF:-1 tvg-name="C5N" group-title="tv",C5N
 http://xdplus.site:8880/live/famador/TUWSK/242080.ts
 #EXTINF:-1 tvg-name="ALERTA AEROPUERTO" group-title="tv",ALERTA AEROPUERTO
@@ -115,19 +109,7 @@ http://iptvpremium.ink:55577/Jerson1010/Hola2323/167535
 http://xdplus.site:8880/live/famador/TUWSK/186572.ts
 #EXTINF:-1 tvg-name="los Simpson 24/7" group-title="tv",los Simpson 24/7
 http://xdplus.site:8880/live/famador/TUWSK/217023.ts
-#EXTINF:-1 tvg-name="vix tv" group-title="tv",vix tv
-http://iptvpremium.ink:55577/Jerson1010/Hola2323/462078
-#EXTINF:-1 tvg-name="coraje el perro cobarde 24/7" group-title="tv",coraje el perro cobarde 24/7
-http://iptvpremium.ink:55577/Jerson1010/Hola2323/193190
-#EXTINF:-1 tvg-name="El Chapulín colorado 24/7" group-title="tv",El Chapulín colorado 24/7
-http://iptvpremium.ink:55577/Jerson1010/Hola2323/143412
-#EXTINF:-1 tvg-name="STAR + 1" group-title="tv",STAR + 1
-http://iptvpremium.ink:55577/josuelite1701/lite202607/170979
-#EXTINF:-1 tvg-name="STAR + 2" group-title="tv",STAR + 2
-http://iptvpremium.ink:55577/Jerson1010/Hola2323/259223
-#EXTINF:-1 tvg-name="STAR + 3" group-title="tv",STAR + 3
-http://iptvpremium.ink:55577/Jerson1010/Hola2323/259224
-#EXTINF:-1 tvg-name="STAR + 5" group-title="tv",STAR + 5
-http://iptvpremium.ink:55577/Jerson1010/Hola2323/259226
+#EXTINF:-1 tvg-name="Chespirito 24/7" group-title="tv",Chespirito 24/7
+http://63.143.63.53:80/WFJobG5hOCtUSHh5VVpDQWJmL2tsemtuQ0VtMEFLbjh1aUZXUzNaUWRsUFNTbnQ0azdCcnFBQTc2ZlJMOGpkcTNORXBxeCs3M3ZZeXFaZDdiZWJzNGtyVTlPdHFjTG8ySDFNbmtxZk5OV3B0Z1BPVHRIck5XQUZ0SUdMUDZKR1N3WklNQ0xzMnQxUFBYcndTTTRYUWlkZ21qTFhoV00wRkJzcUcvZWNjQllXTG9vdkpWRDFBZEFGam1zMXE5ZzhjanNLOWJMY1J5YjNCUGQ1OU5lMnpGc3BzMTJNQjRqeit5bHNHRHlHUEdCWkZIYzhSdFROL24vc24zenJvU1VSb3FvdlFnYVZsdDJ0MXdWeVQyc2JrV3BadlNKV3IxV0pwZ1plTGh5RmZaaE09
 #EXTINF:-1 tvg-name="cine ar" group-title="tv",cine ar
 http://xdplus.site:8880/live/famador/TUWSK/54215.ts
