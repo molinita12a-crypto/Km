@@ -15,6 +15,8 @@ http://xdplus.site:8880/live/famador/TUWSK/286030.ts
 http://xdplus.site:8880/live/famador/TUWSK/209745.ts
 #EXTINF:-1 tvg-name="TELEFE" group-title="tv",TELEFE
 http://xdplus.site:8880/live/famador/TUWSK/12933.ts
+#EXTINF:-1 tvg-name="América TV" group-title="tv",América TV
+http://xdplus.site:8880/live/Monica0405/DRRCQ/19983.ts
 #EXTINF:-1 tvg-name="EL TRECE" group-title="tv",EL TRECE
 http://170.39.119.153:8080/josuelite1701/lite202607/167936?token=QkdbAhEMFVgSV1dXVFAOUVdbX1EHWAldVQYDAFBaA1IOAVYFAFEFVgITThcSEkVVAA5mCFMbClVUVFwFUhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WAAdXDF0fQRINU0AKXxdZDUoVVRkXXBNZWFw7BgYTXwdcE15XEF8PTkZYDG9VB1gACFMSW0EIQxsbWRcSQV9YEVVdSBsHWhcQBUMHEgsMQA0KGxICDEwPQ0tJRlgNEFoIFRMBQRFWDRENWAwSC0BBEkQbEggQZhNSSkQWBwIIUxYbC0YJRx9BDwVPPVNeDFsEBUNZDg1KQw0bA0ZOQQhZClBFC0s6QwoGRg0MRV0OSA==
 #EXTINF:-1 tvg-name="ESPN 3" group-title="tv",ESPN 3
@@ -74,9 +76,9 @@ http://xdplus.site:8880/live/famador/TUWSK/439780.ts
 #EXTINF:-1 tvg-name="TNT NOVELAS" group-title="tv",TNT NOVELAS
 http://xdplus.site:8880/live/famador/TUWSK/542720.ts
 #EXTINF:-1 tvg-name="STAR CHANNEL" group-title="tv",STAR CHANNEL
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167073
-#EXTINF:-1 tvg-name="NOVELAS MEXICANA" group-title="tv",NOVELAS MEXICANA
-http://170.39.119.153:8080/josuelite1701/lite202607/252185?token=QkdbAhEMFVgSB1EHU1cDUVVVAAMHDAZUAFQADlQIBVZaV1AHV10HAAYTThcSEkVVAA5mCFMbClZXUVQOURUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WAARdC1EfQRINU0AKE1EAVVYDEk1BXBlDXEIKAw86UgFPWAdcRwkNFwhbThJeDGoFA1pRDwcbWxUIEkhAChZGRgNfEVUJH0EADUMQUUUHF1tEBQdUUhtNFVpfEQwXF09GA18RVQkfQQccQwdeQgtaD0QNEhUQG00VUEM7EAYWQhZcUAlcFxFZQFQVThJcA00+BVheDwZaFV5WXhdAWUcFRhUTCVYLWhcNFmgSWVVAD0NVAgNYVhsc
+http://xdplus.site:8880/live/Monica0405/DRRCQ/439744.ts
+#EXTINF:-1 tvg-name="vix Novelas" group-title="tv",vix Novelas
+http://xdplus.site:8880/live/Monica0405/DRRCQ/576584.ts
 #EXTINF:-1 tvg-name="PASIONES" group-title="tv",PASIONES
 http://xdplus.site:8880/live/famador/TUWSK/439781.ts
 #EXTINF:-1 tvg-name="UNIVERSAL CHANNEL" group-title="tv",UNIVERSAL CHANNEL
