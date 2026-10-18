@@ -20,7 +20,7 @@ http://xdplus.site:8880/live/Monica0405/DRRCQ/19983.ts
 #EXTINF:-1 tvg-name="EL TRECE" group-title="tv",EL TRECE
 http://xdplus.site:8880/live/Monica0405/DRRCQ/286050.ts
 #EXTINF:-1 tvg-name="ESPN 3" group-title="tv",ESPN 3
-http://iptvpremium.ink:55577/Jerson1010/Hola2323/179201
+http://xdplus.site:8880/live/famador/TUWSK/588132.ts
 #EXTINF:-1 tvg-name="DIRECTV SPORT" group-title="tv",DIRECTV SPORT
 http://iptvpremium.ink:55577/josuelite1701/lite202607/167208
 #EXTINF:-1 tvg-name="ESPN 3" group-title="tv",ESPN 3
@@ -28,7 +28,9 @@ http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167220
 #EXTINF:-1 tvg-name="Netflix eventos" group-title="tv",Netflix eventos
 http://170.39.119.153:8080/josuelite1701/lite202607/498017?token=QkdbAhEMFVgSAVABV1ICBlBVDlUDDVVXAVQDUAIBAVQIUlVaUgJVVwETThcSEkVVAA5mCFMbClBbW1UHUxUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXAZVCgNSD1YfQRINU0AKE1QCUV8VHEMGQRVSS14FDjwBUxJQUgEbX10WDggbQF9fPVEEC1ZeBUEDQwYbHEYLEBUUXldECFVJEQELEEUDRFRAD0NXBgZUQRVDVFZFChYRHBReV0QIVUkRBhoQUgxDWA1bQ1wVRBJBFUNeSm8WBxARRAFYXAFLRwlBUkYbQF1QGmoCCVleBABNCFhXQ0ZYQVYUSBtcC1cMRwwQO0cLVBNYF1dQAAdDHg==
 #EXTINF:-1 tvg-name="ESPN premium" group-title="tv",ESPN premium
-http://iptvpremium.ink:55577/josuelite1701/lite202607/179199
+http://xdplus.site:8880/live/famador/TUWSK/588138.ts
+#EXTINF:-1 tvg-name="ESPN 2" group-title="tv",ESPN 2
+http://xdplus.site:8880/live/famador/TUWSK/588138.ts
 #EXTINF:-1 tvg-name="danz f1" group-title="tv",danz f1
 http://iptvpremium.ink:55577/Jerson1010/Hola2323/179552
 #EXTINF:-1 tvg-name="TYC SPORT" group-title="tv",TYC SPORT
@@ -50,11 +52,11 @@ http://149.51.227.140:8080/josuelite1701/lite202607/167682?token=QkdbAhEMFVgSUls
 #EXTINF:-1 tvg-name="Disney channel" group-title="tv",Disney channel
 http://xdplus.site:8880/live/famador/TUWSK/439800.ts
 #EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="tv",CARTOON NETWORK
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167678
+http://xdplus.site:8880/live/Monica0405/DRRCQ/479144.ts
 #EXTINF:-1 tvg-name="CINECANAL" group-title="tv",CINECANAL
 http://149.51.227.140:8080/josuelite1701/lite202607/168155?token=QkdbAhEMFVgSBVIAU1NSCVFUWANWDwVdVAVXUAYJCAEJBlYBV11SUQMTThcSEkVVAA5mCFMbClVUW1QDURUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WAAZUAFwfQRINU0AKXxdZDUoVVRkXXBNZWFw7BgYTXwdcE15XEF8PTkZYDG9VB1gACFMSW0EIQxsbWRcSQV9YEVVdSBsHWhcQBUMHEgsMQA0KGxICDEwPQ0tJRlgNEFoIFRMBQRFWDRENWAwSC0BBEkQbEggQZhNSSkQWBwIIUxYbC0YJRx9BDwVPPVNeDFsEBUNZDg1KQw0bA0ZOQQhZClBFC0s6QwoGRg0MRV0OSA==
 #EXTINF:-1 tvg-name="TCM" group-title="tv",TCM
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167538
+http://xdplus.site:8880/live/Monica0405/DRRCQ/19563.ts
 #EXTINF:-1 tvg-name="SPACE" group-title="tv",SPACE
 http://xdplus.site:8880/live/famador/TUWSK/159153.ts
 #EXTINF:-1 tvg-name="HBO" group-title="tv",HBO
@@ -62,9 +64,9 @@ http://xdplus.site:8880/live/famador/TUWSK/439749.ts
 #EXTINF:-1 tvg-name="hbo Xtreme" group-title="tv",hbo Xtreme
 http://xdplus.site:8880/live/famador/TUWSK/73200.ts
 #EXTINF:-1 tvg-name="HBO 2" group-title="tv",HBO 2
-http://iptvpremium.ink:55577/Jerson1010/Hola2323/167518
+http://xdplus.site:8880/live/Monica0405/DRRCQ/286151.ts
 #EXTINF:-1 tvg-name="STAR CHANNEL" group-title="tv",STAR CHANNEL
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167089
+http://xdplus.site:8880/live/Monica0405/DRRCQ/439744.ts
 #EXTINF:-1 tvg-name="AXN" group-title="tv",AXN
 http://xdplus.site:8880/live/famador/TUWSK/241995.ts
 #EXTINF:-1 tvg-name="AYE" group-title="tv",AYE
