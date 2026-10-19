@@ -1,4 +1,4 @@
-#EXTM3U8
+#EXTM3U
 #EXTINF:-1 tvg-name="SO1E1" group-title="el mentalista",SO1E1
 http://iptvpremium.ink:55577/series/userx4628ww/cuentauserx4628fd/295812.mp4
 #EXTINF:-1 tvg-name="SO1E2" group-title="el mentalista",SO1E2
@@ -989,3 +989,11 @@ http://xdplus.site:8880/series/famador/TUWSK/270825.mkv
 http://xdplus.site:8880/series/famador/TUWSK/270826.mkv
 #EXTINF:-1 tvg-name="SO3E7" group-title="quién mató a Sara?",SO3E7
 http://xdplus.site:8880/series/famador/TUWSK/270827.mkv
+#EXTINF:-1 tvg-name="SO1E1" group-title="adolescencia",SO1E1
+http://xdplus.site:8880/series/famador/TUWSK/592407.mkv
+#EXTINF:-1 tvg-name="SO1E2" group-title="adolescencia",SO1E2
+http://xdplus.site:8880/series/famador/TUWSK/592408.mkv
+#EXTINF:-1 tvg-name="SO1E3" group-title="adolescencia",SO1E3
+http://xdplus.site:8880/series/famador/TUWSK/592409.mkv
+#EXTINF:-1 tvg-name="SO1E4" group-title="adolescencia",SO1E4
+http://xdplus.site:8880/series/famador/TUWSK/592410.mkv
