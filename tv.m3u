@@ -3,8 +3,6 @@
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 tvg-name="C5N" group-title="tv",C5N
 http://xdplus.site:8880/live/famador/TUWSK/242080.ts
-#EXTINF:-1 tvg-name="ALERTA AEROPUERTO" group-title="tv",ALERTA AEROPUERTO
-http://xdplus.site:8880/live/famador/TUWSK/531669.ts
 #EXTINF:-1 tvg-name="LAS ESTRELLAS" group-title="tv",LAS ESTRELLAS
 http://xdplus.site:8880/live/famador/TUWSK/415379.ts
 #EXTINF:-1 tvg-name="EL NUEVE" group-title="tv",EL NUEVE
@@ -71,6 +69,8 @@ http://xdplus.site:8880/live/famador/TUWSK/439780.ts
 http://xdplus.site:8880/live/Monica0405/DRRCQ/439744.ts
 #EXTINF:-1 tvg-name="vix Novelas" group-title="tv",vix Novelas
 http://xdplus.site:8880/live/Monica0405/DRRCQ/576584.ts
+#EXTINF:-1 tvg-name="ciudad magazine" group-title="tv",ciudad magazine
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 tvg-name="PASIONES" group-title="tv",PASIONES
 http://xdplus.site:8880/live/famador/TUWSK/439781.ts
 #EXTINF:-1 tvg-name="UNIVERSAL CHANNEL" group-title="tv",UNIVERSAL CHANNEL
@@ -117,3 +117,7 @@ http://xdplus.site:8880/live/Monica0405/DRRCQ/107873.ts
 http://xdplus.site:8880/live/Monica0405/DRRCQ/531686.ts
 #EXTINF:-1 tvg-name="Selena  24/7" group-title="tv",Selena  24/7
 http://xdplus.site:8880/live/famador/TUWSK/217012.ts
+#EXTINF:-1 tvg-name="ALERTA AEROPUERTO" group-title="tv",ALERTA AEROPUERTO
+http://xdplus.site:8880/live/famador/TUWSK/531669.ts
+#EXTINF:-1 tvg-name="radio pergamino" group-title="tv",radio pergamino
+https://streaming2.locucionar.com/proxy/radiomon?mp=/stream
