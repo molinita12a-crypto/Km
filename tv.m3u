@@ -3,10 +3,10 @@
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 tvg-name="C5N" group-title="tv",C5N
 http://xdplus.site:8880/live/famador/TUWSK/242080.ts
+#EXTINF:-1 tvg-name="canal 26" group-title="tv",canal 26
+http://xdplus.site:8880/live/famador/TUWSK/54199.ts
 #EXTINF:-1 tvg-name="ALERTA AEROPUERTO" group-title="tv",ALERTA AEROPUERTO
 http://xdplus.site:8880/live/famador/TUWSK/531669.ts
-#EXTINF:-1 tvg-name="rtv viva España" group-title="tv",rtv viva España
-http://iptvpremium.ink:55577/Jerson1010/Hola2323/244293
 #EXTINF:-1 tvg-name="LAS ESTRELLAS" group-title="tv",LAS ESTRELLAS
 http://xdplus.site:8880/live/famador/TUWSK/415379.ts
 #EXTINF:-1 tvg-name="EL NUEVE" group-title="tv",EL NUEVE
@@ -22,7 +22,7 @@ http://xdplus.site:8880/live/Monica0405/DRRCQ/286050.ts
 #EXTINF:-1 tvg-name="ESPN 3" group-title="tv",ESPN 3
 http://xdplus.site:8880/live/famador/TUWSK/588132.ts
 #EXTINF:-1 tvg-name="DIRECTV SPORT" group-title="tv",DIRECTV SPORT
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167208
+http://xdplus.site:8880/live/famador/TUWSK/310509.ts
 #EXTINF:-1 tvg-name="ESPN 3" group-title="tv",ESPN 3
 http://iptvpremium.ink:55577/UawWx5uEW3Gk/2ZPfNxmFAJKM/167220
 #EXTINF:-1 tvg-name="Netflix eventos" group-title="tv",Netflix eventos
