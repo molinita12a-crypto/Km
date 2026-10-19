@@ -65,8 +65,6 @@ http://xdplus.site:8880/live/famador/TUWSK/439749.ts
 http://xdplus.site:8880/live/famador/TUWSK/73200.ts
 #EXTINF:-1 tvg-name="HBO 2" group-title="tv",HBO 2
 http://xdplus.site:8880/live/Monica0405/DRRCQ/286151.ts
-#EXTINF:-1 tvg-name="STAR CHANNEL" group-title="tv",STAR CHANNEL
-http://xdplus.site:8880/live/Monica0405/DRRCQ/439744.ts
 #EXTINF:-1 tvg-name="AXN" group-title="tv",AXN
 http://xdplus.site:8880/live/famador/TUWSK/241995.ts
 #EXTINF:-1 tvg-name="AYE" group-title="tv",AYE
@@ -82,7 +80,7 @@ http://xdplus.site:8880/live/Monica0405/DRRCQ/576584.ts
 #EXTINF:-1 tvg-name="PASIONES" group-title="tv",PASIONES
 http://xdplus.site:8880/live/famador/TUWSK/439781.ts
 #EXTINF:-1 tvg-name="UNIVERSAL CHANNEL" group-title="tv",UNIVERSAL CHANNEL
-http://iptvpremium.ink:55577/josuelite1701/lite202607/167081
+http://xdplus.site:8880/live/famador/TUWSK/439738.ts
 #EXTINF:-1 tvg-name="FX" group-title="tv",FX
 http://xdplus.site:8880/live/famador/TUWSK/9546.ts
 #EXTINF:-1 tvg-name="PARAMOUNT PLUS" group-title="tv",PARAMOUNT PLUS
@@ -106,7 +104,9 @@ http://iptvpremium.ink:55577/josuelite1701/lite202607/167590
 #EXTINF:-1 tvg-name="NAT GEO" group-title="tv",NAT GEO
 http://xdplus.site:8880/live/famador/TUWSK/242015.ts
 #EXTINF:-1 tvg-name="estudio universal" group-title="tv",estudio universal
-http://iptvpremium.ink:55577/Jerson1010/Hola2323/167535
+http://xdplus.site:8880/live/famador/TUWSK/439738.ts
+#EXTINF:-1 tvg-name="el gourmet" group-title="tv",el gourmet
+http://xdplus.site:8880/live/famador/TUWSK/186629.ts
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL" group-title="tv",DISCOVERY CHANNEL
 http://xdplus.site:8880/live/famador/TUWSK/186572.ts
 #EXTINF:-1 tvg-name="los Simpson 24/7" group-title="tv",los Simpson 24/7
