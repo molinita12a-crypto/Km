@@ -41,8 +41,6 @@ http://xdplus.site:8880/live/Monica0405/DRRCQ/588159.ts
 http://xdplus.site:8880/live/Monica0405/DRRCQ/588160.ts
 #EXTINF:-1 tvg-name="Fox sport 3" group-title="tv",Fox sport 3
 http://iptvpremium.ink:55577/Jerson1010/Hola2323/167275
-#EXTINF:-1 tvg-name="DRAGON BALL GT 24/7" group-title="tv",DRAGON BALL GT 24/7
-http://iptvpremium.ink:55577/josuelite1701/lite202607/252195
 #EXTINF:-1 tvg-name="NICKELODEON" group-title="tv",NICKELODEON
 http://xdplus.site:8880/live/famador/TUWSK/439807.ts
 #EXTINF:-1 tvg-name="DISNEY JR" group-title="tv",DISNEY JR
@@ -119,3 +117,5 @@ http://xdplus.site:8880/live/famador/TUWSK/108027.ts
 http://xdplus.site:8880/live/Monica0405/DRRCQ/107873.ts
 #EXTINF:-1 tvg-name="ALF" group-title="tv",ALF
 http://xdplus.site:8880/live/Monica0405/DRRCQ/531686.ts
+#EXTINF:-1 tvg-name="Selena  24/7" group-title="tv",Selena  24/7
+http://xdplus.site:8880/live/famador/TUWSK/217012.ts
