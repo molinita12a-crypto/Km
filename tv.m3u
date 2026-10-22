@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-name="TN TODO NOTICIA" group-title="tv",TN TODO NOTICIA
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 tvg-name="C5N" group-title="tv",C5N
-http://xdplus.site:8880/live/famador/TUWSK/242080.ts
-#EXTINF:-1 tvg-name="RCN" group-title="tv",RCN
-http://xdplus.site:8880/live/famador/TUWSK/259372.ts
-#EXTINF:-1 tvg-name="latina TV" group-title="tv",latina TV
-http://xdplus.site:8880/live/famador/TUWSK/21772.ts
+http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/74258.ts
+#EXTINF:-1 tvg-name="canal 26" group-title="tv",canal 26
+http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/74264.ts
+#EXTINF:-1 tvg-name="LN" group-title="tv",LN
+http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/74287.ts
 #EXTINF:-1 tvg-name="Caracol TV" group-title="tv",Caracol TV
 http://xdplus.site:8880/live/famador/TUWSK/190520.ts
 #EXTINF:-1 tvg-name="radio pergamino" group-title="tv",radio pergamino
@@ -16,75 +16,71 @@ http://xdplus.site:8880/live/famador/TUWSK/171534.ts
 #EXTINF:-1 tvg-name="LAS ESTRELLAS" group-title="tv",LAS ESTRELLAS
 http://xdplus.site:8880/live/famador/TUWSK/415379.ts
 #EXTINF:-1 tvg-name="EL NUEVE" group-title="tv",EL NUEVE
-http://xdplus.site:8880/live/famador/TUWSK/286030.ts
+http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/74270.ts
 #EXTINF:-1 tvg-name="el garaje TV" group-title="tv",el garaje TV
-http://xdplus.site:8880/live/famador/TUWSK/209745.ts
+http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/74283.ts
 #EXTINF:-1 tvg-name="TELEFE" group-title="tv",TELEFE
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/74292.ts
 #EXTINF:-1 tvg-name="América TV" group-title="tv",América TV
-http://xdplus.site:8880/live/Monica0405/DRRCQ/19983.ts
+http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/74252.ts
 #EXTINF:-1 tvg-name="EL TRECE" group-title="tv",EL TRECE
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/74276.ts
 #EXTINF:-1 tvg-name="DIRECTV SPORT" group-title="tv",DIRECTV SPORT
 http://xdplus.site:8880/live/famador/TUWSK/310509.ts
 #EXTINF:-1 tvg-name="Netflix eventos" group-title="tv",Netflix eventos
 http://170.39.119.153:8080/josuelite1701/lite202607/498017?token=QkdbAhEMFVgSAVABV1ICBlBVDlUDDVVXAVQDUAIBAVQIUlVaUgJVVwETThcSEkVVAA5mCFMbClBbW1UHUxUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXAZVCgNSD1YfQRINU0AKE1QCUV8VHEMGQRVSS14FDjwBUxJQUgEbX10WDggbQF9fPVEEC1ZeBUEDQwYbHEYLEBUUXldECFVJEQELEEUDRFRAD0NXBgZUQRVDVFZFChYRHBReV0QIVUkRBhoQUgxDWA1bQ1wVRBJBFUNeSm8WBxARRAFYXAFLRwlBUkYbQF1QGmoCCVleBABNCFhXQ0ZYQVYUSBtcC1cMRwwQO0cLVBNYF1dQAAdDHg==
-#EXTINF:-1 tvg-name="ESPN premium" group-title="tv",ESPN premium
-http://xdplus.site:8880/live/famador/TUWSK/588138.ts
+#EXTINF:-1 tvg-name="ESPN 1" group-title="tv",ESPN 1
+http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/181839.ts
+#EXTINF:-1 tvg-name="ESPN 2" group-title="tv",ESPN 2
+http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/181843.ts
 #EXTINF:-1 tvg-name="ESPN 3" group-title="tv",ESPN 3
 http://xdplus.site:8880/live/famador/TUWSK/588132.ts
-#EXTINF:-1 tvg-name="ESPN 2" group-title="tv",ESPN 2
-http://xdplus.site:8880/live/famador/TUWSK/588138.ts
 #EXTINF:-1 tvg-name="danz f1" group-title="tv",danz f1
-http://xdplus.site:8880/live/famador/TUWSK/59587.ts
-#EXTINF:-1 tvg-name="TCM" group-title="tv",TCM
-http://xdplus.site:8880/live/Monica0405/DRRCQ/19563.ts
+http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/228381.ts
 #EXTINF:-1 tvg-name="TYC SPORT" group-title="tv",TYC SPORT
-http://xdplus.site:8880/live/famador/TUWSK/188939.ts
-#EXTINF:-1 tvg-name="danz Movistar" group-title="tv",danz Movistar
-http://iptvpremium.ink:55577/Jerson1010/Hola2323/179548
+http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/181746.ts
 #EXTINF:-1 tvg-name="Fox sport 1" group-title="tv",Fox sport 1
 http://xdplus.site:8880/live/Monica0405/DRRCQ/588159.ts
 #EXTINF:-1 tvg-name="Fox sport 2" group-title="tv",Fox sport 2
 http://xdplus.site:8880/live/Monica0405/DRRCQ/588160.ts
-#EXTINF:-1 tvg-name="Fox sport 3" group-title="tv",Fox sport 3
-http://iptvpremium.ink:55577/Jerson1010/Hola2323/167275
+#EXTINF:-1 tvg-name="Fox sport 1" group-title="tv",Fox sport 1
+http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/181919.ts
 #EXTINF:-1 tvg-name="NICKELODEON" group-title="tv",NICKELODEON
-http://xdplus.site:8880/live/famador/TUWSK/439807.ts
+http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182133.ts
 #EXTINF:-1 tvg-name="DISNEY JR" group-title="tv",DISNEY JR
 http://149.51.227.140:8080/josuelite1701/lite202607/167682?token=QkdbAhEMFVgSUlsGVVVWBlIBDQADAAEHV1QGB1cNVQYMBgYBBlNTAwITThcSEkVVAA5mCFMbClVUVFMOVhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WAARRDFEfQRINU0AKE1MAUF4AA1VBFUNSQUQBEA0EWjtdVBJQBlZBWApCDlwdQFoPOVNVDAJXBRUDElVAT0dfF0kTXlcQXw9ORlULREMDQQREDRJYWwBDGxtTCxcNEUQdGwsKTAlfT0ABTxZVXxFcDggVCkMXSkMbG1kXPREARRBLVAVUAEFBWEYHQBwTD1QZOVRfDw1cAkNQXwoRQV8UVxsdRlQKXQoWC0U9QFgGF1tEBgVUUg5YBxtN
-#EXTINF:-1 tvg-name="AYE" group-title="tv",AYE
-http://149.51.227.140:8080/josuelite1701/lite202607/167062?token=QkdbAhEMFVgSBAYBVFJRVgdUXQQCWFICUQYGDlYLUFdcVwIGBlUAV1ITThcSEkVVAA5mCFMbClVUVFUAVhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WDAFWDVQfQRINU0AKE1YGU18FBkNPGwRPTVUWDAIJaQBcRw1aABFZDBFbDhwTDVs+AlJdAA1dQw0bAUZOQQxFFBsLCkwJX09ABl4WQlAWUENcFQFSWw1DGxtTCxcNEUQdGwsKTAlfT0ABTxZVXxFcDggVCkMXSkMbG1kXPREARRBLVAVUAEFBWEYHQBwTD1QZOVRfDw1cAkNQXwoRQV8UVxsdRlQKXQoWC0U9QFgGF1tEBQNXWwpVDxtN
 #EXTINF:-1 tvg-name="Disney channel" group-title="tv",Disney channel
-http://xdplus.site:8880/live/famador/TUWSK/439800.ts
+http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182139.ts
 #EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="tv",CARTOON NETWORK
-http://xdplus.site:8880/live/Monica0405/DRRCQ/479144.ts
+http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182137.ts
 #EXTINF:-1 tvg-name="CINECANAL" group-title="tv",CINECANAL
 http://149.51.227.140:8080/josuelite1701/lite202607/168155?token=QkdbAhEMFVgSBVIAU1NSCVFUWANWDwVdVAVXUAYJCAEJBlYBV11SUQMTThcSEkVVAA5mCFMbClVUW1QDURUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WAAZUAFwfQRINU0AKXxdZDUoVVRkXXBNZWFw7BgYTXwdcE15XEF8PTkZYDG9VB1gACFMSW0EIQxsbWRcSQV9YEVVdSBsHWhcQBUMHEgsMQA0KGxICDEwPQ0tJRlgNEFoIFRMBQRFWDRENWAwSC0BBEkQbEggQZhNSSkQWBwIIUxYbC0YJRx9BDwVPPVNeDFsEBUNZDg1KQw0bA0ZOQQhZClBFC0s6QwoGRg0MRV0OSA==
+#EXTINF:-1 tvg-name="TCM" group-title="tv",TCM
+http://xdplus.site:8880/live/Monica0405/DRRCQ/19563.ts
 #EXTINF:-1 tvg-name="SPACE" group-title="tv",SPACE
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182078.ts
+#EXTINF:-1 tvg-name="TNT" group-title="tv",TNT
+http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182125.ts
+#EXTINF:-1 tvg-name="STAR CHANNEL" group-title="tv",STAR CHANNEL
+http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182079.ts
+#EXTINF:-1 tvg-name="AYE" group-title="tv",AYE
+http://149.51.227.140:8080/josuelite1701/lite202607/167062?token=QkdbAhEMFVgSBAYBVFJRVgdUXQQCWFICUQYGDlYLUFdcVwIGBlUAV1ITThcSEkVVAA5mCFMbClVUVFUAVhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WDAFWDVQfQRINU0AKE1YGU18FBkNPGwRPTVUWDAIJaQBcRw1aABFZDBFbDhwTDVs+AlJdAA1dQw0bAUZOQQxFFBsLCkwJX09ABl4WQlAWUENcFQFSWw1DGxtTCxcNEUQdGwsKTAlfT0ABTxZVXxFcDggVCkMXSkMbG1kXPREARRBLVAVUAEFBWEYHQBwTD1QZOVRfDw1cAkNQXwoRQV8UVxsdRlQKXQoWC0U9QFgGF1tEBQNXWwpVDxtN
 #EXTINF:-1 tvg-name="HBO plus" group-title="tv",HBO plus
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182114.ts
 #EXTINF:-1 tvg-name="hbo Xtreme" group-title="tv",hbo Xtreme
 http://xdplus.site:8880/live/famador/TUWSK/73200.ts
 #EXTINF:-1 tvg-name="HBO 2" group-title="tv",HBO 2
 http://xdplus.site:8880/live/Monica0405/DRRCQ/286151.ts
-#EXTINF:-1 tvg-name="STAR CHANNEL" group-title="tv",STAR CHANNEL
-http://xdplus.site:8880/live/Monica0405/DRRCQ/439744.ts
 #EXTINF:-1 tvg-name="FX" group-title="tv",FX
 http://64.31.62.1:80/WFJobG5hOCtUSHh5VVpDQWJmL2tsemtuQ0VtMEFLbjh1aUZXUzNaUWRsUFNTbnQ0azdCcnFBQTc2ZlJMOGpkcTNORXBxeCs3M3ZZeXFaZDdiZWJzNGtyVTlPdHFjTG8ySDFNbmtxZk5OV29mRittaytuRTg0bVhDK2tLSTM2T2k5UGRSUHBLL0E2QXhDMVR0OHo0bEN4eDBGYWxsSTE4b0hDbC94M3dURGx4WEQ3L1dDN3lndExwQWR4THhPdW9FcU5XZitxY2pCRzFSdW4vNndyV0V0YU1FSjAyN1Eyc1lKN0ZVcWZLUEFSYXFXWHJEY2gxblFOSkhzMG5PZlEvUThrcjlMN1JnYnlUK3Zzek03UEIrV0M3WUNSam9vYjg5TVRvUzZhNkxKTW89
-#EXTINF:-1 tvg-name="TNT" group-title="tv",TNT
-http://xdplus.site:8880/live/famador/TUWSK/158465.ts
 #EXTINF:-1 tvg-name="AXN" group-title="tv",AXN
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/265725.ts
 #EXTINF:-1 tvg-name="TNT SERIES" group-title="tv",TNT SERIES
-http://xdplus.site:8880/live/famador/TUWSK/439780.ts
-#EXTINF:-1 tvg-name="vix Novelas" group-title="tv",vix Novelas
-http://xdplus.site:8880/live/Monica0405/DRRCQ/576584.ts
+http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182096.ts
 #EXTINF:-1 tvg-name="PASIONES" group-title="tv",PASIONES
-http://xdplus.site:8880/live/famador/TUWSK/439781.ts
+http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/266788.ts
 #EXTINF:-1 tvg-name="UNIVERSAL CHANNEL" group-title="tv",UNIVERSAL CHANNEL
-http://xdplus.site:8880/live/famador/TUWSK/439738.ts
+http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182097.ts
 #EXTINF:-1 tvg-name="PARAMOUNT PLUS" group-title="tv",PARAMOUNT PLUS
 http://149.51.227.140:8080/josuelite1701/lite202607/462206?token=QkdbAhEMFVgSUFYHBVYCBlUAWFUGCAJcBFBTB1ABV1IMUABSAQEEW1QTThcSEkVVAA5mCFMbClBUUVcGUhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WDAJWClMfQRINU0AKE1sMUlMEA0NPGwRPTVUWDAIJaQBcRw1aABFZDBFbDhwTDVs+AlJdAA1dQw0bAUZOQQxFFBsLCkwJX09ABl4WQlAWUENcFQJQUAlDGxtTCxcNEUQdGwsKTAlfT0ABTxZVXxFcDggVCkMXSkMbG1kXPREARRBLVAVUAEFBWEYHQBwTD1QZOVRfDw1cAkNQXwoRQV8UVxsdRlQKXQoWC0U9QFgGF1tEDglSVwFXFUQ=
 #EXTINF:-1 tvg-name="SONY MOVIE" group-title="tv",SONY MOVIE
