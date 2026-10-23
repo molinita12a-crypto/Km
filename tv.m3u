@@ -99,10 +99,12 @@ http://181.78.0.107:8006/play/a07z/index.m3u8
 http://181.78.0.107:8006/play/a06y/index.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL" group-title="tv",DISCOVERY CHANNEL
 http://181.78.0.107:8006/play/a075/index.m3u8
-#EXTINF:-1 tvg-name="Ben 10 24/7" group-title="tv",Ben 10 24/7
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/173217.ts
+#EXTINF:-1 tvg-name="los Simpson 24/7" group-title="tv",los Simpson 24/7
+http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/294195.ts
 #EXTINF:-1 tvg-name="Tom y Jerry" group-title="tv",Tom y Jerry
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/302521.ts
+#EXTINF:-1 tvg-name="Ben 10 24/7" group-title="tv",Ben 10 24/7
+http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/173217.ts
 #EXTINF:-1 tvg-name="el auto fantástico" group-title="tv",el auto fantástico
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/420908.ts
 #EXTINF:-1 tvg-name="ALF" group-title="tv",ALF
