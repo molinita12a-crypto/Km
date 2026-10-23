@@ -1,9 +1,149 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Maléfica [2014]" group-title="Películas",Maléfica [2014]
+#EXTINF:-1 group-title="Películas",Maléfica [2014]
 http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/78920.mp4
-#EXTINF:-1 tvg-name="Maléfica 2: La Dueña del Mal [2019]" group-title="Películas",Maléfica 2: La Dueña del Mal [2019]
+#EXTINF:-1 group-title="Películas",Maléfica 2: La Dueña del Mal [2019]
 http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/372778.mkv
-#EXTINF:-1 tvg-name="¡Scooby Doo! ¡Y Krypto también! [2023]" group-title="Películas",¡Scooby Doo! ¡Y Krypto también! [2023]
+#EXTINF:-1 group-title="Películas",¡Cuidado: Bebé suelto! [1994]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/147370.mkv
+#EXTINF:-1 group-title="Películas",¡Scooby Doo! ¡Y Krypto también! [2023]
 http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/428818.mkv
-#EXTINF:-1 tvg-name="La calle del terror: La reina del baile [2025]" group-title="Películas",La calle del terror: La reina del baile [2025]
+#EXTINF:-1 group-title="Películas",La calle del terror: La reina del baile [2025]
 http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/354071.mp4
+#EXTINF:-1 group-title="Películas",Rápido y furioso [2001]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/279726.mp4
+#EXTINF:-1 group-title="Películas",Rápido y furioso: Reto Tokio [2006]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/279689.mkv
+#EXTINF:-1 group-title="Películas",Yo Antes de Ti [2016]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/376021.mkv
+#EXTINF:-1 group-title="Películas",El novio de mamá [2025]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/368143.mp4
+#EXTINF:-1 group-title="Películas",Los pitufos y el jinete sin cabeza [2013]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/173839.avi
+#EXTINF:-1 group-title="Películas",La leyenda del jinete sin cabeza [1999]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/271586.mkv
+#EXTINF:-1 group-title="Películas",Lamborghini: El Hombre Detrás De La Leyenda [2022]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/305164.mp4
+#EXTINF:-1 group-title="Películas",La teoría del todo [2014]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/154604.mp4
+#EXTINF:-1 group-title="Películas",Cicatrices 2 [2007]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/312569.mp4
+#EXTINF:-1 group-title="Películas",Cicatrices [2005]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/312568.mkv
+#EXTINF:-1 group-title="Películas",La vida secreta de tus mascotas [2016]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/173835.mkv
+#EXTINF:-1 group-title="Películas",La Vida Secreta De Tus Mascotas 2 [2019]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/173439.mkv
+#EXTINF:-1 group-title="Películas",La bella y la bestia [1991]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/173619.mkv
+#EXTINF:-1 group-title="Películas",La bella y la bestia [2017]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/78911.mkv
+#EXTINF:-1 group-title="Películas",La bella y la bestia: Una Navidad encantada [1997]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/173620.mkv
+#EXTINF:-1 group-title="Películas",LEGO Frozen: Operation Puffins [2025]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/378347.mkv
+#EXTINF:-1 group-title="Películas",Frozen: Fiebre Congelada [2015]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/173581.mp4
+#EXTINF:-1 group-title="Películas",Frozen: Una Aventura Congelada [2013]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/173579.mp4
+#EXTINF:-1 group-title="Películas",Frozen 2 [2019]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/372715.mp4
+#EXTINF:-1 group-title="Películas",Parte VI: Jason vive " tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2hbNbi41Gx2EHO16Ei2WUr4Lggq.jpg" group-title="SAGAS",Viernes 13, Parte VI: Jason vive [1986]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/187587.mkv
+#EXTINF:-1 group-title="Películas",Viernes 13 - Parte 8: Jason Toma Manhattan [1989]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/187585.mkv
+#EXTINF:-1 group-title="Películas",Parte III " tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6BUZejBlchP9rrbJMBhQlRCpk9b.jpg" group-title="SAGAS",Viernes 13, Parte III [1982]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/187584.mkv
+#EXTINF:-1 group-title="Películas",Parte II " tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n2D3JuHNBTZENynVlj0vuBILykG.jpg" group-title="SAGAS",Viernes 13, Parte II [1981]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/187583.mkv
+#EXTINF:-1 group-title="Películas",Parte IV: El último capítulo " tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tYSBsTqBR1FGBnahTf3ACyRM3gn.jpg" group-title="SAGAS",Viernes 13, Parte IV: El último capítulo [1984]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/187582.mkv
+#EXTINF:-1 group-title="Películas",Viernes 13 [1980]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/187580.mkv
+#EXTINF:-1 group-title="Películas",Parte VI: Jason vive " tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/l9RFv2Ulev2lpnQVDHEcTVFon7v.jpg" group-title="PELICULAS RETRO",Viernes 13, Parte VI: Jason vive [1986]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/97003.mkv
+#EXTINF:-1 group-title="Películas",Parte VII: Sangre nueva " tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4K4noCHKnAsxwFddhkYHbh4EBgz.jpg" group-title="PELICULAS RETRO",Viernes 13, Parte VII: Sangre nueva [1988]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/97002.mkv
+#EXTINF:-1 group-title="Películas",Parte VIII: Jason toma Manhattan " tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sVvP2woMRNNXe70fqTCo78co96V.jpg" group-title="PELICULAS RETRO",Viernes 13, Parte VIII: Jason toma Manhattan [1989]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/97001.mkv
+#EXTINF:-1 group-title="Películas",Parte III " tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/isCTWFTrfnSvkmG0LR8lq6gh3n5.jpg" group-title="PELICULAS RETRO",Viernes 13, Parte III [1982]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/97000.mkv
+#EXTINF:-1 group-title="Películas",Parte IV: El último capítulo " tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tYSBsTqBR1FGBnahTf3ACyRM3gn.jpg" group-title="PELICULAS RETRO",Viernes 13, Parte IV: El último capítulo [1984]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/96999.mkv
+#EXTINF:-1 group-title="Películas",Parte II " tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n2D3JuHNBTZENynVlj0vuBILykG.jpg" group-title="PELICULAS RETRO",Viernes 13, Parte II [1981]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/96998.mkv
+#EXTINF:-1 group-title="Películas",Viernes 13 [1980]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/96996.mkv
+#EXTINF:-1 group-title="Películas",Viernes 13 [1980]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/139166.mkv
+#EXTINF:-1 group-title="Películas",Parte VI: Jason vive " tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2hbNbi41Gx2EHO16Ei2WUr4Lggq.jpg" group-title="TERROR Y MISTERIO",Viernes 13, Parte VI: Jason vive [1986]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/139164.mkv
+#EXTINF:-1 group-title="Películas",Viernes 13 - Parte 8: Jason Toma Manhattan [1989]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/139162.mkv
+#EXTINF:-1 group-title="Películas",Parte IV: El último capítulo " tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tYSBsTqBR1FGBnahTf3ACyRM3gn.jpg" group-title="TERROR Y MISTERIO",Viernes 13, Parte IV: El último capítulo [1984]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/139161.mkv
+#EXTINF:-1 group-title="Películas",Parte III " tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6BUZejBlchP9rrbJMBhQlRCpk9b.jpg" group-title="TERROR Y MISTERIO",Viernes 13, Parte III [1982]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/139160.mkv
+#EXTINF:-1 group-title="Películas",Parte II " tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n2D3JuHNBTZENynVlj0vuBILykG.jpg" group-title="TERROR Y MISTERIO",Viernes 13, Parte II [1981]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/139159.mkv
+#EXTINF:-1 group-title="Películas",Viernes 13 [1980]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/139158.mkv
+#EXTINF:-1 group-title="Películas",Viernes 13 Parte 10: Jason X - Al Espacio [2001]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/139157.mkv
+#EXTINF:-1 group-title="Películas",Pirañas 3DD [2012]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/81131.mkv
+#EXTINF:-1 group-title="Películas",300: El Nacimiento de un Imperio [2014]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/187452.mp4
+#EXTINF:-1 group-title="Películas",300 [2007]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/187451.mp4
+#EXTINF:-1 group-title="Películas",Hazme el favor [2023]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/375962.mkv
+#EXTINF:-1 group-title="Películas",Un Papá Genial [1999]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/96764.mkv
+#EXTINF:-1 group-title="Películas",Como si fuera la primera vez [2004]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/375893.mkv
+#EXTINF:-1 group-title="Películas",Como si fuera la primera vez [2019]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/177699.mkv
+#EXTINF:-1 group-title="Películas",Susurran tu nombre [2026]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/470609.mkv
+#EXTINF:-1 group-title="Películas",La huérfana: El origen [2022]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/374492.mp4
+#EXTINF:-1 group-title="Películas",La batalla de los espíritus: El Aro vs. La Maldición [2016]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/374623.mp4
+#EXTINF:-1 group-title="Películas",El Aro: Resurrección [2020]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/374307.mkv
+#EXTINF:-1 group-title="Películas",El aro 3 [2017]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/374306.mkv
+#EXTINF:-1 group-title="Películas",El aro 2 [2005]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/374305.mkv
+#EXTINF:-1 group-title="Películas",El aro [1998]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/374304.mkv
+#EXTINF:-1 group-title="Películas",El aro 2 [2005]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/81070.mkv
+#EXTINF:-1 group-title="Películas",El aro: Capítulo final [2019]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/80985.mkv
+#EXTINF:-1 group-title="Películas",La Chica de al Lado [2004]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/154569.mkv
+#EXTINF:-1 group-title="Películas",Cantinflas [2014]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/236422.mp4
+#EXTINF:-1 group-title="Películas",Terremoto: La Falla De San Andrés [2015]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/279700.mkv
+#EXTINF:-1 group-title="Películas",Lilo, cocodrilo " tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7TN4JloWKhPJ6vBazjllfAQMbeN.jpg" group-title="PELICULAS 2022",Lilo, Lilo, cocodrilo [2022]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/174679.mkv
+#EXTINF:-1 group-title="Películas",Coco [2017]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/173526.mkv
+#EXTINF:-1 group-title="Películas",el pequeño dragón. Aventuras en la Jungla " tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tYLiyeoRBwNosk0NNh5uoqeEgEj.jpg" group-title="AVENTURA Y FAMILIAR",Coco, el pequeño dragón. Aventuras en la Jungla [2018]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/271415.mkv
+#EXTINF:-1 group-title="Películas",Coco [2017]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/372668.mkv
+#EXTINF:-1 group-title="Películas",Cocodrilo Dundee II [1988]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/96862.mkv
+#EXTINF:-1 group-title="Películas",Cocodrilo Dundee [1986]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/96861.mkv
+#EXTINF:-1 group-title="Películas",Cocoon [1985]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/96846.mkv
+#EXTINF:-1 group-title="Películas",El cocodrilo - Mandibulas o Lake Placid [1999]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/236685.mp4
+#EXTINF:-1 group-title="Películas",Coco [2017]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/236475.mp4
+#EXTINF:-1 group-title="Películas",Coco: Celebración musical [2020]
+http://tv.prestalacuenta.club:2095/movie/CristianCastillo9/8TAVXM94/373210.mp4
