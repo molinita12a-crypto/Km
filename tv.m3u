@@ -7,10 +7,10 @@ http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/74258.ts
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/74264.ts
 #EXTINF:-1 tvg-name="LN" group-title="tv",LN
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/74287.ts
-#EXTINF:-1 tvg-name="3/24" group-title="tv",3/24
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182207.ts
 #EXTINF:-1 tvg-name="radio pergamino" group-title="tv",radio pergamino
 https://streaming2.locucionar.com/proxy/radiomon?mp=/stream
+#EXTINF:-1 tvg-name="señal Colombia" group-title="tv",señal Colombia
+http://181.78.0.107:8006/play/a0ar/index.m3u8
 #EXTINF:-1 tvg-name="Telemundo" group-title="tv",Telemundo
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182224.ts
 #EXTINF:-1 tvg-name="LAS ESTRELLAS" group-title="tv",LAS ESTRELLAS
@@ -21,8 +21,6 @@ http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/74270.ts
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/74283.ts
 #EXTINF:-1 tvg-name="TELEFE" group-title="tv",TELEFE
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/74292.ts
-#EXTINF:-1 tvg-name="América TV" group-title="tv",América TV
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/74252.ts
 #EXTINF:-1 tvg-name="EL TRECE" group-title="tv",EL TRECE
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/74276.ts
 #EXTINF:-1 tvg-name="RCN" group-title="tv",RCN
@@ -47,16 +45,16 @@ http://xdplus.site:8880/live/Monica0405/DRRCQ/588160.ts
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/181919.ts
 #EXTINF:-1 tvg-name="NICKELODEON" group-title="tv",NICKELODEON
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182133.ts
+#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="tv",CARTOON NETWORK
+http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182137.ts
+#EXTINF:-1 tvg-name="Discovery kids" group-title="tv",Discovery kids
+http://181.78.0.107:8006/play/a086/index.m3u8
 #EXTINF:-1 tvg-name="DISNEY JR" group-title="tv",DISNEY JR
 http://149.51.227.140:8080/josuelite1701/lite202607/167682?token=QkdbAhEMFVgSUlsGVVVWBlIBDQADAAEHV1QGB1cNVQYMBgYBBlNTAwITThcSEkVVAA5mCFMbClVUVFMOVhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WAARRDFEfQRINU0AKE1MAUF4AA1VBFUNSQUQBEA0EWjtdVBJQBlZBWApCDlwdQFoPOVNVDAJXBRUDElVAT0dfF0kTXlcQXw9ORlULREMDQQREDRJYWwBDGxtTCxcNEUQdGwsKTAlfT0ABTxZVXxFcDggVCkMXSkMbG1kXPREARRBLVAVUAEFBWEYHQBwTD1QZOVRfDw1cAkNQXwoRQV8UVxsdRlQKXQoWC0U9QFgGF1tEBgVUUg5YBxtN
 #EXTINF:-1 tvg-name="Disney channel" group-title="tv",Disney channel
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182139.ts
-#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="tv",CARTOON NETWORK
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182137.ts
 #EXTINF:-1 tvg-name="CINECANAL" group-title="tv",CINECANAL
 http://149.51.227.140:8080/josuelite1701/lite202607/168155?token=QkdbAhEMFVgSBVIAU1NSCVFUWANWDwVdVAVXUAYJCAEJBlYBV11SUQMTThcSEkVVAA5mCFMbClVUW1QDURUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WAAZUAFwfQRINU0AKXxdZDUoVVRkXXBNZWFw7BgYTXwdcE15XEF8PTkZYDG9VB1gACFMSW0EIQxsbWRcSQV9YEVVdSBsHWhcQBUMHEgsMQA0KGxICDEwPQ0tJRlgNEFoIFRMBQRFWDRENWAwSC0BBEkQbEggQZhNSSkQWBwIIUxYbC0YJRx9BDwVPPVNeDFsEBUNZDg1KQw0bA0ZOQQhZClBFC0s6QwoGRg0MRV0OSA==
-#EXTINF:-1 tvg-name="TCM" group-title="tv",TCM
-http://xdplus.site:8880/live/Monica0405/DRRCQ/19563.ts
 #EXTINF:-1 tvg-name="SPACE" group-title="tv",SPACE
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182078.ts
 #EXTINF:-1 tvg-name="TNT" group-title="tv",TNT
@@ -79,38 +77,28 @@ http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/265725.ts
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182096.ts
 #EXTINF:-1 tvg-name="PASIONES" group-title="tv",PASIONES
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/266788.ts
-#EXTINF:-1 tvg-name="UNIVERSAL CHANNEL" group-title="tv",UNIVERSAL CHANNEL
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182097.ts
 #EXTINF:-1 tvg-name="PARAMOUNT PLUS" group-title="tv",PARAMOUNT PLUS
 http://149.51.227.140:8080/josuelite1701/lite202607/462206?token=QkdbAhEMFVgSUFYHBVYCBlUAWFUGCAJcBFBTB1ABV1IMUABSAQEEW1QTThcSEkVVAA5mCFMbClBUUVcGUhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WDAJWClMfQRINU0AKE1sMUlMEA0NPGwRPTVUWDAIJaQBcRw1aABFZDBFbDhwTDVs+AlJdAA1dQw0bAUZOQQxFFBsLCkwJX09ABl4WQlAWUENcFQJQUAlDGxtTCxcNEUQdGwsKTAlfT0ABTxZVXxFcDggVCkMXSkMbG1kXPREARRBLVAVUAEFBWEYHQBwTD1QZOVRfDw1cAkNQXwoRQV8UVxsdRlQKXQoWC0U9QFgGF1tEDglSVwFXFUQ=
-#EXTINF:-1 tvg-name="SONY MOVIE" group-title="tv",SONY MOVIE
-http://xdplus.site:8880/live/famador/TUWSK/199523.ts
-#EXTINF:-1 tvg-name="SONY NOVELAS" group-title="tv",SONY NOVELAS
-http://xdplus.site:8880/live/Monica0405/DRRCQ/276161.ts
 #EXTINF:-1 tvg-name="SONY CHANNEL" group-title="tv",SONY CHANNEL
 http://xdplus.site:8880/live/famador/TUWSK/439783.ts
+#EXTINF:-1 tvg-name="SONY MOVIE" group-title="tv",SONY MOVIE
+http://181.78.0.107:8006/play/a0ah/index.m3u8
 #EXTINF:-1 tvg-name="cine películas plus" group-title="tv",cine películas plus
-http://xdplus.site:8880/live/famador/TUWSK/53095.ts
-#EXTINF:-1 tvg-name="cine ar" group-title="tv",cine ar
-http://xdplus.site:8880/live/famador/TUWSK/54215.ts
+http://181.78.0.107:8006/play/a06q/index.m3u8
 #EXTINF:-1 tvg-name="WARNER" group-title="tv",WARNER
-http://xdplus.site:8880/live/famador/TUWSK/439740.ts
+http://181.78.0.107:8006/play/a08c/index.m3u8
 #EXTINF:-1 tvg-name="AMC" group-title="tv",AMC
-http://xdplus.site:8880/live/famador/TUWSK/439762.ts
+http://181.78.0.107:8006/play/a085/index.m3u8
 #EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="tv",ANIMAL PLANET
 http://xdplus.site:8880/live/famador/TUWSK/229242.ts
 #EXTINF:-1 tvg-name="history channel" group-title="tv",history channel
-http://xdplus.site:8880/live/famador/TUWSK/186570.ts
+http://181.78.0.107:8006/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-name="NAT GEO" group-title="tv",NAT GEO
-http://xdplus.site:8880/live/famador/TUWSK/242015.ts
-#EXTINF:-1 tvg-name="estudio universal" group-title="tv",estudio universal
-http://xdplus.site:8880/live/famador/TUWSK/439738.ts
-#EXTINF:-1 tvg-name="el gourmet" group-title="tv",el gourmet
-http://xdplus.site:8880/live/famador/TUWSK/186629.ts
+http://181.78.0.107:8006/play/a07z/index.m3u8
+#EXTINF:-1 tvg-name="universal channel" group-title="tv",universal channel
+http://181.78.0.107:8006/play/a06y/index.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL" group-title="tv",DISCOVERY CHANNEL
-http://xdplus.site:8880/live/famador/TUWSK/186572.ts
-#EXTINF:-1 tvg-name="los Simpson 24/7" group-title="tv",los Simpson 24/7
-http://xdplus.site:8880/live/famador/TUWSK/216938.ts
+http://181.78.0.107:8006/play/a075/index.m3u8
 #EXTINF:-1 tvg-name="Ben 10 24/7" group-title="tv",Ben 10 24/7
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/173217.ts
 #EXTINF:-1 tvg-name="Tom y Jerry" group-title="tv",Tom y Jerry
@@ -118,8 +106,6 @@ http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/302521.ts
 #EXTINF:-1 tvg-name="el auto fantástico" group-title="tv",el auto fantástico
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/420908.ts
 #EXTINF:-1 tvg-name="ALF" group-title="tv",ALF
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/294199.ts
-#EXTINF:-1 tvg-name="Selena  24/7" group-title="tv",Selena  24/7
-http://xdplus.site:8880/live/famador/TUWSK/217012.ts
-#EXTINF:-1 tvg-name="ALERTA AEROPUERTO" group-title="tv",ALERTA AEROPUERTO
-http://xdplus.site:8880/live/famador/TUWSK/531669.ts
+https://usher.ttvnw.net/api/v2/channel/hls/alf_espanol.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiZjVhZmIxYWQtMWJlZi00ZDk4LTkyN2ItZTZmZGI5ODk3NmE0IiwiQ2xpZW50QXBwIjoidHdpbGlnaHQiLCJVUkwiOiJodHRwczovL20udHdpdGNoLnR2L2FsZl9lc3Bhbm9sIn0%3D&allow_audio_only=true&allow_source=true&browser_family=chrome&browser_version=155.0&cdm=wv&device_manufacturer=Samsung&device_model=SM-A155M&enable_score=true&fast_bread=true&include_unavailable=true&lang=es&multigroup_video=true&os_name=Android&os_version=16&p=6911052&platform=androidtv_web_tv&play_session_id=5e0a3d7b56114884b7c66db91a381916&player_backend=mediaplayer&player_version=1.58.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=a8273f83ccdb45061a08d77eff33725d5425f15c&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22alf_espanol%22%2C%22channel_id%22%3A1004131023%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22ca35dba633044baea986a888e2e20e58%22%2C%22expires%22%3A1792699771%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22notification_id%22%3Anull%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22vertical%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.209.89.50%22%2C%22version%22%3A3%2C%22maximum_resolution%22%3A%22FULL_HD%22%2C%22maximum_video_bitrate_kbps%22%3A12500%2C%22maximum_resolution_reasons%22%3A%7B%22QUAD_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%2C%22ULTRA_HD%22%3A%5B%22AUTHZ_NOT_LOGGED_IN%22%5D%7D%2C%22maximum_video_bitrate_kbps_reasons%22%3A%5B%22AUTHZ_DISALLOWED_BITRATE%22%5D%7D&transcode_mode=cbr_v1
+#EXTINF:-1 tvg-name="Discovery turbo" group-title="tv",Discovery turbo
+http://181.78.0.107:8006/play/a04d/index.m3u8
