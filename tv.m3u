@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U8
 #EXTINF:-1 tvg-name="TN TODO NOTICIA" group-title="tv",TN TODO NOTICIA
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 tvg-name="C5N" group-title="tv",C5N
