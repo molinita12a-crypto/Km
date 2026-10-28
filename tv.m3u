@@ -102,22 +102,22 @@ http://181.78.0.107:8006/play/a075/index.m3u8
 #EXTINF:-1 tvg-name="los Simpson 24/7" group-title="tv",los Simpson 24/7
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/294195.ts
 #EXTINF:-1 tvg-name="Tom y Jerry" group-title="tv",Tom y Jerry
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/302521.ts
-#EXTINF:-1 tvg-name="Ben 10 24/7" group-title="tv",Ben 10 24/7
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/173217.ts
+https://dalive.site:443/Roberto0475/yFPBdxjTyB/479406
 #EXTINF:-1 tvg-name="el auto fantástico" group-title="tv",el auto fantástico
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/420908.ts
+https://dalive.site:443/Roberto0475/yFPBdxjTyB/479408
 #EXTINF:-1 tvg-name="ALF" group-title="tv",ALF
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/294199.ts
+https://dalive.site:443/Roberto0475/yFPBdxjTyB/479485
+#EXTINF:-1 tvg-name="El coyote24/7" group-title="tv",El coyote24/7
+https://dalive.site:443/Roberto0475/yFPBdxjTyB/479374
+#EXTINF:-1 tvg-name="Jimmy neutrón" group-title="tv",Jimmy neutrón
+https://dalive.site:443/Roberto0475/yFPBdxjTyB/479487
 #EXTINF:-1 tvg-name="hey Arnold" group-title="tv",hey Arnold
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/173225.ts
-#EXTINF:-1 tvg-name="CatDog 24/7" group-title="tv",CatDog 24/7
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/173220.ts
-#EXTINF:-1 tvg-name="laboratorio de Dexter 24/7" group-title="tv",laboratorio de Dexter 24/7
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/173221.ts
-#EXTINF:-1 tvg-name="31 minutos 24/7" group-title="tv",31 minutos 24/7
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/210638.ts
-#EXTINF:-1 tvg-name="Scooby Doo 24/7" group-title="tv",Scooby Doo 24/7
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/173228.ts
+https://generador.nubservices.com/api/pluto/playlist/66c79221b1a34600087e264d.m3u8?country=AR&token=6f4f81f717980403115b95675b0ab34470bef2537f8eacbe
+#EXTINF:-1 tvg-name="El pájaro loco 24/7" group-title="tv",El pájaro loco 24/7
+https://dalive.site:443/Roberto0475/yFPBdxjTyB/479377
+#EXTINF:-1 tvg-name="Mr Bean 24/7" group-title="tv",Mr Bean 24/7
+https://dalive.site:443/Roberto0475/yFPBdxjTyB/479390
+#EXTINF:-1 tvg-name="Johnny bravo 24/7" group-title="tv",Johnny bravo 24/7
+https://dalive.site:443/Roberto0475/yFPBdxjTyB/479379
 #EXTINF:-1 tvg-name="Discovery turbo" group-title="tv",Discovery turbo
 http://181.78.0.107:8006/play/a04d/index.m3u8
