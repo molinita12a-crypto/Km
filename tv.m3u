@@ -1,4 +1,4 @@
-#EXTM3U8
+#EXTM3U
 #EXTINF:-1 tvg-name="TN TODO NOTICIA" group-title="tv",TN TODO NOTICIA
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 #EXTINF:-1 tvg-name="C5N" group-title="tv",C5N
@@ -27,10 +27,10 @@ http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/74253.ts
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/74276.ts
 #EXTINF:-1 tvg-name="Netflix eventos" group-title="tv",Netflix eventos
 http://170.39.119.153:8080/josuelite1701/lite202607/498017?token=QkdbAhEMFVgSAVABV1ICBlBVDlUDDVVXAVQDUAIBAVQIUlVaUgJVVwETThcSEkVVAA5mCFMbClBbW1UHUxUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXAZVCgNSD1YfQRINU0AKE1QCUV8VHEMGQRVSS14FDjwBUxJQUgEbX10WDggbQF9fPVEEC1ZeBUEDQwYbHEYLEBUUXldECFVJEQELEEUDRFRAD0NXBgZUQRVDVFZFChYRHBReV0QIVUkRBhoQUgxDWA1bQ1wVRBJBFUNeSm8WBxARRAFYXAFLRwlBUkYbQF1QGmoCCVleBABNCFhXQ0ZYQVYUSBtcC1cMRwwQO0cLVBNYF1dQAAdDHg==
-#EXTINF:-1 tvg-name="ESPN 1" group-title="tv",ESPN 1
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/181839.ts
+#EXTINF:-1 tvg-name="ESPN premium" group-title="tv",ESPN premium
+https://dalive.site:443/Roberto0475/yFPBdxjTyB/369708
 #EXTINF:-1 tvg-name="ESPN 2" group-title="tv",ESPN 2
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/181843.ts
+https://dalive.site:443/Roberto0475/yFPBdxjTyB/369714
 #EXTINF:-1 tvg-name="ESPN 3" group-title="tv",ESPN 3
 http://xdplus.site:8880/live/famador/TUWSK/588132.ts
 #EXTINF:-1 tvg-name="danz f1" group-title="tv",danz f1
@@ -106,7 +106,7 @@ https://dalive.site:443/Roberto0475/yFPBdxjTyB/479406
 #EXTINF:-1 tvg-name="el auto fantástico" group-title="tv",el auto fantástico
 https://dalive.site:443/Roberto0475/yFPBdxjTyB/479408
 #EXTINF:-1 tvg-name="ALF" group-title="tv",ALF
-https://dalive.site:443/Roberto0475/yFPBdxjTyB/479485
+https://dalive.site:443/348145/3MMHv9VWxf/479485
 #EXTINF:-1 tvg-name="El coyote24/7" group-title="tv",El coyote24/7
 https://dalive.site:443/Roberto0475/yFPBdxjTyB/479374
 #EXTINF:-1 tvg-name="Jimmy neutrón" group-title="tv",Jimmy neutrón
