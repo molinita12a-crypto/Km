@@ -58,7 +58,7 @@ http://149.51.227.140:8080/josuelite1701/lite202607/168155?token=QkdbAhEMFVgSBVI
 #EXTINF:-1 tvg-name="SPACE" group-title="tv",SPACE
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182078.ts
 #EXTINF:-1 tvg-name="TNT" group-title="tv",TNT
-https://dalive.site:443/348145/3MMHv9VWxf/187183
+http://181.78.0.107:8006/play/a076/index.m3u8
 #EXTINF:-1 tvg-name="STAR CHANNEL" group-title="tv",STAR CHANNEL
 https://dalive.site:443/348145/3MMHv9VWxf/187161
 #EXTINF:-1 tvg-name="AYE" group-title="tv",AYE
@@ -74,7 +74,7 @@ http://181.78.0.107:8006/play/a079/index.m3u8
 #EXTINF:-1 tvg-name="AXN" group-title="tv",AXN
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/265725.ts
 #EXTINF:-1 tvg-name="TNT SERIES" group-title="tv",TNT SERIES
-https://dalive.site:443/348145/3MMHv9VWxf/187186
+http://181.78.0.107:8006/play/a07g/index.m3u8
 #EXTINF:-1 tvg-name="PASIONES" group-title="tv",PASIONES
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/266788.ts
 #EXTINF:-1 tvg-name="PARAMOUNT PLUS" group-title="tv",PARAMOUNT PLUS
