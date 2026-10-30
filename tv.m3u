@@ -10,11 +10,11 @@ http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/74287.ts
 #EXTINF:-1 tvg-name="radio pergamino" group-title="tv",radio pergamino
 https://streaming2.locucionar.com/proxy/radiomon?mp=/stream
 #EXTINF:-1 tvg-name="señal Colombia" group-title="tv",señal Colombia
-http://181.78.0.107:8006/play/a0ar/index.m3u8
+https://dalive.site:443/348145/3MMHv9VWxf/439447
 #EXTINF:-1 tvg-name="Telemundo" group-title="tv",Telemundo
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182224.ts
 #EXTINF:-1 tvg-name="LAS ESTRELLAS" group-title="tv",LAS ESTRELLAS
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182207.ts
+https://dalive.site:443/348145/3MMHv9VWxf/107903
 #EXTINF:-1 tvg-name="EL NUEVE" group-title="tv",EL NUEVE
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/74270.ts
 #EXTINF:-1 tvg-name="el garaje TV" group-title="tv",el garaje TV
@@ -58,9 +58,9 @@ http://149.51.227.140:8080/josuelite1701/lite202607/168155?token=QkdbAhEMFVgSBVI
 #EXTINF:-1 tvg-name="SPACE" group-title="tv",SPACE
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182078.ts
 #EXTINF:-1 tvg-name="TNT" group-title="tv",TNT
-https://dalive.site:443/348145/3MMHv9VWxf/187182
+https://dalive.site:443/348145/3MMHv9VWxf/187183
 #EXTINF:-1 tvg-name="STAR CHANNEL" group-title="tv",STAR CHANNEL
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182079.ts
+https://dalive.site:443/348145/3MMHv9VWxf/187161
 #EXTINF:-1 tvg-name="AYE" group-title="tv",AYE
 http://149.51.227.140:8080/josuelite1701/lite202607/167062?token=QkdbAhEMFVgSBAYBVFJRVgdUXQQCWFICUQYGDlYLUFdcVwIGBlUAV1ITThcSEkVVAA5mCFMbClVUVFUAVhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WDAFWDVQfQRINU0AKE1YGU18FBkNPGwRPTVUWDAIJaQBcRw1aABFZDBFbDhwTDVs+AlJdAA1dQw0bAUZOQQxFFBsLCkwJX09ABl4WQlAWUENcFQFSWw1DGxtTCxcNEUQdGwsKTAlfT0ABTxZVXxFcDggVCkMXSkMbG1kXPREARRBLVAVUAEFBWEYHQBwTD1QZOVRfDw1cAkNQXwoRQV8UVxsdRlQKXQoWC0U9QFgGF1tEBQNXWwpVDxtN
 #EXTINF:-1 tvg-name="HBO plus" group-title="tv",HBO plus
@@ -74,7 +74,7 @@ http://181.78.0.107:8006/play/a079/index.m3u8
 #EXTINF:-1 tvg-name="AXN" group-title="tv",AXN
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/265725.ts
 #EXTINF:-1 tvg-name="TNT SERIES" group-title="tv",TNT SERIES
-http://181.78.0.107:8006/play/a07g/index.m3u8
+https://dalive.site:443/348145/3MMHv9VWxf/187186
 #EXTINF:-1 tvg-name="PASIONES" group-title="tv",PASIONES
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/266788.ts
 #EXTINF:-1 tvg-name="PARAMOUNT PLUS" group-title="tv",PARAMOUNT PLUS
@@ -97,8 +97,6 @@ https://dalive.site:443/348145/3MMHv9VWxf/476017
 http://lb268.nubtv.xyz:25461/WFJobG5hOCtUSHh5VVpDQWJmL2tsemtuQ0VtMEFLbjh1aUZXUzNaUWRsT0ljYzhuamdsZjdtTERTMEVzVWJGaVRrVEFvTUczdjhUOTgzc1NOSWxyQlBOVlBnVXovd2RTUnpTOWdCU3BKNmNnRGQ5WDJnNm0xT1JpNEV1MkpkaWN6S2sveXQ1UTI4amZIdDI1eVBvSmdpU0ZFa2Y1dGhjNVFPZ1c4YVo3YU1TeFFsVVN0TDErcTZSWDJxYkxDZGRkbDF6REtGUUt3Q2IyZHVJVmdDQXFaZHFmUFR0TkdISHlSMkxMS1pjUlk5RmFkTmt5cWZxTlp3QTFsVnhHcXltYWRxMFVTS2VTa1VhQnE4aTF4Si9zblpzN2xRMlNNbThhdm94YlBtQmMyU3BQOVB2ZGxDL2t5dE5DVXZscTM2b1YyNWkrYll2TlNuTmZvYVh3T21RRTNRPT0
 #EXTINF:-1 tvg-name="universal channel" group-title="tv",universal channel
 http://181.78.0.107:8006/play/a06y/index.m3u8
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" group-title="tv",DISCOVERY CHANNEL
-http://181.78.0.107:8006/play/a075/index.m3u8
 #EXTINF:-1 tvg-name="los Simpson 24/7" group-title="tv",los Simpson 24/7
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/294195.ts
 #EXTINF:-1 tvg-name="ALF 24/7" group-title="tv",ALF 24/7
