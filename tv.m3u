@@ -13,14 +13,14 @@ https://dalive.site:443/348189/tzTj6Me2wT/272048
 https://streaming2.locucionar.com/proxy/radiomon?mp=/stream
 #EXTINF:-1 tvg-name="señal Colombia" group-title="tv",señal Colombia
 https://dalive.site:443/348145/3MMHv9VWxf/439447
-#EXTINF:-1 tvg-name="el garaje TV" group-title="tv",el garaje TV
-https://dalive.site:443/348189/tzTj6Me2wT/272060
 #EXTINF:-1 tvg-name="Telemundo" group-title="tv",Telemundo
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182224.ts
 #EXTINF:-1 tvg-name="LAS ESTRELLAS" group-title="tv",LAS ESTRELLAS
-https://dalive.site:443/348145/3MMHv9VWxf/107903
+http://181.78.208.254:8080/play/a0f5/index.m3u8
 #EXTINF:-1 tvg-name="EL NUEVE" group-title="tv",EL NUEVE
 http://31.43.191.125:8080/restream/restream/4734
+#EXTINF:-1 tvg-name="el garaje TV" group-title="tv",el garaje TV
+https://dalive.site:443/348189/tzTj6Me2wT/272060
 #EXTINF:-1 tvg-name="TELEFE" group-title="tv",TELEFE
 https://dalive.site:443/348189/tzTj6Me2wT/272042
 #EXTINF:-1 tvg-name="América TV" group-title="tv",América TV
