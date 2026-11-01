@@ -1,28 +1,30 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="TN TODO NOTICIA" group-title="tv",TN TODO NOTICIA
 https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
+#EXTINF:-1 tvg-name="crónica TV" group-title="tv",crónica TV
+https://dalive.site:443/348189/tzTj6Me2wT/272054
 #EXTINF:-1 tvg-name="C5N" group-title="tv",C5N
 https://dalive.site:443/348189/tzTj6Me2wT/272077
 #EXTINF:-1 tvg-name="canal 26" group-title="tv",canal 26
 https://dalive.site:443/348189/tzTj6Me2wT/272037
 #EXTINF:-1 tvg-name="LN" group-title="tv",LN
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/74287.ts
+https://dalive.site:443/348189/tzTj6Me2wT/272048
 #EXTINF:-1 tvg-name="radio pergamino" group-title="tv",radio pergamino
 https://streaming2.locucionar.com/proxy/radiomon?mp=/stream
 #EXTINF:-1 tvg-name="señal Colombia" group-title="tv",señal Colombia
 https://dalive.site:443/348145/3MMHv9VWxf/439447
+#EXTINF:-1 tvg-name="el garaje TV" group-title="tv",el garaje TV
+https://dalive.site:443/348189/tzTj6Me2wT/272060
 #EXTINF:-1 tvg-name="Telemundo" group-title="tv",Telemundo
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182224.ts
 #EXTINF:-1 tvg-name="LAS ESTRELLAS" group-title="tv",LAS ESTRELLAS
 https://dalive.site:443/348145/3MMHv9VWxf/107903
 #EXTINF:-1 tvg-name="EL NUEVE" group-title="tv",EL NUEVE
 http://31.43.191.125:8080/restream/restream/4734
-#EXTINF:-1 tvg-name="el garaje TV" group-title="tv",el garaje TV
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/74283.ts
 #EXTINF:-1 tvg-name="TELEFE" group-title="tv",TELEFE
 https://dalive.site:443/348189/tzTj6Me2wT/272042
 #EXTINF:-1 tvg-name="América TV" group-title="tv",América TV
-https://dalive.site:443/348189/tzTj6Me2wT/415243
+https://dalive.site:443/348189/tzTj6Me2wT/272039
 #EXTINF:-1 tvg-name="EL TRECE" group-title="tv",EL TRECE
 http://31.43.191.125:8080/restream/restream/4729
 #EXTINF:-1 tvg-name="Netflix eventos" group-title="tv",Netflix eventos
@@ -35,8 +37,8 @@ http://31.43.191.125:8080/restream/restream/1308
 http://31.43.191.125:8080/restream/restream/4758
 #EXTINF:-1 tvg-name="ESPN 3" group-title="tv",ESPN 3
 http://31.43.191.125:8080/restream/restream/4759
-#EXTINF:-1 tvg-name="danz f1" group-title="tv",danz f1
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/228381.ts
+#EXTINF:-1 tvg-name="tyc sport" group-title="tv",tyc sport
+https://dalive.site:443/348189/tzTj6Me2wT/272073
 #EXTINF:-1 tvg-name="Fox sport 1" group-title="tv",Fox sport 1
 http://xdplus.site:8880/live/Monica0405/DRRCQ/588159.ts
 #EXTINF:-1 tvg-name="Fox sport 2" group-title="tv",Fox sport 2
