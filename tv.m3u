@@ -46,13 +46,13 @@ http://xdplus.site:8880/live/Monica0405/DRRCQ/588160.ts
 #EXTINF:-1 tvg-name="Fox sport 1" group-title="tv",Fox sport 1
 http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/181919.ts
 #EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="tv",CARTOON NETWORK
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182137.ts
+http://181.78.208.254:8080/play/a0i8/index.m3u8
 #EXTINF:-1 tvg-name="Discovery kids" group-title="tv",Discovery kids
 http://181.78.0.107:8006/play/a086/index.m3u8
 #EXTINF:-1 tvg-name="DISNEY JR" group-title="tv",DISNEY JR
 http://149.51.227.140:8080/josuelite1701/lite202607/167682?token=QkdbAhEMFVgSUlsGVVVWBlIBDQADAAEHV1QGB1cNVQYMBgYBBlNTAwITThcSEkVVAA5mCFMbClVUVFMOVhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WAARRDFEfQRINU0AKE1MAUF4AA1VBFUNSQUQBEA0EWjtdVBJQBlZBWApCDlwdQFoPOVNVDAJXBRUDElVAT0dfF0kTXlcQXw9ORlULREMDQQREDRJYWwBDGxtTCxcNEUQdGwsKTAlfT0ABTxZVXxFcDggVCkMXSkMbG1kXPREARRBLVAVUAEFBWEYHQBwTD1QZOVRfDw1cAkNQXwoRQV8UVxsdRlQKXQoWC0U9QFgGF1tEBgVUUg5YBxtN
-#EXTINF:-1 tvg-name="Disney channel" group-title="tv",Disney channel
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182139.ts
+#EXTINF:-1 tvg-name="nickelodeon" group-title="tv",nickelodeon
+http://181.78.208.254:8080/play/a0jm/index.m3u8
 #EXTINF:-1 tvg-name="CINECANAL" group-title="tv",CINECANAL
 http://149.51.227.140:8080/josuelite1701/lite202607/168155?token=QkdbAhEMFVgSBVIAU1NSCVFUWANWDwVdVAVXUAYJCAEJBlYBV11SUQMTThcSEkVVAA5mCFMbClVUW1QDURUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WAAZUAFwfQRINU0AKXxdZDUoVVRkXXBNZWFw7BgYTXwdcE15XEF8PTkZYDG9VB1gACFMSW0EIQxsbWRcSQV9YEVVdSBsHWhcQBUMHEgsMQA0KGxICDEwPQ0tJRlgNEFoIFRMBQRFWDRENWAwSC0BBEkQbEggQZhNSSkQWBwIIUxYbC0YJRx9BDwVPPVNeDFsEBUNZDg1KQw0bA0ZOQQhZClBFC0s6QwoGRg0MRV0OSA==
 #EXTINF:-1 tvg-name="SPACE" group-title="tv",SPACE
@@ -77,6 +77,8 @@ http://181.78.0.107:8006/play/a0a6/index.m3u8
 http://181.78.0.107:8006/play/a07g/index.m3u8
 #EXTINF:-1 tvg-name="PASIONES" group-title="tv",PASIONES
 http://181.78.0.107:8006/play/a088/index.m3u8
+#EXTINF:-1 tvg-name="TNT novelas" group-title="tv",TNT novelas
+http://181.78.208.254:8080/play/a0fh/index.m3u8
 #EXTINF:-1 tvg-name="PARAMOUNT PLUS" group-title="tv",PARAMOUNT PLUS
 http://149.51.227.140:8080/josuelite1701/lite202607/462206?token=QkdbAhEMFVgSUFYHBVYCBlUAWFUGCAJcBFBTB1ABV1IMUABSAQEEW1QTThcSEkVVAA5mCFMbClBUUVcGUhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WDAJWClMfQRINU0AKE1sMUlMEA0NPGwRPTVUWDAIJaQBcRw1aABFZDBFbDhwTDVs+AlJdAA1dQw0bAUZOQQxFFBsLCkwJX09ABl4WQlAWUENcFQJQUAlDGxtTCxcNEUQdGwsKTAlfT0ABTxZVXxFcDggVCkMXSkMbG1kXPREARRBLVAVUAEFBWEYHQBwTD1QZOVRfDw1cAkNQXwoRQV8UVxsdRlQKXQoWC0U9QFgGF1tEDglSVwFXFUQ=
 #EXTINF:-1 tvg-name="SONY CHANNEL" group-title="tv",SONY CHANNEL
@@ -94,7 +96,7 @@ http://181.78.0.107:8006/play/a07x/index.m3u8
 #EXTINF:-1 tvg-name="history channel" group-title="tv",history channel
 http://181.78.0.107:8006/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-name="NAT GEO" group-title="tv",NAT GEO
-https://dalive.site:443/348189/tzTj6Me2wT/269974
+http://181.78.208.254:8080/play/a0fk/index.m3u8
 #EXTINF:-1 tvg-name="universal channel" group-title="tv",universal channel
 http://181.78.0.107:8006/play/a06y/index.m3u8
 #EXTINF:-1 tvg-name="los Simpson 24/7" group-title="tv",los Simpson 24/7
