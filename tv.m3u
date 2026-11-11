@@ -70,7 +70,7 @@ http://xdplus.site:8880/live/famador/TUWSK/73200.ts
 #EXTINF:-1 tvg-name="HBO 2" group-title="tv",HBO 2
 http://xdplus.site:8880/live/Monica0405/DRRCQ/286151.ts
 #EXTINF:-1 tvg-name="FX" group-title="tv",FX
-http://181.78.0.107:8006/play/a079/index.m3u8
+https://dalive.site:443/348189/tzTj6Me2wT/476007
 #EXTINF:-1 tvg-name="AXN" group-title="tv",AXN
 http://181.78.0.107:8006/play/a0a6/index.m3u8
 #EXTINF:-1 tvg-name="TNT SERIES" group-title="tv",TNT SERIES
@@ -89,6 +89,8 @@ http://181.78.0.107:8006/play/a0ah/index.m3u8
 http://181.78.0.107:8006/play/a06q/index.m3u8
 #EXTINF:-1 tvg-name="WARNER" group-title="tv",WARNER
 http://181.78.0.107:8006/play/a08c/index.m3u8
+#EXTINF:-1 tvg-name="tcm" group-title="tv",tcm
+https://dalive.site:443/348189/tzTj6Me2wT/187200
 #EXTINF:-1 tvg-name="AMC" group-title="tv",AMC
 http://181.78.0.107:8006/play/a085/index.m3u8
 #EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="tv",ANIMAL PLANET
