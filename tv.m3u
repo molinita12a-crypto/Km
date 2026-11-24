@@ -11,10 +11,10 @@ https://dalive.site:443/348189/tzTj6Me2wT/272037
 https://dalive.site:443/348189/tzTj6Me2wT/272048
 #EXTINF:-1 tvg-name="radio pergamino" group-title="tv",radio pergamino
 https://streaming2.locucionar.com/proxy/radiomon?mp=/stream
-#EXTINF:-1 tvg-name="latina TV" group-title="tv",latina TV
-https://dalive.site:443/252525/252525/1585
-#EXTINF:-1 tvg-name="Telemundo" group-title="tv",Telemundo
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182224.ts
+#EXTINF:-1 tvg-name="club Europa" group-title="tv",club Europa
+https://dalive.site:443/348189/tzTj6Me2wT/187237
+#EXTINF:-1 tvg-name="los magníficos" group-title="tv",los magníficos
+https://dalive.site:443/348189/tzTj6Me2wT/462931
 #EXTINF:-1 tvg-name="LAS ESTRELLAS" group-title="tv",LAS ESTRELLAS
 http://181.78.208.254:8080/play/a0f5/index.m3u8
 #EXTINF:-1 tvg-name="EL NUEVE" group-title="tv",EL NUEVE
@@ -34,17 +34,17 @@ https://dalive.site:443/348189/tzTj6Me2wT/243086
 #EXTINF:-1 tvg-name="ESPN 1" group-title="tv",ESPN 1
 http://31.43.191.125:8080/restream/restream/1308
 #EXTINF:-1 tvg-name="ESPN 2" group-title="tv",ESPN 2
-http://31.43.191.125:8080/restream/restream/4758
+https://dalive.site:443/348189/tzTj6Me2wT/316068
 #EXTINF:-1 tvg-name="ESPN 3" group-title="tv",ESPN 3
 http://31.43.191.125:8080/restream/restream/4759
 #EXTINF:-1 tvg-name="tyc sport" group-title="tv",tyc sport
 https://dalive.site:443/348189/tzTj6Me2wT/272073
 #EXTINF:-1 tvg-name="Fox sport 1" group-title="tv",Fox sport 1
-http://xdplus.site:8880/live/Monica0405/DRRCQ/588159.ts
+https://dalive.site:443/348189/tzTj6Me2wT/187336
 #EXTINF:-1 tvg-name="Fox sport 2" group-title="tv",Fox sport 2
-http://xdplus.site:8880/live/Monica0405/DRRCQ/588160.ts
-#EXTINF:-1 tvg-name="Fox sport 1" group-title="tv",Fox sport 1
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/181919.ts
+https://dalive.site:443/348189/tzTj6Me2wT/316068
+#EXTINF:-1 tvg-name="Fox sport 3" group-title="tv",Fox sport 3
+https://dalive.site:443/348189/tzTj6Me2wT/316064
 #EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="tv",CARTOON NETWORK
 http://181.78.208.254:8080/play/a0i8/index.m3u8
 #EXTINF:-1 tvg-name="Discovery kids" group-title="tv",Discovery kids
@@ -54,17 +54,17 @@ http://149.51.227.140:8080/josuelite1701/lite202607/167682?token=QkdbAhEMFVgSUls
 #EXTINF:-1 tvg-name="nickelodeon" group-title="tv",nickelodeon
 http://181.78.208.254:8080/play/a0jm/index.m3u8
 #EXTINF:-1 tvg-name="CINECANAL" group-title="tv",CINECANAL
-http://149.51.227.140:8080/josuelite1701/lite202607/168155?token=QkdbAhEMFVgSBVIAU1NSCVFUWANWDwVdVAVXUAYJCAEJBlYBV11SUQMTThcSEkVVAA5mCFMbClVUW1QDURUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WAAZUAFwfQRINU0AKXxdZDUoVVRkXXBNZWFw7BgYTXwdcE15XEF8PTkZYDG9VB1gACFMSW0EIQxsbWRcSQV9YEVVdSBsHWhcQBUMHEgsMQA0KGxICDEwPQ0tJRlgNEFoIFRMBQRFWDRENWAwSC0BBEkQbEggQZhNSSkQWBwIIUxYbC0YJRx9BDwVPPVNeDFsEBUNZDg1KQw0bA0ZOQQhZClBFC0s6QwoGRg0MRV0OSA==
+https://dalive.site:443/348189/tzTj6Me2wT/187188
 #EXTINF:-1 tvg-name="SPACE" group-title="tv",SPACE
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182078.ts
+https://dalive.site:443/348189/tzTj6Me2wT/187209
 #EXTINF:-1 tvg-name="TNT" group-title="tv",TNT
 http://181.78.0.107:8006/play/a076/index.m3u8
 #EXTINF:-1 tvg-name="STAR CHANNEL" group-title="tv",STAR CHANNEL
 https://dalive.site:443/348145/3MMHv9VWxf/187161
 #EXTINF:-1 tvg-name="AYE" group-title="tv",AYE
-http://149.51.227.140:8080/josuelite1701/lite202607/167062?token=QkdbAhEMFVgSBAYBVFJRVgdUXQQCWFICUQYGDlYLUFdcVwIGBlUAV1ITThcSEkVVAA5mCFMbClVUVFUAVhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WDAFWDVQfQRINU0AKE1YGU18FBkNPGwRPTVUWDAIJaQBcRw1aABFZDBFbDhwTDVs+AlJdAA1dQw0bAUZOQQxFFBsLCkwJX09ABl4WQlAWUENcFQFSWw1DGxtTCxcNEUQdGwsKTAlfT0ABTxZVXxFcDggVCkMXSkMbG1kXPREARRBLVAVUAEFBWEYHQBwTD1QZOVRfDw1cAkNQXwoRQV8UVxsdRlQKXQoWC0U9QFgGF1tEBQNXWwpVDxtN
-#EXTINF:-1 tvg-name="HBO plus" group-title="tv",HBO plus
-http://tv.prestalacuenta.club:2095/live/CristianCastillo9/8TAVXM94/182114.ts
+https://dalive.site:443/348189/tzTj6Me2wT/187156
+#EXTINF:-1 tvg-name="HBO 2" group-title="tv",HBO 2
+https://dalive.site:443/348189/tzTj6Me2wT/420359
 #EXTINF:-1 tvg-name="hbo Xtreme" group-title="tv",hbo Xtreme
 http://xdplus.site:8880/live/famador/TUWSK/73200.ts
 #EXTINF:-1 tvg-name="HBO 2" group-title="tv",HBO 2
@@ -103,3 +103,5 @@ http://181.78.208.254:8080/play/a0fk/index.m3u8
 http://181.78.0.107:8006/play/a06y/index.m3u8
 #EXTINF:-1 tvg-name="los Simpson  24/7" group-title="tv",los Simpson  24/7
 https://dalive.site:443/348189/tzTj6Me2wT/479387
+#EXTINF:-1 tvg-name="alf 24/7" group-title="tv",alf 24/7
+https://dalive.site:443/348189/tzTj6Me2wT/479485
