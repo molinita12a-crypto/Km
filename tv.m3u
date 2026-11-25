@@ -35,18 +35,14 @@ https://dalive.site:443/348189/tzTj6Me2wT/316068
 http://31.43.191.125:8080/restream/restream/4759
 #EXTINF:-1 tvg-name="tyc sport" group-title="tv",tyc sport
 https://dalive.site:443/348189/tzTj6Me2wT/272073
-#EXTINF:-1 tvg-name="Fox sport 1" group-title="tv",Fox sport 1
-https://dalive.site:443/348189/tzTj6Me2wT/187336
 #EXTINF:-1 tvg-name="Fox sport 2" group-title="tv",Fox sport 2
 https://dalive.site:443/348189/tzTj6Me2wT/316068
-#EXTINF:-1 tvg-name="Fox sport 3" group-title="tv",Fox sport 3
-https://dalive.site:443/348189/tzTj6Me2wT/316064
 #EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="tv",CARTOON NETWORK
 http://181.78.208.254:8080/play/a0i8/index.m3u8
 #EXTINF:-1 tvg-name="Discovery kids" group-title="tv",Discovery kids
-http://181.78.0.107:8006/play/a086/index.m3u8
+https://dalive.site:443/348189/tzTj6Me2wT/1819
 #EXTINF:-1 tvg-name="DISNEY JR" group-title="tv",DISNEY JR
-http://149.51.227.140:8080/josuelite1701/lite202607/167682?token=QkdbAhEMFVgSUlsGVVVWBlIBDQADAAEHV1QGB1cNVQYMBgYBBlNTAwITThcSEkVVAA5mCFMbClVUVFMOVhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WAARRDFEfQRINU0AKE1MAUF4AA1VBFUNSQUQBEA0EWjtdVBJQBlZBWApCDlwdQFoPOVNVDAJXBRUDElVAT0dfF0kTXlcQXw9ORlULREMDQQREDRJYWwBDGxtTCxcNEUQdGwsKTAlfT0ABTxZVXxFcDggVCkMXSkMbG1kXPREARRBLVAVUAEFBWEYHQBwTD1QZOVRfDw1cAkNQXwoRQV8UVxsdRlQKXQoWC0U9QFgGF1tEBgVUUg5YBxtN
+https://dalive.site:443/348189/tzTj6Me2wT/1823
 #EXTINF:-1 tvg-name="nickelodeon" group-title="tv",nickelodeon
 http://181.78.208.254:8080/play/a0jm/index.m3u8
 #EXTINF:-1 tvg-name="CINECANAL" group-title="tv",CINECANAL
@@ -54,37 +50,35 @@ https://dalive.site:443/348189/tzTj6Me2wT/187188
 #EXTINF:-1 tvg-name="SPACE" group-title="tv",SPACE
 https://dalive.site:443/348189/tzTj6Me2wT/187209
 #EXTINF:-1 tvg-name="TNT" group-title="tv",TNT
-http://181.78.0.107:8006/play/a076/index.m3u8
+https://dalive.site:443/348189/tzTj6Me2wT/187182
 #EXTINF:-1 tvg-name="STAR CHANNEL" group-title="tv",STAR CHANNEL
 https://dalive.site:443/348145/3MMHv9VWxf/187161
 #EXTINF:-1 tvg-name="AYE" group-title="tv",AYE
 https://dalive.site:443/348189/tzTj6Me2wT/187156
 #EXTINF:-1 tvg-name="HBO 2" group-title="tv",HBO 2
 https://dalive.site:443/348189/tzTj6Me2wT/420359
-#EXTINF:-1 tvg-name="hbo Xtreme" group-title="tv",hbo Xtreme
-http://xdplus.site:8880/live/famador/TUWSK/73200.ts
+#EXTINF:-1 tvg-name="hbo family" group-title="tv",hbo family
+https://dalive.site:443/348189/tzTj6Me2wT/187173
 #EXTINF:-1 tvg-name="HBO 2" group-title="tv",HBO 2
-http://xdplus.site:8880/live/Monica0405/DRRCQ/286151.ts
+https://dalive.site:443/348189/tzTj6Me2wT/187164
 #EXTINF:-1 tvg-name="FX" group-title="tv",FX
 https://dalive.site:443/348189/tzTj6Me2wT/476007
 #EXTINF:-1 tvg-name="AXN" group-title="tv",AXN
-http://181.78.0.107:8006/play/a0a6/index.m3u8
+https://dalive.site:443/348189/tzTj6Me2wT/323627
 #EXTINF:-1 tvg-name="TNT SERIES" group-title="tv",TNT SERIES
 http://167.249.29.108:8000/play/a094/index.m3u8
 #EXTINF:-1 tvg-name="PASIONES" group-title="tv",PASIONES
 http://181.78.0.107:8006/play/a088/index.m3u8
 #EXTINF:-1 tvg-name="TNT novelas" group-title="tv",TNT novelas
 http://181.78.208.254:8080/play/a0fh/index.m3u8
-#EXTINF:-1 tvg-name="PARAMOUNT PLUS" group-title="tv",PARAMOUNT PLUS
-http://149.51.227.140:8080/josuelite1701/lite202607/462206?token=QkdbAhEMFVgSUFYHBVYCBlUAWFUGCAJcBFBTB1ABV1IMUABSAQEEW1QTThcSEkVVAA5mCFMbClBUUVcGUhUTEUoAQTwLABVYEgNQBlNfARJNQU0IWlwSXlNUXQ9WDAJWClMfQRINU0AKE1sMUlMEA0NPGwRPTVUWDAIJaQBcRw1aABFZDBFbDhwTDVs+AlJdAA1dQw0bAUZOQQxFFBsLCkwJX09ABl4WQlAWUENcFQJQUAlDGxtTCxcNEUQdGwsKTAlfT0ABTxZVXxFcDggVCkMXSkMbG1kXPREARRBLVAVUAEFBWEYHQBwTD1QZOVRfDw1cAkNQXwoRQV8UVxsdRlQKXQoWC0U9QFgGF1tEDglSVwFXFUQ=
 #EXTINF:-1 tvg-name="SONY CHANNEL" group-title="tv",SONY CHANNEL
-http://181.78.0.107:8006/play/a0ag/index.m3u8
+https://dalive.site:443/348189/tzTj6Me2wT/187198
 #EXTINF:-1 tvg-name="SONY MOVIE" group-title="tv",SONY MOVIE
-http://181.78.0.107:8006/play/a0ah/index.m3u8
+http://167.249.29.108:8000/play/a08p/index.m3u8
 #EXTINF:-1 tvg-name="cine películas plus" group-title="tv",cine películas plus
 http://181.78.0.107:8006/play/a06q/index.m3u8
 #EXTINF:-1 tvg-name="WARNER" group-title="tv",WARNER
-http://181.78.0.107:8006/play/a08c/index.m3u8
+https://dalive.site:443/348189/tzTj6Me2wT/187195
 #EXTINF:-1 tvg-name="tcm" group-title="tv",tcm
 https://dalive.site:443/348189/tzTj6Me2wT/187200
 #EXTINF:-1 tvg-name="AMC" group-title="tv",AMC
@@ -92,11 +86,11 @@ http://181.78.0.107:8006/play/a085/index.m3u8
 #EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="tv",ANIMAL PLANET
 http://181.78.0.107:8006/play/a07x/index.m3u8
 #EXTINF:-1 tvg-name="history channel" group-title="tv",history channel
-http://181.78.0.107:8006/play/a0a7/index.m3u8
+https://dalive.site:443/348189/tzTj6Me2wT/476017
 #EXTINF:-1 tvg-name="NAT GEO" group-title="tv",NAT GEO
 http://181.78.208.254:8080/play/a0fk/index.m3u8
 #EXTINF:-1 tvg-name="universal channel" group-title="tv",universal channel
-http://181.78.0.107:8006/play/a06y/index.m3u8
+https://dalive.site:443/348189/tzTj6Me2wT/486989
 #EXTINF:-1 tvg-name="los Simpson  24/7" group-title="tv",los Simpson  24/7
 https://dalive.site:443/348189/tzTj6Me2wT/479387
 #EXTINF:-1 tvg-name="alf 24/7" group-title="tv",alf 24/7
@@ -105,3 +99,5 @@ https://dalive.site:443/348189/tzTj6Me2wT/479485
 https://dalive.site:443/348189/tzTj6Me2wT/479406
 #EXTINF:-1 tvg-name="los magníficos" group-title="tv",los magníficos
 https://dalive.site:443/348189/tzTj6Me2wT/462931
+#EXTINF:-1 tvg-name="la niñera" group-title="tv",la niñera
+https://generador.nubservices.com/api/pluto/playlist/6aa960fa5532ad57085cf7e4.m3u8?country=AR&token=6f4f81f717980403115b95675b0ab34470bef2537f8eacbe
