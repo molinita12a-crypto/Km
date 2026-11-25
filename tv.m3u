@@ -68,7 +68,7 @@ https://dalive.site:443/348189/tzTj6Me2wT/323627
 #EXTINF:-1 tvg-name="TNT SERIES" group-title="tv",TNT SERIES
 http://167.249.29.108:8000/play/a094/index.m3u8
 #EXTINF:-1 tvg-name="PASIONES" group-title="tv",PASIONES
-http://181.78.0.107:8006/play/a088/index.m3u8
+http://167.249.29.104:8000/play/a09n/index.m3u8
 #EXTINF:-1 tvg-name="TNT novelas" group-title="tv",TNT novelas
 http://181.78.208.254:8080/play/a0fh/index.m3u8
 #EXTINF:-1 tvg-name="SONY CHANNEL" group-title="tv",SONY CHANNEL
@@ -89,15 +89,21 @@ https://dalive.site:443/348189/tzTj6Me2wT/269978
 https://dalive.site:443/348189/tzTj6Me2wT/476017
 #EXTINF:-1 tvg-name="NAT GEO" group-title="tv",NAT GEO
 http://181.78.208.254:8080/play/a0fk/index.m3u8
-#EXTINF:-1 tvg-name="universal channel" group-title="tv",universal channel
+#EXTINF:-1 tvg-name="universal channel 24/7" group-title="tv",universal channel 24/7
 http://167.249.29.108:8000/play/a08w/index.m3u8
 #EXTINF:-1 tvg-name="los Simpson  24/7" group-title="tv",los Simpson  24/7
 https://dalive.site:443/348189/tzTj6Me2wT/479387
 #EXTINF:-1 tvg-name="alf 24/7" group-title="tv",alf 24/7
 https://dalive.site:443/348189/tzTj6Me2wT/479485
-#EXTINF:-1 tvg-name="Tom y Jerry" group-title="tv",Tom y Jerry
+#EXTINF:-1 tvg-name="Tom y Jerry 24/7" group-title="tv",Tom y Jerry 24/7
 https://dalive.site:443/348189/tzTj6Me2wT/479406
-#EXTINF:-1 tvg-name="los magníficos" group-title="tv",los magníficos
+#EXTINF:-1 tvg-name="los magníficos 24/7" group-title="tv",los magníficos 24/7
 https://dalive.site:443/348189/tzTj6Me2wT/462931
-#EXTINF:-1 tvg-name="la niñera" group-title="tv",la niñera
+#EXTINF:-1 tvg-name="la niñera 24/7" group-title="tv",la niñera 24/7
 https://generador.nubservices.com/api/pluto/playlist/6aa960fa5532ad57085cf7e4.m3u8?country=AR&token=6f4f81f717980403115b95675b0ab34470bef2537f8eacbe
+#EXTINF:-1 tvg-name="Chespirito 24/7" group-title="tv",Chespirito 24/7
+https://dalive.site:443/348189/tzTj6Me2wT/462925
+#EXTINF:-1 tvg-name="soy 101 24/7" group-title="tv",soy 101 24/7
+https://dalive.site:443/348189/tzTj6Me2wT/479472
+#EXTINF:-1 tvg-name="el príncipe del rap 24/7" group-title="tv",el príncipe del rap 24/7
+https://dalive.site:443/348189/tzTj6Me2wT/479430
