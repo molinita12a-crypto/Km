@@ -24,7 +24,7 @@ http://31.43.191.125:8080/restream/restream/4807
 #EXTINF:-1 tvg-name="América TV" group-title="tv",América TV
 https://dalive.site:443/348189/tzTj6Me2wT/272039
 #EXTINF:-1 tvg-name="EL TRECE" group-title="tv",EL TRECE
-https://dalive.site:443/348189/tzTj6Me2wT/272044
+http://167.249.29.104:8000/play/a089/index.m3u8
 #EXTINF:-1 tvg-name="ESPN premium" group-title="tv",ESPN premium
 https://dalive.site:443/348189/tzTj6Me2wT/243086
 #EXTINF:-1 tvg-name="ESPN 1" group-title="tv",ESPN 1
