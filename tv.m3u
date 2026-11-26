@@ -45,14 +45,16 @@ https://dalive.site:443/348189/tzTj6Me2wT/1819
 https://dalive.site:443/348189/tzTj6Me2wT/1823
 #EXTINF:-1 tvg-name="nickelodeon" group-title="tv",nickelodeon
 http://181.78.208.254:8080/play/a0jm/index.m3u8
-#EXTINF:-1 tvg-name="CINECANAL" group-title="tv",CINECANAL
-https://dalive.site:443/348189/tzTj6Me2wT/187188
-#EXTINF:-1 tvg-name="SPACE" group-title="tv",SPACE
-https://dalive.site:443/348189/tzTj6Me2wT/187209
 #EXTINF:-1 tvg-name="TNT" group-title="tv",TNT
 https://dalive.site:443/348189/tzTj6Me2wT/187182
+#EXTINF:-1 tvg-name="CINECANAL" group-title="tv",CINECANAL
+https://dalive.site:443/348189/tzTj6Me2wT/187188
+#EXTINF:-1 tvg-name="Golden premier" group-title="tv",Golden premier
+https://dalive.site:443/348189/tzTj6Me2wT/187222
+#EXTINF:-1 tvg-name="SPACE" group-title="tv",SPACE
+https://dalive.site:443/348189/tzTj6Me2wT/187209
 #EXTINF:-1 tvg-name="STAR CHANNEL" group-title="tv",STAR CHANNEL
-https://dalive.site:443/348145/3MMHv9VWxf/187161
+http://lb281.nubtv.xyz:25461/WFJobG5hOCtUSHh5VVpDQWJmL2tsemtuQ0VtMEFLbjh1aUZXUzNaUWRsTk9BRnkySGhNMzhreTlWL2ZMWE1IU1ROV1M0cVJBUVBheVhUUFFwdE03cXE1UEFBWDkzcEtRaktNWURtblNOVWRXOVhyMnFWVFlmaWZ0bjBMVDl3QzhQditGcjB5T1NEREdETys0ME1BT1BWQ213anJLMW51RVdiZi91Rkx1Y3NmSlZwL0V1VXliU0E5TnNuUlVhMndDZWJINHNqcWlLSTZHbUZ0QUFGelJvZFNXK080dGMrK2g3RXRvRHJSeWNqSnRybGxpTTJBY2VOOFZ4OHNqQ2pSQ25ZRHJKakVJSEMzNy9yWVZiaUQrc1R0K1ZaTnB4Y2cyWkErZjZtdVYvNk9TWDRYaXdwNldpV3FtQ0s2aXR1N011eE9uU0RONTl3TElmTVRBcEkydFhBPT0
 #EXTINF:-1 tvg-name="AYE" group-title="tv",AYE
 https://dalive.site:443/348189/tzTj6Me2wT/187156
 #EXTINF:-1 tvg-name="HBO 2" group-title="tv",HBO 2
@@ -62,7 +64,7 @@ https://dalive.site:443/348189/tzTj6Me2wT/187173
 #EXTINF:-1 tvg-name="HBO 2" group-title="tv",HBO 2
 https://dalive.site:443/348189/tzTj6Me2wT/187164
 #EXTINF:-1 tvg-name="FX" group-title="tv",FX
-https://dalive.site:443/348189/tzTj6Me2wT/476007
+http://167.249.29.108:8000/play/a07u/index.m3u8
 #EXTINF:-1 tvg-name="AXN" group-title="tv",AXN
 https://dalive.site:443/348189/tzTj6Me2wT/323627
 #EXTINF:-1 tvg-name="TNT SERIES" group-title="tv",TNT SERIES
@@ -79,8 +81,6 @@ http://167.249.29.108:8000/play/a08p/index.m3u8
 http://181.78.0.107:8006/play/a06q/index.m3u8
 #EXTINF:-1 tvg-name="WARNER" group-title="tv",WARNER
 https://dalive.site:443/348189/tzTj6Me2wT/187195
-#EXTINF:-1 tvg-name="tcm" group-title="tv",tcm
-https://dalive.site:443/348189/tzTj6Me2wT/187200
 #EXTINF:-1 tvg-name="AMC" group-title="tv",AMC
 http://167.249.29.104:8000/play/a093/index.m3u8
 #EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="tv",ANIMAL PLANET
