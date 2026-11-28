@@ -5,12 +5,12 @@ https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index.m3u8
 https://dalive.site:443/348189/tzTj6Me2wT/272055
 #EXTINF:-1 tvg-name="C5N" group-title="tv",C5N
 https://dalive.site:443/348189/tzTj6Me2wT/272077
+#EXTINF:-1 tvg-name="la nación" group-title="tv",la nación
+https://locale1.miotv.cc:8443/WFJobG5hOCtUSHh5VVpDQWJmL2tsemtuQ0VtMEFLbjh1aUZXUzNaUWRsTk9BRnkySGhNMzhreTlWL2ZMWE1IU1ROV1M0cVJBUVBheVhUUFFwdE03cXE1UEFBWDkzcEtRaktNWURtblNOVWRXOVhyMnFWVFlmaWZ0bjBMVDl3QzhQditGcjB5T1NEREdETys0ME1BT1BVbVR5a1IzZis4c1FTcUg0aW5NOHR3OG5DRG93eEJaa0RaZFBmOUVSaklzbHI3c2tSMGNUdU1nTnFrMUx1NnMxVlEvRFdsK2pCMlg5aFJDUUppbitHTElEZU83T2s1TERFWkpBWkYvZjB0alZScUYwdi9MV2paMHBYN09FS05kYThwZVlNN3JSb296RWh6dEJmWGdHaWorZndaVVBoRHJIdjVFd3JjSThueTlvOWk2SU9rb2NPZWNaVSs2YlptUm9BPT0
 #EXTINF:-1 tvg-name="canal 26" group-title="tv",canal 26
 https://dalive.site:443/348189/tzTj6Me2wT/272058
-#EXTINF:-1 tvg-name="LN" group-title="tv",LN
-https://dalive.site:443/348189/tzTj6Me2wT/272048
-#EXTINF:-1 tvg-name="Azteca TV" group-title="tv",Azteca TV
-https://dalive.site:443/348189/tzTj6Me2wT/408476
+#EXTINF:-1 tvg-name="Teletur" group-title="tv",Teletur
+https://cdnfox.hostlagarto.com/teleturtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="club Europa" group-title="tv",club Europa
 https://dalive.site:443/348189/tzTj6Me2wT/187237
 #EXTINF:-1 tvg-name="LAS ESTRELLAS" group-title="tv",LAS ESTRELLAS
@@ -27,8 +27,6 @@ https://dalive.site:443/348189/tzTj6Me2wT/272039
 http://167.249.29.104:8000/play/a089/index.m3u8
 #EXTINF:-1 tvg-name="ESPN premium" group-title="tv",ESPN premium
 https://dalive.site:443/348189/tzTj6Me2wT/243086
-#EXTINF:-1 tvg-name="ESPN 1" group-title="tv",ESPN 1
-https://dalive.site:443/348189/tzTj6Me2wT/369708
 #EXTINF:-1 tvg-name="ESPN 2" group-title="tv",ESPN 2
 https://dalive.site:443/348189/tzTj6Me2wT/316068
 #EXTINF:-1 tvg-name="ESPN 3" group-title="tv",ESPN 3
@@ -97,6 +95,8 @@ https://dalive.site:443/348189/tzTj6Me2wT/479470
 https://dalive.site:443/348189/tzTj6Me2wT/479406
 #EXTINF:-1 tvg-name="los magníficos 24/7" group-title="tv",los magníficos 24/7
 https://dalive.site:443/348189/tzTj6Me2wT/462931
+#EXTINF:-1 tvg-name="cn23 HD" group-title="tv",cn23 HD
+https://dalive.site:443/348189/tzTj6Me2wT/272056
 #EXTINF:-1 tvg-name="la niñera 24/7" group-title="tv",la niñera 24/7
 https://generador.nubservices.com/api/pluto/playlist/6aa960fa5532ad57085cf7e4.m3u8?country=AR&token=6f4f81f717980403115b95675b0ab34470bef2537f8eacbe
 #EXTINF:-1 tvg-name="Chespirito 24/7" group-title="tv",Chespirito 24/7
